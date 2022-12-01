@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="763e1305-6238-417f-a45f-b6f4a38fb5c7" name="Changes" comment="" />
+    <list default="true" id="763e1305-6238-417f-a45f-b6f4a38fb5c7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/source/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/source/favicon.ico" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,22 +112,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;//wsl$/Ubuntu/home/ariaieboy/code/blog/source/_posts&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;\\\\wsl$\\Ubuntu\\home\\ariaieboy\\code\\blog\\node_modules\\prettier&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "//wsl$/Ubuntu/home/ariaieboy/code/blog/source",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "\\\\wsl$\\Ubuntu\\home\\ariaieboy\\code\\blog\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="\\wsl$\Ubuntu\home\ariaieboy\code\blog\source\_posts" />
@@ -160,6 +162,7 @@
       <workItem from="1669933992790" duration="622000" />
       <workItem from="1669934635781" duration="40000" />
       <workItem from="1669935124155" duration="790000" />
+      <workItem from="1669936161171" duration="299000" />
     </task>
     <task id="LOCAL‎−۰۰۰۰۱" summary="install jigsaw">
       <created>1669856936906</created>
@@ -341,7 +344,25 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۳۰" />
       <updated>1669935931737</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL‎−۰۰۰۳۱" summary="remove newsletter form from category">
+      <created>1669936284851</created>
+      <option name="number" value="LOCAL‎−۰۰۰۳۱" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۳۱" />
+      <updated>1669936284851</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۳۲" summary="fix category ui">
+      <created>1669936359728</created>
+      <option name="number" value="LOCAL‎−۰۰۰۳۲" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۳۲" />
+      <updated>1669936359728</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۳۳" summary="change favicon">
+      <created>1669936464121</created>
+      <option name="number" value="LOCAL‎−۰۰۰۳۳" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۳۳" />
+      <updated>1669936464121</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -350,8 +371,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="add atlas js" />
-    <MESSAGE value="fixed infinite loop tailwindcss" />
     <MESSAGE value="finally fixed infinit loop ?" />
     <MESSAGE value="fixed home page" />
     <MESSAGE value="make copyright dynamic" />
@@ -375,7 +394,9 @@
     <MESSAGE value="add contact page" />
     <MESSAGE value="make say hello target blank" />
     <MESSAGE value="add scheduler for pr merge" />
-    <option name="LAST_COMMIT_MESSAGE" value="add scheduler for pr merge" />
+    <MESSAGE value="remove newsletter form from category" />
+    <MESSAGE value="fix category ui" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix category ui" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
