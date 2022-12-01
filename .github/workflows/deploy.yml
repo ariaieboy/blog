@@ -6,7 +6,7 @@ on:
       - main
 jobs:
   build-and-deploy:
-    runs-on: composite
+    runs-on: ubuntu
     steps:
       # Checking out to the correct repo is required
       - name: Checkout Repository
