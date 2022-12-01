@@ -159,7 +159,7 @@
       <workItem from="1669919722348" duration="13840000" />
       <workItem from="1669933992790" duration="622000" />
       <workItem from="1669934635781" duration="40000" />
-      <workItem from="1669935124155" duration="651000" />
+      <workItem from="1669935124155" duration="790000" />
     </task>
     <task id="LOCAL‎−۰۰۰۰۱" summary="install jigsaw">
       <created>1669856936906</created>
@@ -335,7 +335,13 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۲۹" />
       <updated>1669935700854</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL‎−۰۰۰۳۰" summary="add scheduler for pr merge">
+      <created>1669935931737</created>
+      <option name="number" value="LOCAL‎−۰۰۰۳۰" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۳۰" />
+      <updated>1669935931737</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -344,7 +350,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="add atlas css" />
     <MESSAGE value="add atlas js" />
     <MESSAGE value="fixed infinite loop tailwindcss" />
     <MESSAGE value="finally fixed infinit loop ?" />
@@ -369,7 +374,8 @@
     <MESSAGE value="fix seo description" />
     <MESSAGE value="add contact page" />
     <MESSAGE value="make say hello target blank" />
-    <option name="LAST_COMMIT_MESSAGE" value="make say hello target blank" />
+    <MESSAGE value="add scheduler for pr merge" />
+    <option name="LAST_COMMIT_MESSAGE" value="add scheduler for pr merge" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
