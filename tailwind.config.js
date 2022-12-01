@@ -1,16 +1,14 @@
-const defaultTheme = require("tailwindcss/defaultTheme");
+const defaults = require("tailwindcss/defaultTheme");
 
 module.exports = {
+
     content: [
         'source/**/*.html',
         'source/**/*.md',
         'source/**/*.js',
         'source/**/*.php',
-        'source/**/*.blade.php',
         'source/**/*.vue',
     ],
-    safelist: ["dark"],
-    darkMode: "class",
     theme: {
         fontFamily: {
             body: ["Poppins", "sans-serif"],
@@ -18,7 +16,7 @@ module.exports = {
 
         screens: {
             xs: "375px",
-            ...defaultTheme.screens,
+            ...defaults.screens,
         },
 
         colors: {

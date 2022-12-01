@@ -5,9 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="763e1305-6238-417f-a45f-b6f4a38fb5c7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/blog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/blog.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/blade.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/blog.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/laravel-idea-personal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/laravel-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/postcss.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_assets/css/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_assets/css/blog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_assets/css/mailchimp.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/source/_assets/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/_posts/getting-started.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/getting-started.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,10 +94,10 @@
       <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
       <path value="$PROJECT_DIR$/vendor/symfony/finder" />
       <path value="$PROJECT_DIR$/vendor/tightenco/jigsaw" />
-      <path value="$PROJECT_DIR$/vendor/tightenco/jigsaw-blog-template" />
       <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
       <path value="$PROJECT_DIR$/vendor/symfony/translation" />
       <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/laravel/sail" />
     </include_path>
   </component>
   <component name="ProjectId" id="2II6hrD5sgPasL8XNLb5rkJLA9V" />
@@ -100,10 +116,16 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "\\\\wsl$\\Ubuntu\\home\\ariaieboy\\code\\blog\\node_modules\\prettier",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="\\wsl$\Ubuntu\home\ariaieboy\code\blog" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -121,6 +143,7 @@
       <workItem from="1669857498267" duration="65000" />
       <workItem from="1669857573753" duration="49000" />
       <workItem from="1669857633381" duration="1063000" />
+      <workItem from="1669903410488" duration="3439000" />
     </task>
     <task id="LOCAL‎−۰۰۰۰۱" summary="install jigsaw">
       <created>1669856936906</created>
@@ -128,7 +151,13 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۰۱" />
       <updated>1669856936906</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL‎−۰۰۰۰۲" summary="addbasic atlas theme assets">
+      <created>1669903674775</created>
+      <option name="number" value="LOCAL‎−۰۰۰۰۲" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۰۲" />
+      <updated>1669903674775</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +165,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="install jigsaw" />
-    <option name="LAST_COMMIT_MESSAGE" value="install jigsaw" />
+    <MESSAGE value="addbasic atlas theme assets" />
+    <option name="LAST_COMMIT_MESSAGE" value="addbasic atlas theme assets" />
   </component>
 </project>
