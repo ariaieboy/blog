@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="763e1305-6238-417f-a45f-b6f4a38fb5c7" name="Changes" comment="" />
+    <list default="true" id="763e1305-6238-417f-a45f-b6f4a38fb5c7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/config.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -159,6 +161,7 @@
       <workItem from="1669919722348" duration="13840000" />
       <workItem from="1669933992790" duration="622000" />
       <workItem from="1669934635781" duration="40000" />
+      <workItem from="1669935124155" duration="328000" />
     </task>
     <task id="LOCAL‎−۰۰۰۰۱" summary="install jigsaw">
       <created>1669856936906</created>
@@ -304,7 +307,19 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۲۴" />
       <updated>1669934650811</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL‎−۰۰۰۲۵" summary="fix docker file">
+      <created>1669935265250</created>
+      <option name="number" value="LOCAL‎−۰۰۰۲۵" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۲۵" />
+      <updated>1669935265250</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۲۶" summary="add blog url for sitemap">
+      <created>1669935382683</created>
+      <option name="number" value="LOCAL‎−۰۰۰۲۶" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۲۶" />
+      <updated>1669935382683</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -336,7 +351,9 @@
     <MESSAGE value="add workflows" />
     <MESSAGE value="change runner" />
     <MESSAGE value="run on ubuntu latest" />
-    <option name="LAST_COMMIT_MESSAGE" value="run on ubuntu latest" />
+    <MESSAGE value="fix docker file" />
+    <MESSAGE value="add blog url for sitemap" />
+    <option name="LAST_COMMIT_MESSAGE" value="add blog url for sitemap" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
