@@ -1,7 +1,7 @@
 const defaults = require("tailwindcss/defaultTheme");
 
 module.exports = {
-
+    darkMode: "class",
     content: [
         'source/_assets/*.{html,md,js,blade.php,vue}',
         'source/_categories/*.{html,md,js,blade.php,vue}',
@@ -27,7 +27,7 @@ module.exports = {
 
         colors: {
             transparent: "transparent",
-            primary: "#072344",
+            primary: "#2C3E50",
             secondary: "#00aaa1",
             "green-light": "#cceeec",
             green: "#007c85",

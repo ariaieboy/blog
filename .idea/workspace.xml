@@ -4,21 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="763e1305-6238-417f-a45f-b6f4a38fb5c7" name="Changes" comment="finally fixed infinit loop ?">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="763e1305-6238-417f-a45f-b6f4a38fb5c7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/source/_assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/source/_assets/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/_layouts/main.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/source/_layouts/main.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/assets/images/jigsaw.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/assets/img/about.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/assets/img/logo-large.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/assets/img/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/assets/img/magnifying-glass.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/assets/img/newsletter.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/assets/img/post-cover-image-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/assets/img/post-cover-image-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/source/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/source/index.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +91,9 @@
     </include_path>
   </component>
   <component name="ProjectId" id="2II6hrD5sgPasL8XNLb5rkJLA9V" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -106,7 +103,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "//wsl$/Ubuntu/home/ariaieboy/code/blog",
+    "last_opened_file_path": "//wsl$/Ubuntu/home/ariaieboy/code/blog/source/assets/img",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -119,6 +116,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="\\wsl$\Ubuntu\home\ariaieboy\code\blog\source\assets\img" />
+      <recent name="\\wsl$\Ubuntu\home\ariaieboy\code\blog\source" />
       <recent name="\\wsl$\Ubuntu\home\ariaieboy\code\blog" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -142,7 +141,8 @@
       <workItem from="1669857498267" duration="65000" />
       <workItem from="1669857573753" duration="49000" />
       <workItem from="1669857633381" duration="1063000" />
-      <workItem from="1669903410488" duration="6466000" />
+      <workItem from="1669903410488" duration="6948000" />
+      <workItem from="1669919722348" duration="4119000" />
     </task>
     <task id="LOCAL‎−۰۰۰۰۱" summary="install jigsaw">
       <created>1669856936906</created>
@@ -180,7 +180,13 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۰۶" />
       <updated>1669908300341</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL‎−۰۰۰۰۷" summary="finally fixed infinit loop ?">
+      <created>1669910017564</created>
+      <option name="number" value="LOCAL‎−۰۰۰۰۷" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۰۷" />
+      <updated>1669910017564</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,7 +200,8 @@
     <MESSAGE value="add atlas css" />
     <MESSAGE value="add atlas js" />
     <MESSAGE value="fixed infinite loop tailwindcss" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed infinite loop tailwindcss" />
+    <MESSAGE value="finally fixed infinit loop ?" />
+    <option name="LAST_COMMIT_MESSAGE" value="finally fixed infinit loop ?" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
