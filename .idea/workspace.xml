@@ -158,6 +158,7 @@
       <workItem from="1669903410488" duration="6948000" />
       <workItem from="1669919722348" duration="13840000" />
       <workItem from="1669933992790" duration="622000" />
+      <workItem from="1669934635781" duration="40000" />
     </task>
     <task id="LOCAL‎−۰۰۰۰۱" summary="install jigsaw">
       <created>1669856936906</created>
@@ -297,7 +298,13 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۲۳" />
       <updated>1669934602738</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL‎−۰۰۰۲۴" summary="run on ubuntu latest">
+      <created>1669934650811</created>
+      <option name="number" value="LOCAL‎−۰۰۰۲۴" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۲۴" />
+      <updated>1669934650811</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -328,7 +335,8 @@
     <MESSAGE value="first post" />
     <MESSAGE value="add workflows" />
     <MESSAGE value="change runner" />
-    <option name="LAST_COMMIT_MESSAGE" value="change runner" />
+    <MESSAGE value="run on ubuntu latest" />
+    <option name="LAST_COMMIT_MESSAGE" value="run on ubuntu latest" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
