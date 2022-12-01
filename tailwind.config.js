@@ -3,11 +3,7 @@ const defaults = require("tailwindcss/defaultTheme");
 module.exports = {
 
     content: [
-        'source/**/*.html',
-        'source/**/*.md',
-        'source/**/*.js',
-        'source/**/*.php',
-        'source/**/*.vue',
+        'source/**/*.{html,md,js,blade.php,vue}',
     ],
     theme: {
         fontFamily: {

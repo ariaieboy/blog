@@ -25,7 +25,6 @@ new Vue({
         Search,
     },
 }).$mount('#vue-search');
-
 function global() {
     return {
         isMobileMenuOpen: false,
