@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="763e1305-6238-417f-a45f-b6f4a38fb5c7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/config.php" afterDir="false" />
-    </list>
+    <list default="true" id="763e1305-6238-417f-a45f-b6f4a38fb5c7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -161,7 +159,7 @@
       <workItem from="1669919722348" duration="13840000" />
       <workItem from="1669933992790" duration="622000" />
       <workItem from="1669934635781" duration="40000" />
-      <workItem from="1669935124155" duration="328000" />
+      <workItem from="1669935124155" duration="651000" />
     </task>
     <task id="LOCAL‎−۰۰۰۰۱" summary="install jigsaw">
       <created>1669856936906</created>
@@ -319,7 +317,25 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۲۶" />
       <updated>1669935382683</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL‎−۰۰۰۲۷" summary="fix seo description">
+      <created>1669935495694</created>
+      <option name="number" value="LOCAL‎−۰۰۰۲۷" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۲۷" />
+      <updated>1669935495694</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۲۸" summary="add contact page">
+      <created>1669935655361</created>
+      <option name="number" value="LOCAL‎−۰۰۰۲۸" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۲۸" />
+      <updated>1669935655361</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۲۹" summary="make say hello target blank">
+      <created>1669935700854</created>
+      <option name="number" value="LOCAL‎−۰۰۰۲۹" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۲۹" />
+      <updated>1669935700854</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -328,9 +344,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="install jigsaw" />
-    <MESSAGE value="addbasic atlas theme assets" />
-    <MESSAGE value="update to tailwind 3" />
     <MESSAGE value="add atlas css" />
     <MESSAGE value="add atlas js" />
     <MESSAGE value="fixed infinite loop tailwindcss" />
@@ -353,7 +366,10 @@
     <MESSAGE value="run on ubuntu latest" />
     <MESSAGE value="fix docker file" />
     <MESSAGE value="add blog url for sitemap" />
-    <option name="LAST_COMMIT_MESSAGE" value="add blog url for sitemap" />
+    <MESSAGE value="fix seo description" />
+    <MESSAGE value="add contact page" />
+    <MESSAGE value="make say hello target blank" />
+    <option name="LAST_COMMIT_MESSAGE" value="make say hello target blank" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
