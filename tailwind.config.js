@@ -14,6 +14,7 @@ module.exports = {
         'source/blog.blade.php',
         'source/contact.blade.php',
         'source/index.blade.php',
+        'source/uses.blade.php',
     ],
     theme: {
         fontFamily: {

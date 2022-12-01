@@ -6,8 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="763e1305-6238-417f-a45f-b6f4a38fb5c7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/about.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/blog.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/source/blog.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_layouts/post.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/source/_layouts/post.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +106,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "prettierjs.PrettierConfiguration.Package": "\\\\wsl$\\Ubuntu\\home\\ariaieboy\\code\\blog\\node_modules\\prettier",
-    "settings.editor.selected.configurable": "preferences.sourceCode",
+    "settings.editor.selected.configurable": "watcher.settings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -137,7 +138,7 @@
       <workItem from="1669857573753" duration="49000" />
       <workItem from="1669857633381" duration="1063000" />
       <workItem from="1669903410488" duration="6948000" />
-      <workItem from="1669919722348" duration="7252000" />
+      <workItem from="1669919722348" duration="8555000" />
     </task>
     <task id="LOCAL‎−۰۰۰۰۱" summary="install jigsaw">
       <created>1669856936906</created>
@@ -205,7 +206,13 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۱۱" />
       <updated>1669926383551</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL‎−۰۰۰۱۲" summary="fixed the post page">
+      <created>1669927177414</created>
+      <option name="number" value="LOCAL‎−۰۰۰۱۲" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۱۲" />
+      <updated>1669927177414</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,6 +220,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="install jigsaw" />
     <MESSAGE value="addbasic atlas theme assets" />
     <MESSAGE value="update to tailwind 3" />
@@ -225,9 +233,6 @@
     <MESSAGE value="fixed blog page" />
     <MESSAGE value="fixed the post page" />
     <option name="LAST_COMMIT_MESSAGE" value="fixed the post page" />
-    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

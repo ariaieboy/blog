@@ -33,7 +33,7 @@
             </div>
         </div>
         <div
-            class="prose prose max-w-none border-b border-grey-lighter py-8 dark:prose-dark sm:py-12"
+            class="prose max-w-none border-b border-grey-lighter py-8 dark:prose-dark sm:py-12"
         >
             @yield('content')
         </div>
