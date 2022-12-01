@@ -7,7 +7,6 @@ html {
     @apply font-body antialiased;
 }
 
-
 @tailwind utilities;
 
 .container {
@@ -43,4 +42,9 @@ html {
     @apply mt-8 mb-0 inline-block border border-blue-dark px-5 py-2 font-body font-semibold text-blue-dark no-underline transition-colors hover:bg-primary hover:text-white sm:mb-4;
 }
 
+}
+@layer components {
+    code{
+        @apply bg-blue-light p-px;
+    }
 }

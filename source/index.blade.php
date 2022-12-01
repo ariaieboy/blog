@@ -91,6 +91,7 @@
 
                         <a
                             href="https://rakolo.com"
+                            target="_blank"
                             class="mb-6 flex items-center justify-between border border-grey-lighter px-4 py-4 sm:px-6"
                         >
         <span class="w-9/10 pr-8">
@@ -109,6 +110,7 @@
                         </a>
 
                         <a
+                                target="_blank"
                             href="https://donateon.ir"
                             class="mb-6 flex items-center justify-between border border-grey-lighter px-4 py-4 sm:px-6"
                         >
@@ -129,6 +131,7 @@
 
                         <a
                             href="https://dir.bz"
+                            target="_blank"
                             class="mb-6 flex items-center justify-between border border-grey-lighter px-4 py-4 sm:px-6"
                         >
         <span class="w-9/10 pr-8">
@@ -148,6 +151,7 @@
 
                         <a
                             href="https://github.com/ariaieboy"
+                            target="_blank"
                             class="mb-6 flex items-center justify-between border border-grey-lighter px-4 py-4 sm:px-6"
                         >
         <span class="w-9/10 pr-8">

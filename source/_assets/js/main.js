@@ -2,7 +2,7 @@ window.axios = require('axios');
 import Vue from 'vue';
 import Search from './components/Search.vue';
 import hljs from 'highlight.js/lib/core';
-import Alpine from 'alpinejs'
+import Alpine from 'alpinejs';
 
 window.Alpine = Alpine;
 Alpine.data('global', () => ({
@@ -46,6 +46,7 @@ hljs.registerLanguage('markdown', require('highlight.js/lib/languages/markdown')
 hljs.registerLanguage('php', require('highlight.js/lib/languages/php'));
 hljs.registerLanguage('scss', require('highlight.js/lib/languages/scss'));
 hljs.registerLanguage('yaml', require('highlight.js/lib/languages/yaml'));
+hljs.registerLanguage('dockerfile', require('highlight.js/lib/languages/dockerfile'));
 
 document.querySelectorAll('pre code').forEach((block) => {
     hljs.highlightBlock(block);
