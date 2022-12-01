@@ -10,15 +10,15 @@
             @if ($page->categories)
                 @foreach ($page->categories as $i => $category)
                     <a
-                        href="{{ '/blog/categories/' . $category }}"
-                        title="View posts in {{ $category }}"
-                        class="mb-4 inline-block rounded-full bg-green-light px-2 py-1 font-body text-sm text-green"
+                            href="{{ '/blog/categories/' . $category }}"
+                            title="View posts in {{ $category }}"
+                            class="mb-4 inline-block rounded-full bg-green-light px-2 py-1 font-body text-sm text-green"
                     >{{ $category }}</a
                     >
                 @endforeach
             @endif
             <h2
-                class="block font-body text-3xl font-semibold leading-tight text-primary dark:text-white sm:text-4xl md:text-5xl"
+                    class="block font-body text-3xl font-semibold leading-tight text-primary dark:text-white sm:text-4xl md:text-5xl"
             >
                 {{ $page->title }}
             </h2>
@@ -28,12 +28,12 @@
                 </p>
                 <span class="vdark:text-white font-body text-grey">//</span>
                 <p class="pl-2 font-body font-light text-primary dark:text-white">
-                    4 min read
+                    {{$page->estimated_reading_time}} read
                 </p>
             </div>
         </div>
         <div
-            class="prose max-w-none border-b border-grey-lighter py-8 dark:prose-dark sm:py-12"
+                class="prose max-w-none border-b border-grey-lighter py-8 dark:prose-dark sm:py-12"
         >
             @yield('content')
         </div>
@@ -51,7 +51,8 @@
 
         <div>
             @if ($previous = $page->getPrevious())
-                <a href="{{ $previous->getUrl() }}" title="Newer Post: {{ $previous->title }}" class="flex items-center">
+                <a href="{{ $previous->getUrl() }}" title="Newer Post: {{ $previous->title }}"
+                   class="flex items-center">
                     <span>{{ $previous->title }}</span>
                     <img src="/assets/img/long-arrow-right.png" class="ml-1" alt="arrow right">
                 </a>

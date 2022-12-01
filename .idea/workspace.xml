@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="763e1305-6238-417f-a45f-b6f4a38fb5c7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/config.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_layouts/post.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/source/_layouts/post.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
-    </list>
+    <list default="true" id="763e1305-6238-417f-a45f-b6f4a38fb5c7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -138,7 +133,7 @@
       <workItem from="1669857573753" duration="49000" />
       <workItem from="1669857633381" duration="1063000" />
       <workItem from="1669903410488" duration="6948000" />
-      <workItem from="1669919722348" duration="8555000" />
+      <workItem from="1669919722348" duration="8851000" />
     </task>
     <task id="LOCAL‎−۰۰۰۰۱" summary="install jigsaw">
       <created>1669856936906</created>
@@ -212,7 +207,19 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۱۲" />
       <updated>1669927177414</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL‎−۰۰۰۱۳" summary="added uses page">
+      <created>1669928487120</created>
+      <option name="number" value="LOCAL‎−۰۰۰۱۳" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۱۳" />
+      <updated>1669928487120</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۱۴" summary="remove extra file">
+      <created>1669928516055</created>
+      <option name="number" value="LOCAL‎−۰۰۰۱۴" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۱۴" />
+      <updated>1669928516055</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,7 +239,9 @@
     <MESSAGE value="make copyright dynamic" />
     <MESSAGE value="fixed blog page" />
     <MESSAGE value="fixed the post page" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed the post page" />
+    <MESSAGE value="added uses page" />
+    <MESSAGE value="remove extra file" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove extra file" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
