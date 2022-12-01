@@ -3,7 +3,17 @@ const defaults = require("tailwindcss/defaultTheme");
 module.exports = {
 
     content: [
-        'source/**/*.{html,md,js,blade.php,vue}',
+        'source/_assets/*.{html,md,js,blade.php,vue}',
+        'source/_categories/*.{html,md,js,blade.php,vue}',
+        'source/_components/*.{html,md,js,blade.php,vue}',
+        'source/_layouts/*.{html,md,js,blade.php,vue}',
+        'source/_nav/*.{html,md,js,blade.php,vue}',
+        'source/_posts/*.{html,md,js,blade.php,vue}',
+        'source/404.blade.php',
+        'source/about.blade.php',
+        'source/blog.blade.php',
+        'source/contact.blade.php',
+        'source/index.blade.php',
     ],
     theme: {
         fontFamily: {
