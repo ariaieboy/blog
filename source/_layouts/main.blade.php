@@ -213,7 +213,7 @@
                     <img src="/assets/img/logo.png" alt="logo"/>
                 </a>
                 <p class="pt-5 font-body font-light text-primary dark:text-white sm:pt-0">
-                    ©2022 AriaieBOY.
+                    ©2022{{(date('Y')!=='2022'?"-".date('Y'):'')}} AriaieBOY.
                 </p>
             </div>
             <div class="mr-auto flex items-center pt-5 sm:mr-0 sm:pt-0">
