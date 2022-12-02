@@ -16,13 +16,13 @@
                     <p class="pt-3 font-body text-xl font-light text-primary dark:text-white">
                         A Solo Web Developer that loves creating and sharing.
                     </p>
-                    <a
-                            target="_blank"
-                        href="https://t.me/ariaieboy"
-                        class="mt-12 block bg-secondary px-10 py-4 text-center font-body text-xl font-semibold text-white transition-colors hover:bg-green sm:inline-block sm:text-left sm:text-2xl"
-                    >
-                        Say Hello!
-                    </a>
+{{--                    <a--}}
+{{--                            target="_blank"--}}
+{{--                        href="https://t.me/ariaieboy"--}}
+{{--                        class="mt-12 block bg-secondary px-10 py-4 text-center font-body text-xl font-semibold text-white transition-colors hover:bg-green sm:inline-block sm:text-left sm:text-2xl"--}}
+{{--                    >--}}
+{{--                        Say Hello!--}}
+{{--                    </a>--}}
                 </div>
 
                 <div class="border-b border-grey-lighter py-16 lg:py-20">
