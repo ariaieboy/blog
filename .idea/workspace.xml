@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="763e1305-6238-417f-a45f-b6f4a38fb5c7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/source/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/source/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,9 +130,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="\\wsl$\Ubuntu\home\ariaieboy\code\blog\source" />
       <recent name="\\wsl$\Ubuntu\home\ariaieboy\code\blog\source\_posts" />
       <recent name="\\wsl$\Ubuntu\home\ariaieboy\code\blog\source\assets\img" />
-      <recent name="\\wsl$\Ubuntu\home\ariaieboy\code\blog\source" />
       <recent name="\\wsl$\Ubuntu\home\ariaieboy\code\blog" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -162,7 +162,7 @@
       <workItem from="1669933992790" duration="622000" />
       <workItem from="1669934635781" duration="40000" />
       <workItem from="1669935124155" duration="790000" />
-      <workItem from="1669936161171" duration="299000" />
+      <workItem from="1669936161171" duration="850000" />
     </task>
     <task id="LOCAL‎−۰۰۰۰۱" summary="install jigsaw">
       <created>1669856936906</created>
@@ -362,7 +362,19 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۳۳" />
       <updated>1669936464121</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL‎−۰۰۰۳۴" summary="add rss feed link to the footer">
+      <created>1669936744664</created>
+      <option name="number" value="LOCAL‎−۰۰۰۳۴" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۳۴" />
+      <updated>1669936744664</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۳۵" summary="add instagram link">
+      <created>1669936767810</created>
+      <option name="number" value="LOCAL‎−۰۰۰۳۵" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۳۵" />
+      <updated>1669936767810</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -371,9 +383,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="finally fixed infinit loop ?" />
-    <MESSAGE value="fixed home page" />
-    <MESSAGE value="make copyright dynamic" />
     <MESSAGE value="fixed blog page" />
     <MESSAGE value="fixed the post page" />
     <MESSAGE value="added uses page" />
@@ -396,7 +405,10 @@
     <MESSAGE value="add scheduler for pr merge" />
     <MESSAGE value="remove newsletter form from category" />
     <MESSAGE value="fix category ui" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix category ui" />
+    <MESSAGE value="change favicon" />
+    <MESSAGE value="add rss feed link to the footer" />
+    <MESSAGE value="add instagram link" />
+    <option name="LAST_COMMIT_MESSAGE" value="add instagram link" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
