@@ -1170,7 +1170,7 @@
         },
         {
             "name": "illuminate/filesystem",
-            "version": "v9.42.2",
+            "version": "v9.43.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/filesystem.git",
@@ -2954,16 +2954,16 @@
         },
         {
             "name": "spatie/laravel-ignition",
-            "version": "1.6.1",
+            "version": "1.6.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spatie/laravel-ignition.git",
-                "reference": "2b79cf6ed40946b64ac6713d7d2da8a9d87f612b"
+                "reference": "d6e1e1ad93abe280abf41c33f8ea7647dfc0c233"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spatie/laravel-ignition/zipball/2b79cf6ed40946b64ac6713d7d2da8a9d87f612b",
-                "reference": "2b79cf6ed40946b64ac6713d7d2da8a9d87f612b",
+                "url": "https://api.github.com/repos/spatie/laravel-ignition/zipball/d6e1e1ad93abe280abf41c33f8ea7647dfc0c233",
+                "reference": "d6e1e1ad93abe280abf41c33f8ea7647dfc0c233",
                 "shasum": ""
             },
             "require": {
@@ -3040,7 +3040,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2022-10-26T17:39:54+00:00"
+            "time": "2022-12-08T15:31:38+00:00"
         },
         {
             "name": "symfony/console",
@@ -5137,16 +5137,16 @@
         },
         {
             "name": "torchlight/torchlight-laravel",
-            "version": "v0.5.11",
+            "version": "v0.5.12",
             "source": {
                 "type": "git",
                 "url": "https://github.com/torchlight-api/torchlight-laravel.git",
-                "reference": "e69530e720d09f6791eff2a13e4d408ba0eaf6dc"
+                "reference": "3c7d670fff381eb6bb159207c6c59d21840dab9b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/torchlight-api/torchlight-laravel/zipball/e69530e720d09f6791eff2a13e4d408ba0eaf6dc",
-                "reference": "e69530e720d09f6791eff2a13e4d408ba0eaf6dc",
+                "url": "https://api.github.com/repos/torchlight-api/torchlight-laravel/zipball/3c7d670fff381eb6bb159207c6c59d21840dab9b",
+                "reference": "3c7d670fff381eb6bb159207c6c59d21840dab9b",
                 "shasum": ""
             },
             "require": {
@@ -5196,9 +5196,9 @@
             ],
             "support": {
                 "issues": "https://github.com/torchlight-api/torchlight-laravel/issues",
-                "source": "https://github.com/torchlight-api/torchlight-laravel/tree/v0.5.11"
+                "source": "https://github.com/torchlight-api/torchlight-laravel/tree/v0.5.12"
             },
-            "time": "2022-02-13T15:30:32+00:00"
+            "time": "2022-12-09T19:13:04+00:00"
         },
         {
             "name": "vlucas/phpdotenv",
