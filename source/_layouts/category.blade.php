@@ -1,19 +1,16 @@
 @extends('_layouts.main')
 
 @section('body')
-    <div class="prose dark:prose-dark">
-        <h1>{{ $page->title }}</h1>
+    <div class="py-16 lg:py-20">
+        <h1 class="pt-5 font-body text-4xl font-semibold text-primary dark:text-white md:text-5xl lg:text-6xl">{{ $page->title }}</h1>
 
-        <div class="text-2xl border-b border-blue-200 mb-6 pb-10">
+        <div class="font-body text-xl font-light text-primary dark:text-white">
             @yield('content')
         </div>
-
-        @foreach ($page->posts($posts) as $post)
-            @include('_components.post-preview-inline')
-
-            @if (! $loop->last)
-                <hr class="w-full border-b mt-2 mb-6">
-            @endif
-        @endforeach
+        <div class="pt-8 lg:pt-12">
+            @foreach ($page->posts($posts) as $post)
+                @include('_components.post-preview-inline')
+            @endforeach
+        </div>
     </div>
 @stop
