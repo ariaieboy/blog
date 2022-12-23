@@ -225,16 +225,21 @@
                         class="text-4xl text-primary dark:text-white pl-5 hover:text-secondary dark:hover:text-secondary transition-colors bx bxl-twitter"
                     ></i>
                 </a>
-                <a href="https://instagram.com/ariaieboy" target="_blank">
+                <a href="https://phpc.social/@ariaieboy" target="_blank">
                     <i
-                        class="text-4xl text-primary dark:text-white pl-5 hover:text-secondary dark:hover:text-secondary transition-colors bx bxl-instagram"
+                            class="text-4xl text-primary dark:text-white pl-5 hover:text-secondary dark:hover:text-secondary transition-colors bx bxl-mastodon"
                     ></i>
                 </a>
-                <a href="https://t.me/ariaieboy" target="_blank">
-                    <i
-                        class="text-4xl text-primary dark:text-white pl-5 hover:text-secondary dark:hover:text-secondary transition-colors bx bxl-telegram"
-                    ></i>
-                </a>
+{{--                <a href="https://instagram.com/ariaieboy" target="_blank">--}}
+{{--                    <i--}}
+{{--                        class="text-4xl text-primary dark:text-white pl-5 hover:text-secondary dark:hover:text-secondary transition-colors bx bxl-instagram"--}}
+{{--                    ></i>--}}
+{{--                </a>--}}
+{{--                <a href="https://t.me/ariaieboy" target="_blank">--}}
+{{--                    <i--}}
+{{--                        class="text-4xl text-primary dark:text-white pl-5 hover:text-secondary dark:hover:text-secondary transition-colors bx bxl-telegram"--}}
+{{--                    ></i>--}}
+{{--                </a>--}}
                 <a href="/blog/feed.atom" target="_blank">
                     <i
                             class="text-4xl text-primary dark:text-white pl-5 hover:text-secondary dark:hover:text-secondary transition-colors bx bx-rss"
