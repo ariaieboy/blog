@@ -30,7 +30,11 @@ class GenerateSitemap
             ->reject(function ($path) {
                 return $this->isExcluded($path);
             })->each(function ($path) use ($baseUrl, $sitemap) {
-                $sitemap->addItem(rtrim($baseUrl, '/') . $path . '/', time(), Sitemap::DAILY);
+                if ($path !== 'blog/feed.atom'){
+                    $sitemap->addItem(rtrim($baseUrl, '/') . $path . '/', time(), Sitemap::DAILY);
+                }else{
+                    $sitemap->addItem(rtrim($baseUrl, '/') . $path , time(), Sitemap::DAILY);
+                }
             });
 
         $sitemap->write();

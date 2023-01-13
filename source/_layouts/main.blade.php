@@ -41,7 +41,7 @@
 
     <link
         rel="stylesheet"
-        href="https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css"
+        href="https://unpkg.com/boxicons@2/css/boxicons.min.css"
     />
     <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
 </head>
