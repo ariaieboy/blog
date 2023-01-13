@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4201626-96e1-46d7-aaae-7166515ee4a5" name="Changes" comment="update the style">
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/listeners/GenerateSitemap.php" beforeDir="false" afterPath="$PROJECT_DIR$/listeners/GenerateSitemap.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_layouts/main.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/source/_layouts/main.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/example.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/enjoyable-php-testing-with-pestphp.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/torchlight_cache/16/1b/161b1d793f21888a8f7a2e9843137b9670242afd" beforeDir="false" afterPath="$PROJECT_DIR$/torchlight_cache/16/1b/161b1d793f21888a8f7a2e9843137b9670242afd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/torchlight_cache/32/4e/324e6a4d7abce79f03b26a556b821250158a568f" beforeDir="false" afterPath="$PROJECT_DIR$/torchlight_cache/32/4e/324e6a4d7abce79f03b26a556b821250158a568f" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/torchlight_cache/98/98/98986578a7d7d8f5a37478c45ab40c1d88a9f080" beforeDir="false" afterPath="$PROJECT_DIR$/torchlight_cache/98/98/98986578a7d7d8f5a37478c45ab40c1d88a9f080" afterDir="false" />
+    <list default="true" id="d4201626-96e1-46d7-aaae-7166515ee4a5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/config.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,7 +175,7 @@
       <workItem from="1669983203011" duration="632000" />
       <workItem from="1671008601740" duration="1320000" />
       <workItem from="1671965817624" duration="436000" />
-      <workItem from="1673642333602" duration="1335000" />
+      <workItem from="1673642333602" duration="1631000" />
     </task>
     <task id="LOCAL‎−۰۰۰۰۱" summary="install jigsaw">
       <created>1669856936906</created>
@@ -426,7 +417,13 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۴۰" />
       <updated>1671965920852</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL‎−۰۰۰۴۱" summary="fix some bugs and add a new post">
+      <created>1673643845112</created>
+      <option name="number" value="LOCAL‎−۰۰۰۴۱" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۴۱" />
+      <updated>1673643845112</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -435,7 +432,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="fixes some ui and changed highlightjs theme" />
     <MESSAGE value="add torchlight" />
     <MESSAGE value="update deps" />
     <MESSAGE value="remove extra files" />
@@ -460,7 +456,8 @@
     <MESSAGE value="add filament post and update deps" />
     <MESSAGE value="fix sitemap" />
     <MESSAGE value="update the style" />
-    <option name="LAST_COMMIT_MESSAGE" value="update the style" />
+    <MESSAGE value="fix some bugs and add a new post" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix some bugs and add a new post" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
