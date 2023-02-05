@@ -26,7 +26,7 @@ pagination:
         </div>
 
         <div class="pt-8 lg:pt-12">
-            @foreach ($posts as $post)
+            @foreach ($pagination->items as $post)
                 @include('_components.post-preview-inline')
             @endforeach
         </div>
