@@ -138,7 +138,7 @@ pagination:
                         </a>
 
                         <a
-                            href="https://dir.bz"
+                            href="https://cnz.ir"
                             target="_blank"
                             class="mb-6 flex items-center justify-between border border-grey-lighter px-4 py-4 sm:px-6"
                         >
