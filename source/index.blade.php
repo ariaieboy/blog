@@ -146,7 +146,7 @@ pagination:
           <h4
               class="font-body text-lg font-semibold text-primary dark:text-white"
           >
-            dir.bz
+            CnZ.ir (formally known as dir.bz)
           </h4>
           <p class="font-body font-light text-primary dark:text-white">
             A free link shortener website.

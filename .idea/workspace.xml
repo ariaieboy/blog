@@ -6,11 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d4201626-96e1-46d7-aaae-7166515ee4a5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/torchlight_cache/16/1b/161b1d793f21888a8f7a2e9843137b9670242afd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/torchlight_cache/32/4e/324e6a4d7abce79f03b26a556b821250158a568f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/torchlight_cache/98/98/98986578a7d7d8f5a37478c45ab40c1d88a9f080" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/source/index.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,7 +178,7 @@
       <workItem from="1671965817624" duration="436000" />
       <workItem from="1673642333602" duration="1847000" />
       <workItem from="1673652232534" duration="2000" />
-      <workItem from="1675623642803" duration="918000" />
+      <workItem from="1675623642803" duration="1554000" />
     </task>
     <task id="LOCAL‎−۰۰۰۰۱" summary="install jigsaw">
       <created>1669856936906</created>
@@ -436,7 +432,25 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۴۲" />
       <updated>1673644068950</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL‎−۰۰۰۴۳" summary="update deps and add caprover post">
+      <created>1675624602069</created>
+      <option name="number" value="LOCAL‎−۰۰۰۴۳" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۴۳" />
+      <updated>1675624602071</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۴۴" summary="fix pagination in blog">
+      <created>1675624764656</created>
+      <option name="number" value="LOCAL‎−۰۰۰۴۴" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۴۴" />
+      <updated>1675624764656</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۴۵" summary="fix home more posts link">
+      <created>1675624929246</created>
+      <option name="number" value="LOCAL‎−۰۰۰۴۵" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۴۵" />
+      <updated>1675624929246</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -445,9 +459,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="add torchlight" />
-    <MESSAGE value="update deps" />
-    <MESSAGE value="remove extra files" />
     <MESSAGE value="added 2 categories and the first post file" />
     <MESSAGE value="first post" />
     <MESSAGE value="add workflows" />
@@ -470,7 +481,10 @@
     <MESSAGE value="update the style" />
     <MESSAGE value="fix some bugs and add a new post" />
     <MESSAGE value="fix sitemap" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix sitemap" />
+    <MESSAGE value="update deps and add caprover post" />
+    <MESSAGE value="fix pagination in blog" />
+    <MESSAGE value="fix home more posts link" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix home more posts link" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
