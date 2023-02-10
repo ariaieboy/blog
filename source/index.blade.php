@@ -1,3 +1,10 @@
+---
+title: Home
+description: The Home page of my blog
+pagination:
+    collection: posts
+    perPage: 4
+---
 @extends('_layouts.main')
 
 @section('body')
@@ -61,10 +68,10 @@
                             My Posts
                         </h3>
                         <a
-                            href="/blog"
+                            href="/blog/2/"
                             class="flex items-center pl-10 font-body italic text-green transition-colors hover:text-secondary dark:text-green-light dark:hover:text-secondary"
                         >
-                            All posts
+                            More posts
                             <img
                                 src="/assets/img/long-arrow-right.png"
                                 class="ml-3"
@@ -73,7 +80,7 @@
                         </a>
                     </div>
                     <div class="pt-8">
-                        @foreach ($posts as $post)
+                        @foreach ($pagination->items as $post)
                             @include('_components.post-preview-inline')
                         @endforeach
                     </div>
@@ -131,7 +138,7 @@
                         </a>
 
                         <a
-                            href="https://dir.bz"
+                            href="https://cnz.ir"
                             target="_blank"
                             class="mb-6 flex items-center justify-between border border-grey-lighter px-4 py-4 sm:px-6"
                         >
@@ -139,7 +146,7 @@
           <h4
               class="font-body text-lg font-semibold text-primary dark:text-white"
           >
-            dir.bz
+            CnZ.ir (formally known as dir.bz)
           </h4>
           <p class="font-body font-light text-primary dark:text-white">
             A free link shortener website.
