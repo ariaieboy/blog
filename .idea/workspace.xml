@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4201626-96e1-46d7-aaae-7166515ee4a5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/source/index.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +21,7 @@
     <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="pest" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -120,22 +121,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "//wsl$/Ubuntu/home/ariaieboy/code/blog/source/_posts",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "prettierjs.PrettierConfiguration.Package": "\\\\wsl$\\Ubuntu\\home\\ariaieboy\\code\\blog\\node_modules\\prettier",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;//wsl$/Ubuntu/home/ariaieboy/code/blog/source/_posts&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;\\\\wsl$\\Ubuntu\\home\\ariaieboy\\code\\blog\\node_modules\\prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="\\wsl$\Ubuntu\home\ariaieboy\code\blog\source\_posts" />
@@ -175,7 +176,9 @@
       <workItem from="1669983203011" duration="632000" />
       <workItem from="1671008601740" duration="1320000" />
       <workItem from="1671965817624" duration="436000" />
-      <workItem from="1673642333602" duration="1631000" />
+      <workItem from="1673642333602" duration="1847000" />
+      <workItem from="1673652232534" duration="2000" />
+      <workItem from="1675623642803" duration="1554000" />
     </task>
     <task id="LOCAL‎−۰۰۰۰۱" summary="install jigsaw">
       <created>1669856936906</created>
@@ -423,7 +426,31 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۴۱" />
       <updated>1673643845112</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL‎−۰۰۰۴۲" summary="fix sitemap">
+      <created>1673644068950</created>
+      <option name="number" value="LOCAL‎−۰۰۰۴۲" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۴۲" />
+      <updated>1673644068950</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۴۳" summary="update deps and add caprover post">
+      <created>1675624602069</created>
+      <option name="number" value="LOCAL‎−۰۰۰۴۳" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۴۳" />
+      <updated>1675624602071</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۴۴" summary="fix pagination in blog">
+      <created>1675624764656</created>
+      <option name="number" value="LOCAL‎−۰۰۰۴۴" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۴۴" />
+      <updated>1675624764656</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۴۵" summary="fix home more posts link">
+      <created>1675624929246</created>
+      <option name="number" value="LOCAL‎−۰۰۰۴۵" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۴۵" />
+      <updated>1675624929246</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -432,9 +459,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="add torchlight" />
-    <MESSAGE value="update deps" />
-    <MESSAGE value="remove extra files" />
     <MESSAGE value="added 2 categories and the first post file" />
     <MESSAGE value="first post" />
     <MESSAGE value="add workflows" />
@@ -454,10 +478,13 @@
     <MESSAGE value="remove say hello button" />
     <MESSAGE value="update deps and add tall-stack article" />
     <MESSAGE value="add filament post and update deps" />
-    <MESSAGE value="fix sitemap" />
     <MESSAGE value="update the style" />
     <MESSAGE value="fix some bugs and add a new post" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix some bugs and add a new post" />
+    <MESSAGE value="fix sitemap" />
+    <MESSAGE value="update deps and add caprover post" />
+    <MESSAGE value="fix pagination in blog" />
+    <MESSAGE value="fix home more posts link" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix home more posts link" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
