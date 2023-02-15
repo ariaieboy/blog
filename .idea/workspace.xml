@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d4201626-96e1-46d7-aaae-7166515ee4a5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/source/index.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,7 +177,8 @@
       <workItem from="1671965817624" duration="436000" />
       <workItem from="1673642333602" duration="1847000" />
       <workItem from="1673652232534" duration="2000" />
-      <workItem from="1675623642803" duration="1554000" />
+      <workItem from="1675623642803" duration="1851000" />
+      <workItem from="1676454376401" duration="19000" />
     </task>
     <task id="LOCAL‎−۰۰۰۰۱" summary="install jigsaw">
       <created>1669856936906</created>
@@ -450,7 +450,19 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۴۵" />
       <updated>1675624929246</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL‎−۰۰۰۴۶" summary="update dir.bz to cnz.ir">
+      <created>1675625234791</created>
+      <option name="number" value="LOCAL‎−۰۰۰۴۶" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۴۶" />
+      <updated>1675625234792</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۴۷" summary="change dir.bz to cnz.ir url">
+      <created>1675625258175</created>
+      <option name="number" value="LOCAL‎−۰۰۰۴۷" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۴۷" />
+      <updated>1675625258175</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -459,8 +471,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="added 2 categories and the first post file" />
-    <MESSAGE value="first post" />
     <MESSAGE value="add workflows" />
     <MESSAGE value="change runner" />
     <MESSAGE value="run on ubuntu latest" />
@@ -484,7 +494,9 @@
     <MESSAGE value="update deps and add caprover post" />
     <MESSAGE value="fix pagination in blog" />
     <MESSAGE value="fix home more posts link" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix home more posts link" />
+    <MESSAGE value="update dir.bz to cnz.ir" />
+    <MESSAGE value="change dir.bz to cnz.ir url" />
+    <option name="LAST_COMMIT_MESSAGE" value="change dir.bz to cnz.ir url" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
