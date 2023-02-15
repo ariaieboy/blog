@@ -1,6 +1,6 @@
 window.axios = require('axios');
-import Vue from 'vue';
-import Search from './components/Search.vue';
+// import Vue from 'vue';
+// import Search from './components/Search.vue';
 import Alpine from 'alpinejs';
 
 window.Alpine = Alpine;
@@ -36,10 +36,10 @@ Alpine.data('global', () => ({
 }))
 Alpine.start();
 
-Vue.config.productionTip = false;
+// Vue.config.productionTip = false;
 
-new Vue({
-    components: {
-        Search,
-    },
-}).$mount('#vue-search');
+// new Vue({
+//     components: {
+//         Search,
+//     },
+// }).$mount('#vue-search');

@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4201626-96e1-46d7-aaae-7166515ee4a5" name="Changes" comment="">
+    <list default="true" id="d4201626-96e1-46d7-aaae-7166515ee4a5" name="Changes" comment="fix the links">
+      <change beforePath="$PROJECT_DIR$/.idea/blog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/blog.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/source/_assets/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +26,7 @@
     <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="5-caprover" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,6 +34,29 @@
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1676454404" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="5-caprover" />
+                    <option name="lastUsedInstant" value="1676454403" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -110,6 +139,7 @@
       <path value="$PROJECT_DIR$/vendor/illuminate/cache" />
       <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
       <path value="$PROJECT_DIR$/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/uri-template" />
     </include_path>
   </component>
   <component name="ProjectId" id="2II6hrD5sgPasL8XNLb5rkJLA9V" />
@@ -178,7 +208,7 @@
       <workItem from="1673642333602" duration="1847000" />
       <workItem from="1673652232534" duration="2000" />
       <workItem from="1675623642803" duration="1851000" />
-      <workItem from="1676454376401" duration="19000" />
+      <workItem from="1676454376401" duration="1040000" />
     </task>
     <task id="LOCAL‎−۰۰۰۰۱" summary="install jigsaw">
       <created>1669856936906</created>
@@ -462,7 +492,13 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۴۷" />
       <updated>1675625258175</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL‎−۰۰۰۴۸" summary="fix the links">
+      <created>1676454540649</created>
+      <option name="number" value="LOCAL‎−۰۰۰۴۸" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۴۸" />
+      <updated>1676454540649</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -471,7 +507,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="add workflows" />
     <MESSAGE value="change runner" />
     <MESSAGE value="run on ubuntu latest" />
     <MESSAGE value="fix docker file" />
@@ -496,7 +531,8 @@
     <MESSAGE value="fix home more posts link" />
     <MESSAGE value="update dir.bz to cnz.ir" />
     <MESSAGE value="change dir.bz to cnz.ir url" />
-    <option name="LAST_COMMIT_MESSAGE" value="change dir.bz to cnz.ir url" />
+    <MESSAGE value="fix the links" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix the links" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
