@@ -29,9 +29,9 @@ Since CapRover only uses docker in the background you can remove CapRover from y
 ## But I Didn't Work With Docker Before
 CapRover has lots of one-click apps which means you can deploy lots of popular projects with a single click.
 For example, you can deploy MySql, PostgreSQL, MariaDB, Redis, WordPress, Minio, etc.
-You can find the full list of the apps here https://github.com/caprover/one-click-apps/tree/master/public/v4/apps.
-Besides one-click apps, there are some sample apps that you can use to practice or even deploy your application using these samples.
-https://caprover.com/docs/sample-apps.html
+You can find the full list of the apps [here](https://github.com/caprover/one-click-apps/tree/master/public/v4/apps).
+Besides one-click apps, there are some sample apps that you can use to practice or even deploy your application using [these samples](
+https://caprover.com/docs/sample-apps.html).
 
 ### Last Word
 CapRover might not be a good option for big teams and companies but it's a really good option for individuals or small to medium teams that want to reduce their costs and enjoy the power of Docker and Nginx without having to learn them or deal with their settings scripts to make things work!! 
