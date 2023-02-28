@@ -3,7 +3,8 @@ COPY . /var/www/html
 WORKDIR /var/www/html
 RUN composer install --no-interaction --optimize-autoloader --no-dev --ignore-platform-reqs
 RUN apk add nodejs npm
-RUN npm install && npm run prod
+RUN npm install -g pnpm
+RUN pnpm install && pnpm prod
 
 ###step 3 webserver
 FROM nginx:1
