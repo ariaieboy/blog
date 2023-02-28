@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4201626-96e1-46d7-aaae-7166515ee4a5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="d4201626-96e1-46d7-aaae-7166515ee4a5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -209,19 +205,7 @@
       <workItem from="1673652232534" duration="2000" />
       <workItem from="1675623642803" duration="1851000" />
       <workItem from="1676454376401" duration="2029000" />
-      <workItem from="1677605474526" duration="323000" />
-    </task>
-    <task id="LOCAL‎−۰۰۰۰۲" summary="addbasic atlas theme assets">
-      <created>1669903674775</created>
-      <option name="number" value="LOCAL‎−۰۰۰۰۲" />
-      <option name="presentableId" value="LOCAL‎−۰۰۰۰۲" />
-      <updated>1669903674775</updated>
-    </task>
-    <task id="LOCAL‎−۰۰۰۰۳" summary="update to tailwind 3">
-      <created>1669907110802</created>
-      <option name="number" value="LOCAL‎−۰۰۰۰۳" />
-      <option name="presentableId" value="LOCAL‎−۰۰۰۰۳" />
-      <updated>1669907110802</updated>
+      <workItem from="1677605474526" duration="1156000" />
     </task>
     <task id="LOCAL‎−۰۰۰۰۴" summary="add atlas css">
       <created>1669907156325</created>
@@ -505,7 +489,19 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۵۰" />
       <updated>1676456926194</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL‎−۰۰۰۵۱" summary="update deps">
+      <created>1677605930189</created>
+      <option name="number" value="LOCAL‎−۰۰۰۵۱" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۵۱" />
+      <updated>1677605930189</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۵۲" summary="change npm with pnpm">
+      <created>1677606028407</created>
+      <option name="number" value="LOCAL‎−۰۰۰۵۲" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۵۲" />
+      <updated>1677606028408</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -514,7 +510,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="fix docker file" />
     <MESSAGE value="add blog url for sitemap" />
     <MESSAGE value="fix seo description" />
     <MESSAGE value="add contact page" />
@@ -537,9 +532,10 @@
     <MESSAGE value="update dir.bz to cnz.ir" />
     <MESSAGE value="change dir.bz to cnz.ir url" />
     <MESSAGE value="fix the links" />
-    <MESSAGE value="update deps" />
     <MESSAGE value="fix webpack" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix webpack" />
+    <MESSAGE value="update deps" />
+    <MESSAGE value="change npm with pnpm" />
+    <option name="LAST_COMMIT_MESSAGE" value="change npm with pnpm" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
