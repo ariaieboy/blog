@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4201626-96e1-46d7-aaae-7166515ee4a5" name="Changes" comment="" />
+    <list default="true" id="d4201626-96e1-46d7-aaae-7166515ee4a5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +22,7 @@
     <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="5-caprover" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,6 +37,10 @@
             <RecentBranchesForRepo>
               <option name="branches">
                 <list>
+                  <RecentBranch>
+                    <option name="branchName" value="6-laravel-lang" />
+                    <option name="lastUsedInstant" value="1677605514" />
+                  </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="main" />
                     <option name="lastUsedInstant" value="1676454404" />
@@ -200,13 +208,8 @@
       <workItem from="1673642333602" duration="1847000" />
       <workItem from="1673652232534" duration="2000" />
       <workItem from="1675623642803" duration="1851000" />
-      <workItem from="1676454376401" duration="1669000" />
-    </task>
-    <task id="LOCAL‎−۰۰۰۰۱" summary="install jigsaw">
-      <created>1669856936906</created>
-      <option name="number" value="LOCAL‎−۰۰۰۰۱" />
-      <option name="presentableId" value="LOCAL‎−۰۰۰۰۱" />
-      <updated>1669856936906</updated>
+      <workItem from="1676454376401" duration="2029000" />
+      <workItem from="1677605474526" duration="323000" />
     </task>
     <task id="LOCAL‎−۰۰۰۰۲" summary="addbasic atlas theme assets">
       <created>1669903674775</created>
@@ -496,7 +499,13 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۴۹" />
       <updated>1676455492043</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL‎−۰۰۰۵۰" summary="fix webpack">
+      <created>1676456926193</created>
+      <option name="number" value="LOCAL‎−۰۰۰۵۰" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۵۰" />
+      <updated>1676456926194</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -505,7 +514,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="run on ubuntu latest" />
     <MESSAGE value="fix docker file" />
     <MESSAGE value="add blog url for sitemap" />
     <MESSAGE value="fix seo description" />
@@ -530,7 +538,8 @@
     <MESSAGE value="change dir.bz to cnz.ir url" />
     <MESSAGE value="fix the links" />
     <MESSAGE value="update deps" />
-    <option name="LAST_COMMIT_MESSAGE" value="update deps" />
+    <MESSAGE value="fix webpack" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix webpack" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
