@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 section: content
-title: "Nala: modern front end for the apt package manager"
+title: "Nala: Modern Front-End for the APT Package Manager"
 date: 2023-04-16
 description: "Nala: modern front end for the apt package manager"
 categories: [tools]
