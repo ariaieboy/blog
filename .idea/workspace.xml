@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4201626-96e1-46d7-aaae-7166515ee4a5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/source/_assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/source/_assets/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,14 +158,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "17-redesing-the-blog",
+    "javascript.nodejs.core.library.configured.version": "20.1.0",
+    "javascript.nodejs.core.library.typings.version": "20.1.0",
     "last_opened_file_path": "//wsl$/Ubuntu/home/ariaieboy/code/blog",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "wsl://Ubuntu@/usr/bin/node",
     "nodejs_package_manager_path": "npm",
     "prettierjs.PrettierConfiguration.Package": "\\\\wsl$\\Ubuntu\\home\\ariaieboy\\code\\blog\\node_modules\\prettier",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "settings.nodejs",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -210,13 +217,7 @@
       <workItem from="1676454376401" duration="2029000" />
       <workItem from="1677605474526" duration="1156000" />
       <workItem from="1681630960122" duration="2429000" />
-      <workItem from="1683662620685" duration="1421000" />
-    </task>
-    <task id="LOCAL‎−۰۰۰۰۴" summary="add atlas css">
-      <created>1669907156325</created>
-      <option name="number" value="LOCAL‎−۰۰۰۰۴" />
-      <option name="presentableId" value="LOCAL‎−۰۰۰۰۴" />
-      <updated>1669907156325</updated>
+      <workItem from="1683662620685" duration="2302000" />
     </task>
     <task id="LOCAL‎−۰۰۰۰۵" summary="add atlas js">
       <created>1669907187266</created>
@@ -506,7 +507,13 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۵۲" />
       <updated>1677606028408</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL‎−۰۰۰۵۳" summary="update deps">
+      <created>1683664573691</created>
+      <option name="number" value="LOCAL‎−۰۰۰۵۳" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۵۳" />
+      <updated>1683664573691</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -538,9 +545,9 @@
     <MESSAGE value="change dir.bz to cnz.ir url" />
     <MESSAGE value="fix the links" />
     <MESSAGE value="fix webpack" />
-    <MESSAGE value="update deps" />
     <MESSAGE value="change npm with pnpm" />
-    <option name="LAST_COMMIT_MESSAGE" value="change npm with pnpm" />
+    <MESSAGE value="update deps" />
+    <option name="LAST_COMMIT_MESSAGE" value="update deps" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
