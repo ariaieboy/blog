@@ -3,7 +3,7 @@
 @tailwind utilities;
 @layer components {
     code{
-        @apply bg-blue-light p-px;
+        @apply p-px;
     }
 }
 /*

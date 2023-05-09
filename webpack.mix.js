@@ -7,9 +7,7 @@ mix.setPublicPath('source/assets/build');
 mix.jigsaw()
     .js('source/_assets/js/main.js', 'js')
     .postCss('source/_assets/css/main.css', 'css/main.css', [
-        require("tailwindcss/nesting"),
-        require("tailwindcss"),
-        require("autoprefixer"),
+        require("tailwindcss")
     ])
     .options({ processCssUrls: false })
     .browserSync({
