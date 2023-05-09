@@ -5,6 +5,9 @@
     code{
         @apply p-px;
     }
+    .bg-logo{
+        background-color: #2C3E50;
+    }
 }
 /*
   Blur and dim the lines that don't have the `.line-focus` class,

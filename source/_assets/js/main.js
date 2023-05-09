@@ -1,3 +1,5 @@
+import { themeChange } from 'theme-change'
+themeChange()
 // window.axios = require('axios');
 // // import Vue from 'vue';
 // // import Search from './components/Search.vue';
