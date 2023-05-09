@@ -9,18 +9,20 @@ pagination:
 
 @section('body')
     <div>
-        <div class="py-4 lg:py-8">
+        <div class="py-4 lg:py-8 flex flex-col md:flex-row gap-4 md:items-center">
             <div>
                 @include('_components.me')
             </div>
-            <h1
-                    class="pt-3 font-body text-4xl font-semibold md:text-5xl lg:text-6xl"
-            >
-                Hi, I’m AriaieBOY.
-            </h1>
-            <p class="pt-3 font-body text-xl font-light">
-                Self-Employed, Full-Stack web developer at Rakolo.com
-            </p>
+<div>
+    <h1
+            class="pt-3 font-body text-4xl font-semibold md:text-5xl lg:text-6xl"
+    >
+        Hi, I’m AriaieBOY.
+    </h1>
+    <p class="pt-3 font-body text-xl font-light">
+        Self-Employed, Full-Stack web developer at Rakolo.com
+    </p>
+</div>
         </div>
 
         <div class="py-16 lg:py-20">
