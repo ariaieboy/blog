@@ -22,12 +22,12 @@
     <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
 </head>
 
-<body class="bg-base-300 min-h-screen">
+<body class="min-h-screen">
 
 <div id="main" class="container mx-auto min-h-screen flex flex-col">
     {{--  header  --}}
     <div class="py-4 lg:py-6">
-        <div class="navbar bg-base-100 text-base-content rounded-lg">
+        <div class="navbar bg-base-100 rounded-lg">
             <div class="navbar-start">
                 <a href="/" class="btn btn-ghost normal-case text-xl flex items-center">
       <span href="/" class="mr-2 h-10 w-10 rounded-full bg-logo">
@@ -86,7 +86,7 @@
         @yield('body')
     </div>
     <div class="py-4 lg:py-6">
-        <footer class="footer items-center p-4 bg-base-100 rounded-lg text-base-content">
+        <footer class="footer items-center p-4 bg-base-100 rounded-lg">
             <div class="items-center grid-flow-col">
                 <img src="/assets/img/logo.png" class="w-10 h-10 bg-logo rounded-full" alt="logo"/>
                 <p>Copyright ©2022{{(date('Y')!=='2022'?"-".date('Y'):'')}} - All right reserved</p>
