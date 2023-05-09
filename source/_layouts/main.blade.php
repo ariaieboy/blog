@@ -22,9 +22,9 @@
     <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
 </head>
 
-<body class="bg-base-300">
+<body class="bg-base-300 min-h-screen">
 
-<div id="main" class="container mx-auto">
+<div id="main" class="container mx-auto min-h-screen flex flex-col">
     {{--  header  --}}
     <div class="py-4 lg:py-6">
         <div class="navbar bg-base-100 text-base-content rounded-lg">
@@ -82,7 +82,7 @@
     </div>
     {{--  end header  --}}
 
-    <div>
+    <div class="grow">
         @yield('body')
     </div>
     <div class="py-4 lg:py-6">
