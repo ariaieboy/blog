@@ -19,7 +19,7 @@ pagination:
     >
         Hi, I’m AriaieBOY.
     </h1>
-    <p class="pt-3 font-body text-xl font-light">
+    <p class="pt-3 font-body text-xl font-normal">
         Self-Employed, Full-Stack web developer at Rakolo.com
     </p>
 </div>
