@@ -26,12 +26,22 @@ module.exports = {
                 screens: {
                     '2xl': '1440px'
                 },
+                padding: '1rem',
                 center: true
             }
         },
     },
-    daisyui:{
-        themes:["light","dark"]
+    daisyui: {
+        themes: [{
+            light: {
+                ...require("daisyui/src/colors/themes")["[data-theme=light]"],
+                primary: "#156EF4",
+            },
+            dark: {
+                ...require("daisyui/src/colors/themes")["[data-theme=dark]"],
+                primary: "#156EF4",
+            },
+        }]
     },
     plugins: [
         require("@tailwindcss/typography"),
