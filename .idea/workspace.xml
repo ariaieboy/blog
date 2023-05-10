@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4201626-96e1-46d7-aaae-7166515ee4a5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/blog.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/source/blog.blade.php" afterDir="false" />
-    </list>
+    <list default="true" id="d4201626-96e1-46d7-aaae-7166515ee4a5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -221,18 +218,6 @@
       <workItem from="1681630960122" duration="2429000" />
       <workItem from="1683662620685" duration="2302000" />
       <workItem from="1683708421795" duration="1865000" />
-    </task>
-    <task id="LOCAL‎−۰۰۰۱۴" summary="remove extra file">
-      <created>1669928516055</created>
-      <option name="number" value="LOCAL‎−۰۰۰۱۴" />
-      <option name="presentableId" value="LOCAL‎−۰۰۰۱۴" />
-      <updated>1669928516055</updated>
-    </task>
-    <task id="LOCAL‎−۰۰۰۱۵" summary="added estimate time to read">
-      <created>1669929048179</created>
-      <option name="number" value="LOCAL‎−۰۰۰۱۵" />
-      <option name="presentableId" value="LOCAL‎−۰۰۰۱۵" />
-      <updated>1669929048179</updated>
     </task>
     <task id="LOCAL‎−۰۰۰۱۶" summary="fixes some ui and changed highlightjs theme">
       <created>1669930469306</created>
@@ -516,7 +501,19 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۶۲" />
       <updated>1683711685404</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL‎−۰۰۰۶۳" summary="fix blog theme">
+      <created>1683712234046</created>
+      <option name="number" value="LOCAL‎−۰۰۰۶۳" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۶۳" />
+      <updated>1683712234046</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۶۴" summary="fix uses page">
+      <created>1683712506149</created>
+      <option name="number" value="LOCAL‎−۰۰۰۶۴" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۶۴" />
+      <updated>1683712506149</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -525,8 +522,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="add rss feed link to the footer" />
-    <MESSAGE value="add instagram link" />
     <MESSAGE value="remove say hello button" />
     <MESSAGE value="update deps and add tall-stack article" />
     <MESSAGE value="add filament post and update deps" />
@@ -550,7 +545,9 @@
     <MESSAGE value="cleanup the main page header and add new image for me" />
     <MESSAGE value="fix responsive design of home page header" />
     <MESSAGE value="fix index theme" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix index theme" />
+    <MESSAGE value="fix blog theme" />
+    <MESSAGE value="fix uses page" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix uses page" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
