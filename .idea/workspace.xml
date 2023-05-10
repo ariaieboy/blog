@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4201626-96e1-46d7-aaae-7166515ee4a5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/blade.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/blade.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/source/_assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_layouts/post.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/source/_layouts/post.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +22,7 @@
     <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="8-nala-alternative-to-apt" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -64,6 +60,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -144,6 +143,8 @@
       <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
       <path value="$PROJECT_DIR$/vendor/brick/math" />
       <path value="$PROJECT_DIR$/vendor/guzzlehttp/uri-template" />
+      <path value="$PROJECT_DIR$/vendor/owenvoke/blade-fontawesome" />
+      <path value="$PROJECT_DIR$/vendor/blade-ui-kit/blade-icons" />
     </include_path>
   </component>
   <component name="ProjectId" id="2II6hrD5sgPasL8XNLb5rkJLA9V" />
@@ -154,29 +155,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "8-nala-alternative-to-apt",
-    "last_opened_file_path": "//wsl$/Ubuntu/home/ariaieboy/code/blog/source/_posts",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "prettierjs.PrettierConfiguration.Package": "\\\\wsl$\\Ubuntu\\home\\ariaieboy\\code\\blog\\node_modules\\prettier",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;17-redesing-the-blog&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;20.1.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;20.1.0&quot;,
+    &quot;last_opened_file_path&quot;: &quot;//wsl$/Ubuntu/home/ariaieboy/code/blog&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;wsl://Ubuntu@/usr/bin/node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;\\\\wsl$\\Ubuntu\\home\\ariaieboy\\code\\blog\\node_modules\\prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.nodejs&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="\\wsl$\Ubuntu\home\ariaieboy\code\blog\source\assets\img" />
       <recent name="\\wsl$\Ubuntu\home\ariaieboy\code\blog\source\_posts" />
       <recent name="\\wsl$\openSUSE-Tumbleweed\home\ariaieboy\coding\blog\source\_posts" />
       <recent name="\\wsl$\Ubuntu\home\ariaieboy\code\blog\source" />
-      <recent name="\\wsl$\Ubuntu\home\ariaieboy\code\blog\source\assets\img" />
       <recent name="\\wsl$\Ubuntu\home\ariaieboy\code\blog" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -216,90 +220,8 @@
       <workItem from="1676454376401" duration="2029000" />
       <workItem from="1677605474526" duration="1156000" />
       <workItem from="1681630960122" duration="2429000" />
-    </task>
-    <task id="LOCAL‎−۰۰۰۰۴" summary="add atlas css">
-      <created>1669907156325</created>
-      <option name="number" value="LOCAL‎−۰۰۰۰۴" />
-      <option name="presentableId" value="LOCAL‎−۰۰۰۰۴" />
-      <updated>1669907156325</updated>
-    </task>
-    <task id="LOCAL‎−۰۰۰۰۵" summary="add atlas js">
-      <created>1669907187266</created>
-      <option name="number" value="LOCAL‎−۰۰۰۰۵" />
-      <option name="presentableId" value="LOCAL‎−۰۰۰۰۵" />
-      <updated>1669907187266</updated>
-    </task>
-    <task id="LOCAL‎−۰۰۰۰۶" summary="fixed infinite loop tailwindcss">
-      <created>1669908300341</created>
-      <option name="number" value="LOCAL‎−۰۰۰۰۶" />
-      <option name="presentableId" value="LOCAL‎−۰۰۰۰۶" />
-      <updated>1669908300341</updated>
-    </task>
-    <task id="LOCAL‎−۰۰۰۰۷" summary="finally fixed infinit loop ?">
-      <created>1669910017564</created>
-      <option name="number" value="LOCAL‎−۰۰۰۰۷" />
-      <option name="presentableId" value="LOCAL‎−۰۰۰۰۷" />
-      <updated>1669910017564</updated>
-    </task>
-    <task id="LOCAL‎−۰۰۰۰۸" summary="fixed home page">
-      <created>1669924130358</created>
-      <option name="number" value="LOCAL‎−۰۰۰۰۸" />
-      <option name="presentableId" value="LOCAL‎−۰۰۰۰۸" />
-      <updated>1669924130358</updated>
-    </task>
-    <task id="LOCAL‎−۰۰۰۰۹" summary="make copyright dynamic">
-      <created>1669924293640</created>
-      <option name="number" value="LOCAL‎−۰۰۰۰۹" />
-      <option name="presentableId" value="LOCAL‎−۰۰۰۰۹" />
-      <updated>1669924293640</updated>
-    </task>
-    <task id="LOCAL‎−۰۰۰۱۰" summary="fixed blog page">
-      <created>1669924980404</created>
-      <option name="number" value="LOCAL‎−۰۰۰۱۰" />
-      <option name="presentableId" value="LOCAL‎−۰۰۰۱۰" />
-      <updated>1669924980404</updated>
-    </task>
-    <task id="LOCAL‎−۰۰۰۱۱" summary="fixed the post page">
-      <created>1669926383551</created>
-      <option name="number" value="LOCAL‎−۰۰۰۱۱" />
-      <option name="presentableId" value="LOCAL‎−۰۰۰۱۱" />
-      <updated>1669926383551</updated>
-    </task>
-    <task id="LOCAL‎−۰۰۰۱۲" summary="fixed the post page">
-      <created>1669927177414</created>
-      <option name="number" value="LOCAL‎−۰۰۰۱۲" />
-      <option name="presentableId" value="LOCAL‎−۰۰۰۱۲" />
-      <updated>1669927177414</updated>
-    </task>
-    <task id="LOCAL‎−۰۰۰۱۳" summary="added uses page">
-      <created>1669928487120</created>
-      <option name="number" value="LOCAL‎−۰۰۰۱۳" />
-      <option name="presentableId" value="LOCAL‎−۰۰۰۱۳" />
-      <updated>1669928487120</updated>
-    </task>
-    <task id="LOCAL‎−۰۰۰۱۴" summary="remove extra file">
-      <created>1669928516055</created>
-      <option name="number" value="LOCAL‎−۰۰۰۱۴" />
-      <option name="presentableId" value="LOCAL‎−۰۰۰۱۴" />
-      <updated>1669928516055</updated>
-    </task>
-    <task id="LOCAL‎−۰۰۰۱۵" summary="added estimate time to read">
-      <created>1669929048179</created>
-      <option name="number" value="LOCAL‎−۰۰۰۱۵" />
-      <option name="presentableId" value="LOCAL‎−۰۰۰۱۵" />
-      <updated>1669929048179</updated>
-    </task>
-    <task id="LOCAL‎−۰۰۰۱۶" summary="fixes some ui and changed highlightjs theme">
-      <created>1669930469306</created>
-      <option name="number" value="LOCAL‎−۰۰۰۱۶" />
-      <option name="presentableId" value="LOCAL‎−۰۰۰۱۶" />
-      <updated>1669930469306</updated>
-    </task>
-    <task id="LOCAL‎−۰۰۰۱۷" summary="add torchlight">
-      <created>1669931567044</created>
-      <option name="number" value="LOCAL‎−۰۰۰۱۷" />
-      <option name="presentableId" value="LOCAL‎−۰۰۰۱۷" />
-      <updated>1669931567044</updated>
+      <workItem from="1683662620685" duration="2302000" />
+      <workItem from="1683708421795" duration="1865000" />
     </task>
     <task id="LOCAL‎−۰۰۰۱۸" summary="update deps">
       <created>1669931701990</created>
@@ -511,7 +433,91 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۵۲" />
       <updated>1677606028408</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL‎−۰۰۰۵۳" summary="update deps">
+      <created>1683664573691</created>
+      <option name="number" value="LOCAL‎−۰۰۰۵۳" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۵۳" />
+      <updated>1683664573691</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۵۴" summary="cleanup main layout">
+      <created>1683666566990</created>
+      <option name="number" value="LOCAL‎−۰۰۰۵۴" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۵۴" />
+      <updated>1683666566990</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۵۵" summary="cleanup main layout">
+      <created>1683667961887</created>
+      <option name="number" value="LOCAL‎−۰۰۰۵۵" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۵۵" />
+      <updated>1683667961887</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۵۶" summary="fix layout">
+      <created>1683669045990</created>
+      <option name="number" value="LOCAL‎−۰۰۰۵۶" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۵۶" />
+      <updated>1683669045990</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۵۷" summary="fix main layout dark and light theme">
+      <created>1683670238941</created>
+      <option name="number" value="LOCAL‎−۰۰۰۵۷" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۵۷" />
+      <updated>1683670238941</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۵۸" summary="fix some responsive ui">
+      <created>1683670402572</created>
+      <option name="number" value="LOCAL‎−۰۰۰۵۸" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۵۸" />
+      <updated>1683670402572</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۵۹" summary="fix height of body">
+      <created>1683670814636</created>
+      <option name="number" value="LOCAL‎−۰۰۰۵۹" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۵۹" />
+      <updated>1683670814636</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۶۰" summary="cleanup the main page header and add new image for me">
+      <created>1683672033277</created>
+      <option name="number" value="LOCAL‎−۰۰۰۶۰" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۶۰" />
+      <updated>1683672033277</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۶۱" summary="fix responsive design of home page header">
+      <created>1683672176619</created>
+      <option name="number" value="LOCAL‎−۰۰۰۶۱" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۶۱" />
+      <updated>1683672176619</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۶۲" summary="fix index theme">
+      <created>1683711685404</created>
+      <option name="number" value="LOCAL‎−۰۰۰۶۲" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۶۲" />
+      <updated>1683711685404</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۶۳" summary="fix blog theme">
+      <created>1683712234046</created>
+      <option name="number" value="LOCAL‎−۰۰۰۶۳" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۶۳" />
+      <updated>1683712234046</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۶۴" summary="fix uses page">
+      <created>1683712506149</created>
+      <option name="number" value="LOCAL‎−۰۰۰۶۴" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۶۴" />
+      <updated>1683712506149</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۶۵" summary="fix contact page and 404">
+      <created>1683712700086</created>
+      <option name="number" value="LOCAL‎−۰۰۰۶۵" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۶۵" />
+      <updated>1683712700086</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۶۶" summary="fix category layout">
+      <created>1683712937063</created>
+      <option name="number" value="LOCAL‎−۰۰۰۶۶" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۶۶" />
+      <updated>1683712937063</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -520,18 +526,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="add blog url for sitemap" />
-    <MESSAGE value="fix seo description" />
-    <MESSAGE value="add contact page" />
-    <MESSAGE value="make say hello target blank" />
-    <MESSAGE value="add scheduler for pr merge" />
-    <MESSAGE value="remove newsletter form from category" />
-    <MESSAGE value="fix category ui" />
-    <MESSAGE value="change favicon" />
-    <MESSAGE value="add rss feed link to the footer" />
-    <MESSAGE value="add instagram link" />
-    <MESSAGE value="remove say hello button" />
-    <MESSAGE value="update deps and add tall-stack article" />
     <MESSAGE value="add filament post and update deps" />
     <MESSAGE value="update the style" />
     <MESSAGE value="fix some bugs and add a new post" />
@@ -543,9 +537,21 @@
     <MESSAGE value="change dir.bz to cnz.ir url" />
     <MESSAGE value="fix the links" />
     <MESSAGE value="fix webpack" />
-    <MESSAGE value="update deps" />
     <MESSAGE value="change npm with pnpm" />
-    <option name="LAST_COMMIT_MESSAGE" value="change npm with pnpm" />
+    <MESSAGE value="update deps" />
+    <MESSAGE value="cleanup main layout" />
+    <MESSAGE value="fix layout" />
+    <MESSAGE value="fix main layout dark and light theme" />
+    <MESSAGE value="fix some responsive ui" />
+    <MESSAGE value="fix height of body" />
+    <MESSAGE value="cleanup the main page header and add new image for me" />
+    <MESSAGE value="fix responsive design of home page header" />
+    <MESSAGE value="fix index theme" />
+    <MESSAGE value="fix blog theme" />
+    <MESSAGE value="fix uses page" />
+    <MESSAGE value="fix contact page and 404" />
+    <MESSAGE value="fix category layout" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix category layout" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
