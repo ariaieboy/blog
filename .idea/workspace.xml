@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4201626-96e1-46d7-aaae-7166515ee4a5" name="Changes" comment="" />
+    <list default="true" id="d4201626-96e1-46d7-aaae-7166515ee4a5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_layouts/category.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/source/_layouts/category.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -218,12 +221,6 @@
       <workItem from="1681630960122" duration="2429000" />
       <workItem from="1683662620685" duration="2302000" />
       <workItem from="1683708421795" duration="1865000" />
-    </task>
-    <task id="LOCAL‎−۰۰۰۱۶" summary="fixes some ui and changed highlightjs theme">
-      <created>1669930469306</created>
-      <option name="number" value="LOCAL‎−۰۰۰۱۶" />
-      <option name="presentableId" value="LOCAL‎−۰۰۰۱۶" />
-      <updated>1669930469306</updated>
     </task>
     <task id="LOCAL‎−۰۰۰۱۷" summary="add torchlight">
       <created>1669931567044</created>
@@ -513,7 +510,13 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۶۴" />
       <updated>1683712506149</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL‎−۰۰۰۶۵" summary="fix contact page and 404">
+      <created>1683712700086</created>
+      <option name="number" value="LOCAL‎−۰۰۰۶۵" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۶۵" />
+      <updated>1683712700086</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -522,7 +525,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="remove say hello button" />
     <MESSAGE value="update deps and add tall-stack article" />
     <MESSAGE value="add filament post and update deps" />
     <MESSAGE value="update the style" />
@@ -547,7 +549,8 @@
     <MESSAGE value="fix index theme" />
     <MESSAGE value="fix blog theme" />
     <MESSAGE value="fix uses page" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix uses page" />
+    <MESSAGE value="fix contact page and 404" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix contact page and 404" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
