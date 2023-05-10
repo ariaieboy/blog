@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d4201626-96e1-46d7-aaae-7166515ee4a5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_layouts/category.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/source/_layouts/category.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/source/_assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_layouts/post.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/source/_layouts/post.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -221,12 +222,6 @@
       <workItem from="1681630960122" duration="2429000" />
       <workItem from="1683662620685" duration="2302000" />
       <workItem from="1683708421795" duration="1865000" />
-    </task>
-    <task id="LOCAL‎−۰۰۰۱۷" summary="add torchlight">
-      <created>1669931567044</created>
-      <option name="number" value="LOCAL‎−۰۰۰۱۷" />
-      <option name="presentableId" value="LOCAL‎−۰۰۰۱۷" />
-      <updated>1669931567044</updated>
     </task>
     <task id="LOCAL‎−۰۰۰۱۸" summary="update deps">
       <created>1669931701990</created>
@@ -516,7 +511,13 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۶۵" />
       <updated>1683712700086</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL‎−۰۰۰۶۶" summary="fix category layout">
+      <created>1683712937063</created>
+      <option name="number" value="LOCAL‎−۰۰۰۶۶" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۶۶" />
+      <updated>1683712937063</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -525,7 +526,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="update deps and add tall-stack article" />
     <MESSAGE value="add filament post and update deps" />
     <MESSAGE value="update the style" />
     <MESSAGE value="fix some bugs and add a new post" />
@@ -550,7 +550,8 @@
     <MESSAGE value="fix blog theme" />
     <MESSAGE value="fix uses page" />
     <MESSAGE value="fix contact page and 404" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix contact page and 404" />
+    <MESSAGE value="fix category layout" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix category layout" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
