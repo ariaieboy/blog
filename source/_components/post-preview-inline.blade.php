@@ -1,27 +1,31 @@
-<div class="border-b border-grey-lighter {{ !$loop->first?'pt-10':'' }} pb-8">
-    @if ($post->categories)
-        @foreach ($post->categories as $i => $category)
-            <a
-                href="{{ '/blog/categories/' . $category }}"
-                title="View posts in {{ $category }}"
-                class="mb-4 inline-block rounded-full bg-green-light px-2 py-1 font-body text-sm text-green"
-            >{{ $category }}</a
-            >
-        @endforeach
-    @endif
-
-    <a
-        href="{{ $post->getUrl() }}"
-        class="block font-body text-lg font-semibold text-primary transition-colors hover:text-green dark:text-white dark:hover:text-secondary"
-    >{{ $post->title }}</a
-    >
-    <div class="flex items-center pt-4">
-        <p class="pr-2 font-body font-light text-primary dark:text-white">
-            {{ $post->getDate()->format('F j, Y') }}
-        </p>
-        <span class="font-body text-grey dark:text-white">//</span>
-        <p class="pl-2 font-body font-light text-primary dark:text-white">
-            {{$post->estimated_reading_time}} read
-        </p>
+<div class="card w-full bg-base-100 shadow-xl">
+    <div class="card-body ">
+        <a
+                class="link link-hover hover:text-primary text-accent-content"
+                href="{{ $post->getUrl() }}">
+            <h2 class="card-title">
+                {{$post->title}}
+            </h2>
+        </a>
+        <div class="flex">
+            <p class="pr-2 grow-0">
+                {{ $post->getDate()->format('F j, Y') }}
+            </p>
+            <span class="grow-0">//</span>
+            <p class="pl-2 grow-0">
+                {{$post->estimated_reading_time}} read
+            </p></div>
+        <div class="card-actions justify-end">
+            @if ($post->categories)
+                @foreach ($post->categories as $i => $category)
+                    <a
+                            href="{{ '/blog/categories/' . $category }}"
+                            title="View posts in {{ $category }}"
+                            class="badge badge-outline link link-hover"
+                    >{{ $category }}</a
+                    >
+                @endforeach
+            @endif
+        </div>
     </div>
 </div>
