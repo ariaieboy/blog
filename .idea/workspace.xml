@@ -159,7 +159,7 @@
     "git-widget-placeholder": "13-laravel-sail-my-package",
     "javascript.nodejs.core.library.configured.version": "20.1.0",
     "javascript.nodejs.core.library.typings.version": "20.1.0",
-    "last_opened_file_path": "//wsl$/Ubuntu/home/ariaieboy/code/blog",
+    "last_opened_file_path": "//wsl$/Ubuntu/home/ariaieboy/code/blog/source/_posts",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -173,8 +173,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="\\wsl$\Ubuntu\home\ariaieboy\code\blog\source\assets\img" />
       <recent name="\\wsl$\Ubuntu\home\ariaieboy\code\blog\source\_posts" />
+      <recent name="\\wsl$\Ubuntu\home\ariaieboy\code\blog\source\assets\img" />
       <recent name="\\wsl$\openSUSE-Tumbleweed\home\ariaieboy\coding\blog\source\_posts" />
       <recent name="\\wsl$\Ubuntu\home\ariaieboy\code\blog\source" />
       <recent name="\\wsl$\Ubuntu\home\ariaieboy\code\blog" />
@@ -218,12 +218,6 @@
       <workItem from="1681630960122" duration="2429000" />
       <workItem from="1683662620685" duration="2302000" />
       <workItem from="1683708421795" duration="1865000" />
-    </task>
-    <task id="LOCAL‎−۰۰۰۱۸" summary="update deps">
-      <created>1669931701990</created>
-      <option name="number" value="LOCAL‎−۰۰۰۱۸" />
-      <option name="presentableId" value="LOCAL‎−۰۰۰۱۸" />
-      <updated>1669931701990</updated>
     </task>
     <task id="LOCAL‎−۰۰۰۱۹" summary="remove extra files">
       <created>1669931842534</created>
@@ -513,7 +507,13 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۶۶" />
       <updated>1683712937063</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL‎−۰۰۰۶۷" summary="add zsh plugin for laravel post">
+      <created>1684005906108</created>
+      <option name="number" value="LOCAL‎−۰۰۰۶۷" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۶۷" />
+      <updated>1684005906108</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -522,7 +522,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="add filament post and update deps" />
     <MESSAGE value="update the style" />
     <MESSAGE value="fix some bugs and add a new post" />
     <MESSAGE value="fix sitemap" />
@@ -547,7 +546,8 @@
     <MESSAGE value="fix uses page" />
     <MESSAGE value="fix contact page and 404" />
     <MESSAGE value="fix category layout" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix category layout" />
+    <MESSAGE value="add zsh plugin for laravel post" />
+    <option name="LAST_COMMIT_MESSAGE" value="add zsh plugin for laravel post" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
