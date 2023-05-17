@@ -20,7 +20,7 @@ jobs:
       - name: Install NPM dependencies
         run: pnpm install
       - name: Build the site
-        run: pnpm production
+        run: pnpm prod
 
       - name: Publish to Cloudflare Pages
         uses: cloudflare/pages-action@v1
