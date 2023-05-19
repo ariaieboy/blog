@@ -5,9 +5,7 @@
       <sourceFolder url="file://$MODULE_DIR$/listeners" isTestSource="false" packagePrefix="App\Listeners\" />
       <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
-      <excludeFolder url="file://$MODULE_DIR$/vendor/blade-ui-kit/blade-icons" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/guzzlehttp/uri-template" />
-      <excludeFolder url="file://$MODULE_DIR$/vendor/owenvoke/blade-fontawesome" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
