@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4201626-96e1-46d7-aaae-7166515ee4a5" name="Changes" comment="" />
+    <list default="true" id="d4201626-96e1-46d7-aaae-7166515ee4a5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,33 +154,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "13-laravel-sail-my-package",
-    "javascript.nodejs.core.library.configured.version": "20.1.0",
-    "javascript.nodejs.core.library.typings.version": "20.1.0",
-    "last_opened_file_path": "//wsl$/Ubuntu/home/ariaieboy/code/blog/source/_posts",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_interpreter_path": "wsl://Ubuntu@/usr/bin/node",
-    "nodejs_package_manager_path": "npm",
-    "prettierjs.PrettierConfiguration.Package": "\\\\wsl$\\Ubuntu\\home\\ariaieboy\\code\\blog\\node_modules\\prettier",
-    "settings.editor.selected.configurable": "settings.nodejs",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;9-swoole-and-octane&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;20.1.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;20.1.0&quot;,
+    &quot;last_opened_file_path&quot;: &quot;//wsl$/Ubuntu/home/ariaieboy/code/blog/source/assets/img/posts/10&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;wsl://Ubuntu@/usr/bin/node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;\\\\wsl$\\Ubuntu\\home\\ariaieboy\\code\\blog\\node_modules\\prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.nodejs&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="\\wsl$\Ubuntu\home\ariaieboy\code\blog\source\assets\img\posts\10" />
       <recent name="\\wsl$\Ubuntu\home\ariaieboy\code\blog\source\_posts" />
       <recent name="\\wsl$\Ubuntu\home\ariaieboy\code\blog\source\assets\img" />
       <recent name="\\wsl$\openSUSE-Tumbleweed\home\ariaieboy\coding\blog\source\_posts" />
       <recent name="\\wsl$\Ubuntu\home\ariaieboy\code\blog\source" />
-      <recent name="\\wsl$\Ubuntu\home\ariaieboy\code\blog" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="\\wsl$\Ubuntu\home\ariaieboy\code\blog\examples" />
@@ -218,12 +221,8 @@
       <workItem from="1681630960122" duration="2429000" />
       <workItem from="1683662620685" duration="2302000" />
       <workItem from="1683708421795" duration="1865000" />
-    </task>
-    <task id="LOCAL‎−۰۰۰۱۹" summary="remove extra files">
-      <created>1669931842534</created>
-      <option name="number" value="LOCAL‎−۰۰۰۱۹" />
-      <option name="presentableId" value="LOCAL‎−۰۰۰۱۹" />
-      <updated>1669931842534</updated>
+      <workItem from="1684353171415" duration="588000" />
+      <workItem from="1684405152162" duration="8000" />
     </task>
     <task id="LOCAL‎−۰۰۰۲۰" summary="added 2 categories and the first post file">
       <created>1669932580294</created>
@@ -513,7 +512,13 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۶۷" />
       <updated>1684005906108</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL‎−۰۰۰۶۸" summary="add laravel octane post &#10;update deps">
+      <created>1684350141190</created>
+      <option name="number" value="LOCAL‎−۰۰۰۶۸" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۶۸" />
+      <updated>1684350141190</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -522,7 +527,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="update the style" />
     <MESSAGE value="fix some bugs and add a new post" />
     <MESSAGE value="fix sitemap" />
     <MESSAGE value="update deps and add caprover post" />
@@ -547,7 +551,8 @@
     <MESSAGE value="fix contact page and 404" />
     <MESSAGE value="fix category layout" />
     <MESSAGE value="add zsh plugin for laravel post" />
-    <option name="LAST_COMMIT_MESSAGE" value="add zsh plugin for laravel post" />
+    <MESSAGE value="add laravel octane post &#10;update deps" />
+    <option name="LAST_COMMIT_MESSAGE" value="add laravel octane post &#10;update deps" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
