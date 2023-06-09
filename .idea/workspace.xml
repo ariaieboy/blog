@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4201626-96e1-46d7-aaae-7166515ee4a5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/blog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/blog.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeception.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeception.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/phpspec.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/phpspec.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/phpunit.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/phpunit.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +29,7 @@
     <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="8-nala-alternative-to-apt" />
+        <entry key="$PROJECT_DIR$" value="21-async-alpine" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -144,6 +152,12 @@
       <path value="$PROJECT_DIR$/vendor/guzzlehttp/uri-template" />
       <path value="$PROJECT_DIR$/vendor/owenvoke/blade-fontawesome" />
       <path value="$PROJECT_DIR$/vendor/blade-ui-kit/blade-icons" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php83" />
+      <path value="$PROJECT_DIR$/vendor/dflydev/dot-access-data" />
+      <path value="$PROJECT_DIR$/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/vendor/league/config" />
+      <path value="$PROJECT_DIR$/vendor/nette/schema" />
+      <path value="$PROJECT_DIR$/vendor/nette/utils" />
     </include_path>
   </component>
   <component name="ProjectId" id="2II6hrD5sgPasL8XNLb5rkJLA9V" />
@@ -154,30 +168,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;9-swoole-and-octane&quot;,
-    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;20.1.0&quot;,
-    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;20.1.0&quot;,
-    &quot;last_opened_file_path&quot;: &quot;//wsl$/Ubuntu/home/ariaieboy/code/blog/source/assets/img/posts/10&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_interpreter_path&quot;: &quot;wsl://Ubuntu@/usr/bin/node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;\\\\wsl$\\Ubuntu\\home\\ariaieboy\\code\\blog\\node_modules\\prettier&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.nodejs&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "23-update-to-daisyui-v3",
+    "javascript.nodejs.core.library.configured.version": "20.1.0",
+    "javascript.nodejs.core.library.typings.version": "20.1.0",
+    "last_opened_file_path": "//wsl$/Ubuntu/home/ariaieboy/code/blog/source/_posts",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "wsl://Ubuntu@/usr/bin/node",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "\\\\wsl$\\Ubuntu\\home\\ariaieboy\\code\\blog\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "settings.nodejs",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="\\wsl$\Ubuntu\home\ariaieboy\code\blog\source\assets\img\posts\10" />
       <recent name="\\wsl$\Ubuntu\home\ariaieboy\code\blog\source\_posts" />
+      <recent name="\\wsl$\Ubuntu\home\ariaieboy\code\blog\source\assets\img\posts\10" />
       <recent name="\\wsl$\Ubuntu\home\ariaieboy\code\blog\source\assets\img" />
       <recent name="\\wsl$\openSUSE-Tumbleweed\home\ariaieboy\coding\blog\source\_posts" />
       <recent name="\\wsl$\Ubuntu\home\ariaieboy\code\blog\source" />
@@ -223,12 +237,9 @@
       <workItem from="1683708421795" duration="1865000" />
       <workItem from="1684353171415" duration="588000" />
       <workItem from="1684405152162" duration="8000" />
-    </task>
-    <task id="LOCAL‎−۰۰۰۲۰" summary="added 2 categories and the first post file">
-      <created>1669932580294</created>
-      <option name="number" value="LOCAL‎−۰۰۰۲۰" />
-      <option name="presentableId" value="LOCAL‎−۰۰۰۲۰" />
-      <updated>1669932580294</updated>
+      <workItem from="1685577437656" duration="386000" />
+      <workItem from="1686342321626" duration="31000" />
+      <workItem from="1686342442232" duration="291000" />
     </task>
     <task id="LOCAL‎−۰۰۰۲۱" summary="first post">
       <created>1669933795224</created>
@@ -518,7 +529,13 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۶۸" />
       <updated>1684350141190</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL‎−۰۰۰۶۹" summary="add async alpine&#10;and update deps">
+      <created>1685577709549</created>
+      <option name="number" value="LOCAL‎−۰۰۰۶۹" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۶۹" />
+      <updated>1685577709550</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -527,7 +544,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="fix some bugs and add a new post" />
     <MESSAGE value="fix sitemap" />
     <MESSAGE value="update deps and add caprover post" />
     <MESSAGE value="fix pagination in blog" />
@@ -552,7 +568,8 @@
     <MESSAGE value="fix category layout" />
     <MESSAGE value="add zsh plugin for laravel post" />
     <MESSAGE value="add laravel octane post &#10;update deps" />
-    <option name="LAST_COMMIT_MESSAGE" value="add laravel octane post &#10;update deps" />
+    <MESSAGE value="add async alpine&#10;and update deps" />
+    <option name="LAST_COMMIT_MESSAGE" value="add async alpine&#10;and update deps" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
