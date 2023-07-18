@@ -6,30 +6,30 @@ date: 2022-12-09
 description: Why I am using TALL Stack
 categories: [tools]
 ---
-As a Laravel developer coming from the era of WordPress + Bootstrap + Jquery, TALL Stack looks like a DreamLand for me.
+As a Laravel developer from the WordPress + Bootstrap + Jquery era, TALL Stack looks like a DreamLand for me.
 
-In case you may not know, TALL Stack stands for TailwindCSS + AlpineJS + Laravel + Livewire.
+TALL Stack stands for TailwindCSS + AlpineJS + Laravel + Livewire.
 
 Livewire home page says :
-> Building modern web apps is hard. Tools like Vue and React are extremely powerful, but the complexity they add to a full-stack developer's workflow is insane.
+> Building modern web apps is hard. Tools like Vue and React are powerful, but the complexity they add to a full-stack developer's workflow is insane.
 
-And that's true, didn't you miss the era of learning a single library like Jquery for the whole front-end or just BootStrap for the styling of the web pages?
+And that's true; didn't you miss the era of learning a single library like Jquery for the whole front end or just BootStrap for styling the web pages?
 
-Why should I learn a new library (Ex. React) and then learn another framework on top of that (Ex. Nextjs) just to build a simple CRUD app when I can use the Tech Stack that I am familiar with already?
+Why should I learn a new library (Ex. React) and another framework (Ex. Nextjs) to build a simple CRUD app when I can use the Tech Stack I already know?
 
-With TALL stack I can build web apps at full speed and all I need is my Blade templates and Laravel BackEnd no need for extra CSS files or multiple JS files and bundlers.
+With TALL Stack, I can build web apps at full speed, and all I need is my Blade templates and Laravel BackEnd no need for extra CSS files or multiple JS files and bundlers.
 
-All developers want to build an app that works perfectly in the shortest time that is possible, And TALL stack is blazing fast in the development phase, with some tweaks and packages like Laravel Octane it's fast and scalable in production too.
+All developers want to build an app that works perfectly in the shortest possible time. TALL Stack is blazing fast in the development phase; with some tweaks and packages like Laravel Octane, it's also fast and scalable in production.
 
-If you do a quick search about the TALL stack you're going to see lots of articles that show the Pros and Cons of this Stack but in the end, the only thing that matters is that your apps going to build very fast and work like a charm without you needing to learn hell lots of new technologies.
+If you do a quick search about the TALL Stack, you're going to see lots of articles that show the Pros and Cons of this Stack, but in the end, the only thing that matters is that your apps are going to build very fast and work like a charm without you needing to learn hell lots of new technologies.
 
-TALL stack is built by Laravel community members, which means you have all Laravel goodies, the great community, awesome documentation, tons of third-party libraries and plugins, etc.
+The TALL Stack is created by members of the Laravel community, providing users with access to all the benefits of Laravel, including its great community, excellent documentation, and numerous third-party libraries and plugins.
 
-As a Solo Developer, the TALL stack is my dreamland of programming.
+As a Solo Developer, the TALL Stack is my dreamland of programming.
 
-With the release of 3rd version of TailwindCSS and Alpinejs now TALL stack is better than ever it was before and Livewire v3 is around the corner with lots of new goodies. If you are a Laravel developer it's the best time to jump in and try this stack. and get ready for the Livewire v3 release.
+With the release of the 3rd version of TailwindCSS and Alpinejs, now TALL Stack is better than ever, and Livewire v3 is around the corner with lots of new goodies. If you are a Laravel developer, it's the best time to jump in and try this Stack. And get ready for the Livewire v3 release.
 
-If you are interested to learn more about TALL stack here is some great link that you can check out:
+If you are interested to learn more about TALL Stack, here is some excellent link that you can check out:
 
 [CSS Utility Classes and "Separation of Concerns" By Adam Wathan the creator of TailwindCSS](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/)
 
