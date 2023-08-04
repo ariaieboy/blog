@@ -35,9 +35,9 @@ class GenerateEstimateReadingTime
         $str_seconds = 'sec';
 
         if ($minutes === 0) {
-            return "{$seconds} {$str_seconds} read";
+            return "{$seconds} {$str_seconds}";
         } else {
-            return "{$minutes} {$str_minutes} read";
+            return "{$minutes} {$str_minutes}";
         }
     }
 }
