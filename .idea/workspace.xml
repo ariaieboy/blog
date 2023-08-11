@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4201626-96e1-46d7-aaae-7166515ee4a5" name="Changes" comment="" />
+    <list default="true" id="d4201626-96e1-46d7-aaae-7166515ee4a5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -234,7 +236,7 @@
       <workItem from="1686342321626" duration="31000" />
       <workItem from="1686342442232" duration="291000" />
       <workItem from="1690236173043" duration="2000" />
-      <workItem from="1691145457574" duration="1246000" />
+      <workItem from="1691145457574" duration="1729000" />
     </task>
     <task id="LOCAL‎−۰۰۰۲۲" summary="add workflows">
       <created>1669934424627</created>
@@ -530,7 +532,7 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۷۰" />
       <updated>1687472811555</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -539,8 +541,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="fix pagination in blog" />
-    <MESSAGE value="fix home more posts link" />
     <MESSAGE value="update dir.bz to cnz.ir" />
     <MESSAGE value="change dir.bz to cnz.ir url" />
     <MESSAGE value="fix the links" />
@@ -564,7 +564,9 @@
     <MESSAGE value="add async alpine&#10;and update deps" />
     <MESSAGE value="add backup plans post" />
     <MESSAGE value="add laravel pint" />
-    <option name="LAST_COMMIT_MESSAGE" value="add laravel pint" />
+    <MESSAGE value="update estimate time reading time" />
+    <MESSAGE value="fix estimate reading time text" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix estimate reading time text" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
