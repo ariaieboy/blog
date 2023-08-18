@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="d4201626-96e1-46d7-aaae-7166515ee4a5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/12-how-do-i-backup-my-websites.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/12-how-do-i-backup-my-websites.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +23,7 @@
     <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="23-update-to-daisyui-v3" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -149,6 +152,7 @@
       <path value="$PROJECT_DIR$/vendor/league/config" />
       <path value="$PROJECT_DIR$/vendor/nette/schema" />
       <path value="$PROJECT_DIR$/vendor/nette/utils" />
+      <path value="$PROJECT_DIR$/vendor/psr/clock" />
     </include_path>
   </component>
   <component name="ProjectColorInfo">{
@@ -163,26 +167,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;20.1.0&quot;,
-    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;20.1.0&quot;,
-    &quot;last_opened_file_path&quot;: &quot;//wsl$/Ubuntu/home/ariaieboy/code/blog/source/_posts&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_interpreter_path&quot;: &quot;wsl://Ubuntu@/usr/bin/node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;\\\\wsl$\\Ubuntu\\home\\ariaieboy\\code\\blog\\node_modules\\prettier&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.nodejs&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "new__backup",
+    "ignore.virus.scanning.warn.message": "true",
+    "javascript.nodejs.core.library.configured.version": "20.1.0",
+    "javascript.nodejs.core.library.typings.version": "20.1.0",
+    "last_opened_file_path": "//wsl$/Ubuntu/home/ariaieboy/code/blog/source/_posts",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "wsl://Ubuntu@/usr/bin/node",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "\\\\wsl$\\Ubuntu\\home\\ariaieboy\\code\\blog\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "ml.llm.LLMConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="\\wsl$\Ubuntu\home\ariaieboy\code\blog\source\_posts" />
@@ -237,6 +242,8 @@
       <workItem from="1686342442232" duration="291000" />
       <workItem from="1690236173043" duration="2000" />
       <workItem from="1691145457574" duration="1729000" />
+      <workItem from="1691784844671" duration="1151000" />
+      <workItem from="1692385578128" duration="296000" />
     </task>
     <task id="LOCAL‎−۰۰۰۲۲" summary="add workflows">
       <created>1669934424627</created>
@@ -532,7 +539,7 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۷۰" />
       <updated>1687472811555</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -541,7 +548,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="update dir.bz to cnz.ir" />
     <MESSAGE value="change dir.bz to cnz.ir url" />
     <MESSAGE value="fix the links" />
     <MESSAGE value="fix webpack" />
@@ -566,7 +572,8 @@
     <MESSAGE value="add laravel pint" />
     <MESSAGE value="update estimate time reading time" />
     <MESSAGE value="fix estimate reading time text" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix estimate reading time text" />
+    <MESSAGE value="add avif post and update deps" />
+    <option name="LAST_COMMIT_MESSAGE" value="add avif post and update deps" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
