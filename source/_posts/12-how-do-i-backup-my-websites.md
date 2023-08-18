@@ -4,7 +4,7 @@ section: content
 title: "How do I backup my websites, and why should I improve"
 date: 2023-06-23
 description: "How do I backup my websites, and why should I improve"
-categories: [tools]
+categories: [backup,tools]
 ---
 
 In the old days, I didn't have any backup plans, and the only time I needed my website backed up, I was lucky that my host provider had an automatic backup system. I could restore my website using those backups, but I lost a week of data because the hosting provider would back up the host weekly.
