@@ -15,4 +15,4 @@ After trying several options, including Mozilla Thunderbird, the Nextcloud mail 
 
 If you are a fan of Windows Mail's speed and simplicity, you will surely love Mailspring. 
 
-You can download it from here: https://www.getmailspring.com/.
+You can download it from here: [https://www.getmailspring.com/](https://www.getmailspring.com/).
