@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4201626-96e1-46d7-aaae-7166515ee4a5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/deploy.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/deploy.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -254,7 +251,7 @@
       <workItem from="1691784844671" duration="1151000" />
       <workItem from="1692385578128" duration="431000" />
       <workItem from="1694086399003" duration="1126000" />
-      <workItem from="1706181164277" duration="429000" />
+      <workItem from="1706181164277" duration="1182000" />
     </task>
     <task id="LOCAL‎−۰۰۰۲۲" summary="add workflows">
       <created>1669934424627</created>
@@ -550,7 +547,7 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۷۰" />
       <updated>1687472811555</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -559,7 +556,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="fix webpack" />
     <MESSAGE value="change npm with pnpm" />
     <MESSAGE value="update deps" />
     <MESSAGE value="cleanup main layout" />
@@ -584,7 +580,8 @@
     <MESSAGE value="add avif post and update deps" />
     <MESSAGE value="add new post&#10;update deps" />
     <MESSAGE value="add new post" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new post" />
+    <MESSAGE value="update deps and add new post" />
+    <option name="LAST_COMMIT_MESSAGE" value="update deps and add new post" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
