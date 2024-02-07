@@ -28,6 +28,5 @@
 }
 :root,
 [data-theme] {
-    background-color: hsla(var(--b3) / var(--tw-bg-opacity, 1));
-    color: hsla(var(--bc) / var(--tw-text-opacity, 1));
+    background-color: oklch(var(--b3));
 }

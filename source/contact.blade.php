@@ -10,12 +10,12 @@ description: Get in touch with us
             <svg class="w-16 h-16 fill-current text-primary" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H512c35.3 0 64-28.7 64-64V96c0-35.3-28.7-64-64-64H64zm80 256h64c44.2 0 80 35.8 80 80c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16c0-44.2 35.8-80 80-80zm-32-96a64 64 0 1 1 128 0 64 64 0 1 1 -128 0zm256-32H496c8.8 0 16 7.2 16 16s-7.2 16-16 16H368c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H496c8.8 0 16 7.2 16 16s-7.2 16-16 16H368c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H496c8.8 0 16 7.2 16 16s-7.2 16-16 16H368c-8.8 0-16-7.2-16-16s7.2-16 16-16z"/></svg>
         </div>
         <h1
-                class="pt-5 text-4xl font-semibold text-accent-content md:text-5xl lg:text-6xl"
+                class="pt-5 text-4xl font-semibold text-base-content md:text-5xl lg:text-6xl"
         >
             Contact
         </h1>
         <div class="pr-2 pt-3 sm:pt-0">
-            <p class="text-xl font-light text-accent-content">
+            <p class="text-xl font-light text-base-content">
                 Got a question or proposal, or just want to say hello? Go ahead. You know what to do.
             </p>
         </div>
