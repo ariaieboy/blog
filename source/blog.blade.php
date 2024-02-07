@@ -14,13 +14,13 @@ pagination:
         </div>
 
         <h1
-            class="pt-5 text-4xl font-semibold text-accent-content md:text-5xl lg:text-6xl"
+            class="pt-5 text-4xl font-semibold text-base-content md:text-5xl lg:text-6xl"
         >
             Blog
         </h1>
 
         <div class="pt-3 sm:w-3/4">
-            <p class="text-xl font-light text-accent-content">
+            <p class="text-xl font-light text-base-content">
                 Articles, tutorials, snippets, and everything else.
             </p>
         </div>

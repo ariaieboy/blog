@@ -29,7 +29,7 @@ perPage: 4
             <div class="flex items-center pb-6">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="w-8 h-8 fill-current text-primary"><!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M96 96c0-35.3 28.7-64 64-64H448c35.3 0 64 28.7 64 64V416c0 35.3-28.7 64-64 64H80c-44.2 0-80-35.8-80-80V128c0-17.7 14.3-32 32-32s32 14.3 32 32V400c0 8.8 7.2 16 16 16s16-7.2 16-16V96zm64 24v80c0 13.3 10.7 24 24 24H296c13.3 0 24-10.7 24-24V120c0-13.3-10.7-24-24-24H184c-13.3 0-24 10.7-24 24zm208-8c0 8.8 7.2 16 16 16h48c8.8 0 16-7.2 16-16s-7.2-16-16-16H384c-8.8 0-16 7.2-16 16zm0 96c0 8.8 7.2 16 16 16h48c8.8 0 16-7.2 16-16s-7.2-16-16-16H384c-8.8 0-16 7.2-16 16zM160 304c0 8.8 7.2 16 16 16H432c8.8 0 16-7.2 16-16s-7.2-16-16-16H176c-8.8 0-16 7.2-16 16zm0 96c0 8.8 7.2 16 16 16H432c8.8 0 16-7.2 16-16s-7.2-16-16-16H176c-8.8 0-16 7.2-16 16z"/></svg>
                 <h3
-                        class="ml-3 font-body text-2xl font-semibold text-accent-content"
+                        class="ml-3 font-body text-2xl font-semibold text-base-content"
                 >
                     My Posts
                 </h3>
@@ -55,7 +55,7 @@ perPage: 4
             <div class="flex items-center pb-6">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="w-8 h-8 fill-current text-primary"><!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M80 104a24 24 0 1 0 0-48 24 24 0 1 0 0 48zm80-24c0 32.8-19.7 61-48 73.3v87.8c18.8-10.9 40.7-17.1 64-17.1h96c35.3 0 64-28.7 64-64v-6.7C307.7 141 288 112.8 288 80c0-44.2 35.8-80 80-80s80 35.8 80 80c0 32.8-19.7 61-48 73.3V160c0 70.7-57.3 128-128 128H176c-35.3 0-64 28.7-64 64v6.7c28.3 12.3 48 40.5 48 73.3c0 44.2-35.8 80-80 80s-80-35.8-80-80c0-32.8 19.7-61 48-73.3V352 153.3C19.7 141 0 112.8 0 80C0 35.8 35.8 0 80 0s80 35.8 80 80zm232 0a24 24 0 1 0 -48 0 24 24 0 1 0 48 0zM80 456a24 24 0 1 0 0-48 24 24 0 1 0 0 48z"/></svg>
                 <h3
-                        class="ml-3 font-body text-2xl font-semibold text-accent-content"
+                        class="ml-3 font-body text-2xl font-semibold text-base-content"
                 >
                     My Projects
                 </h3>
@@ -65,7 +65,7 @@ perPage: 4
                 <a
                         href="https://rakolo.com"
                         target="_blank"
-                        class="mb-6 flex items-center justify-between border border-accent-content hover:border-primary hover:text-primary link link-hover text-accent-content px-4 py-4 sm:px-6"
+                        class="mb-6 flex items-center justify-between border border-accent-content hover:border-primary hover:text-primary link link-hover text-base-content px-4 py-4 sm:px-6"
                 >
         <span class="w-9/10 pr-8">
           <h4
@@ -73,7 +73,7 @@ perPage: 4
           >
             Rakolo
           </h4>
-          <p class="font-light !text-accent-content">
+          <p class="font-light !text-base-content">
             An E-Commerce website written with TALL Stack.
           </p>
         </span>
@@ -84,7 +84,7 @@ perPage: 4
                 <a
                         href="https://donateon.ir"
                         target="_blank"
-                        class="mb-6 flex items-center justify-between border border-accent-content hover:border-primary hover:text-primary link link-hover text-accent-content px-4 py-4 sm:px-6"
+                        class="mb-6 flex items-center justify-between border border-accent-content hover:border-primary hover:text-primary link link-hover text-base-content px-4 py-4 sm:px-6"
                 >
         <span class="w-9/10 pr-8">
           <h4
@@ -92,7 +92,7 @@ perPage: 4
           >
             DonateOn
           </h4>
-          <p class="font-light !text-accent-content">
+          <p class="font-light !text-base-content">
             Donation system for iranian streamers.
           </p>
         </span>
@@ -103,7 +103,7 @@ perPage: 4
                 <a
                         href="https://cnz.ir"
                         target="_blank"
-                        class="mb-6 flex items-center justify-between border border-accent-content hover:border-primary hover:text-primary link link-hover text-accent-content px-4 py-4 sm:px-6"
+                        class="mb-6 flex items-center justify-between border border-accent-content hover:border-primary hover:text-primary link link-hover text-base-content px-4 py-4 sm:px-6"
                 >
         <span class="w-9/10 pr-8">
           <h4
@@ -111,7 +111,7 @@ perPage: 4
           >
             CnZ.ir (formally known as dir.bz)
           </h4>
-          <p class="font-light !text-accent-content">
+          <p class="font-light !text-base-content">
             A free link shortener website.
           </p>
         </span>
@@ -122,7 +122,7 @@ perPage: 4
                 <a
                         href="https://github.com/ariaieboy"
                         target="_blank"
-                        class="mb-6 flex items-center justify-between border border-accent-content hover:border-primary hover:text-primary link link-hover text-accent-content px-4 py-4 sm:px-6"
+                        class="mb-6 flex items-center justify-between border border-accent-content hover:border-primary hover:text-primary link link-hover text-base-content px-4 py-4 sm:px-6"
                 >
         <span class="w-9/10 pr-8">
           <h4
@@ -130,7 +130,7 @@ perPage: 4
           >
             Open-Source Contributions
           </h4>
-          <p class="font-light !text-accent-content">
+          <p class="font-light !text-base-content">
             Open-Source contributions mostly to the TALL-Stack projects.
           </p>
         </span>

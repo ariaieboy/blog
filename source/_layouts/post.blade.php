@@ -34,7 +34,7 @@
         </div>
         <div class="divider py-4"></div>
         <div
-                class="prose lg:prose-xl prose-stone max-w-none py-4 dark:prose-dark sm:py-8"
+                class="prose lg:prose-xl prose-slate max-w-none py-4 dark:prose-invert sm:py-8"
         >
             @yield('content')
         </div>
