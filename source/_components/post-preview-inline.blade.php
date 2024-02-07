@@ -1,7 +1,7 @@
 <div class="card w-full bg-base-100 shadow-xl">
     <div class="card-body ">
         <a
-                class="link link-hover hover:text-primary text-accent-content"
+                class="link link-hover hover:text-primary text-base-content"
                 href="{{ $post->getUrl() }}">
             <h2 class="card-title">
                 {{$post->title}}

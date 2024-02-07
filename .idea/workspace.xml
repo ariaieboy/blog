@@ -5,7 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4201626-96e1-46d7-aaae-7166515ee4a5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/deploy.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/deploy.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeception.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeception.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/phpspec.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/phpspec.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/404.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/source/404.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/source/_assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_components/post-preview-inline.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/source/_components/post-preview-inline.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_layouts/post.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/source/_layouts/post.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/blog.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/source/blog.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/contact.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/source/contact.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/source/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/uses.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/source/uses.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +34,7 @@
     <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="new_backup" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -171,11 +185,11 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.laravel-idea.update-module-directories&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;26-update-to-daisyui-4&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;20.1.0&quot;,
     &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;20.1.0&quot;,
-    &quot;last_opened_file_path&quot;: &quot;//wsl$/Ubuntu/home/ariaieboy/code/blog/source/_posts&quot;,
+    &quot;last_opened_file_path&quot;: &quot;//wsl.localhost/Ubuntu/home/ariaieboy/code/blog&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -203,7 +217,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-php-predefined-ba97393d7c68-6f8e3395a2b4-com.jetbrains.php.sharedIndexes-PS-233.14015.25" />
+        <option value="bundled-php-predefined-ba97393d7c68-6f8e3395a2b4-com.jetbrains.php.sharedIndexes-PS-233.14015.96" />
       </set>
     </attachedChunks>
   </component>
@@ -252,6 +266,8 @@
       <workItem from="1692385578128" duration="431000" />
       <workItem from="1694086399003" duration="1126000" />
       <workItem from="1706181164277" duration="1182000" />
+      <workItem from="1707310312665" duration="186000" />
+      <workItem from="1707310567870" duration="1468000" />
     </task>
     <task id="LOCAL‎−۰۰۰۲۲" summary="add workflows">
       <created>1669934424627</created>
