@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4201626-96e1-46d7-aaae-7166515ee4a5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/blade.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/blade.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_layouts/main.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/source/_layouts/main.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,7 +188,7 @@
     "ignore.virus.scanning.warn.message": "true",
     "javascript.nodejs.core.library.configured.version": "20.1.0",
     "javascript.nodejs.core.library.typings.version": "20.1.0",
-    "last_opened_file_path": "//wsl.localhost/Ubuntu/home/ariaieboy/code/blog",
+    "last_opened_file_path": "//wsl.localhost/Ubuntu/home/ariaieboy/code/blog/source/_posts",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -204,11 +202,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="\\wsl.localhost\Ubuntu\home\ariaieboy\code\blog\source\_posts" />
       <recent name="\\wsl$\Ubuntu\home\ariaieboy\code\blog\source\_posts" />
       <recent name="\\wsl$\Ubuntu\home\ariaieboy\code\blog\source\assets\img\posts\10" />
       <recent name="\\wsl$\Ubuntu\home\ariaieboy\code\blog\source\assets\img" />
       <recent name="\\wsl$\openSUSE-Tumbleweed\home\ariaieboy\coding\blog\source\_posts" />
-      <recent name="\\wsl$\Ubuntu\home\ariaieboy\code\blog\source" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="\\wsl$\Ubuntu\home\ariaieboy\code\blog\examples" />
@@ -576,7 +574,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="change npm with pnpm" />
-    <MESSAGE value="update deps" />
     <MESSAGE value="cleanup main layout" />
     <MESSAGE value="fix layout" />
     <MESSAGE value="fix main layout dark and light theme" />
@@ -598,9 +595,10 @@
     <MESSAGE value="fix estimate reading time text" />
     <MESSAGE value="add avif post and update deps" />
     <MESSAGE value="add new post&#10;update deps" />
-    <MESSAGE value="add new post" />
     <MESSAGE value="update deps and add new post" />
-    <option name="LAST_COMMIT_MESSAGE" value="update deps and add new post" />
+    <MESSAGE value="update deps" />
+    <MESSAGE value="add new post" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new post" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
