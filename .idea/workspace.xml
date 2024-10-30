@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d4201626-96e1-46d7-aaae-7166515ee4a5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -573,7 +572,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="cleanup main layout" />
     <MESSAGE value="fix layout" />
     <MESSAGE value="fix main layout dark and light theme" />
     <MESSAGE value="fix some responsive ui" />
@@ -598,7 +596,8 @@
     <MESSAGE value="update deps" />
     <MESSAGE value="add new post" />
     <MESSAGE value="change twitter to x" />
-    <option name="LAST_COMMIT_MESSAGE" value="change twitter to x" />
+    <MESSAGE value="add post 19" />
+    <option name="LAST_COMMIT_MESSAGE" value="add post 19" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
