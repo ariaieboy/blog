@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4201626-96e1-46d7-aaae-7166515ee4a5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/deploy.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/deploy.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/20-how-i-improved-my-docker-build-github-action-speed.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/20-how-i-improved-my-docker-build-github-action-speed.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -595,7 +591,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="fix main layout dark and light theme" />
     <MESSAGE value="fix some responsive ui" />
     <MESSAGE value="fix height of body" />
     <MESSAGE value="cleanup the main page header and add new image for me" />
@@ -620,7 +615,8 @@
     <MESSAGE value="change twitter to x" />
     <MESSAGE value="add post 19" />
     <MESSAGE value="remove matomo" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove matomo" />
+    <MESSAGE value="add new posts" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new posts" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
