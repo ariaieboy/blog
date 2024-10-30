@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4201626-96e1-46d7-aaae-7166515ee4a5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/deploy.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/deploy.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +132,6 @@
       <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
       <path value="$PROJECT_DIR$/vendor/symfony/finder" />
       <path value="$PROJECT_DIR$/vendor/tightenco/jigsaw" />
-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
       <path value="$PROJECT_DIR$/vendor/symfony/translation" />
       <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
       <path value="$PROJECT_DIR$/vendor/laravel/sail" />
@@ -181,6 +184,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.laravel-idea.update-module-directories&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
@@ -215,9 +219,28 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PS-241.15989.102" />
-        <option value="bundled-php-predefined-ba97393d7c68-c76157a7178b-com.jetbrains.php.sharedIndexes-PS-241.15989.102" />
-        <option value="php-symfony_yaml-37cbfb0ca1b6-b231fe5a" />
+        <option value="bundled-js-predefined-d6986cc7102b-bed05e336f61-JavaScript-PS-243.21155.35" />
+        <option value="bundled-php-predefined-a98d8de5180a-286a7e55ead1-com.jetbrains.php.sharedIndexes-PS-243.21155.35" />
+        <option value="php-doctrine_inflector-5543a6ebd44f-c145f861" />
+        <option value="php-guzzlehttp_guzzle-5543a6ebd44f-b994bd38" />
+        <option value="php-guzzlehttp_promises-5543a6ebd44f-0560acd8" />
+        <option value="php-guzzlehttp_psr7-5543a6ebd44f-9c898c0f" />
+        <option value="php-monolog_monolog-5543a6ebd44f-60d6c1df" />
+        <option value="php-nette_utils-5543a6ebd44f-02ca1837" />
+        <option value="php-nunomaduro_collision-5543a6ebd44f-5ebaaf82" />
+        <option value="php-ramsey_uuid-5543a6ebd44f-cd9256cc" />
+        <option value="php-symfony_console-5543a6ebd44f-5a7aa3a6" />
+        <option value="php-symfony_error_handler-5543a6ebd44f-119cccb8" />
+        <option value="php-symfony_event_dispatcher-5543a6ebd44f-b72d948a" />
+        <option value="php-symfony_finder-5543a6ebd44f-128c6d77" />
+        <option value="php-symfony_http_foundation-5543a6ebd44f-870b7b9c" />
+        <option value="php-symfony_http_kernel-5543a6ebd44f-a877de89" />
+        <option value="php-symfony_mime-5543a6ebd44f-d9f38a27" />
+        <option value="php-symfony_string-5543a6ebd44f-ba92a5af" />
+        <option value="php-symfony_translation-5543a6ebd44f-387e617b" />
+        <option value="php-symfony_var_dumper-5543a6ebd44f-083fc93e" />
+        <option value="php-symfony_yaml-5543a6ebd44f-16419819" />
+        <option value="php-voku_portable_ascii-5543a6ebd44f-0f088a03" />
       </set>
     </attachedChunks>
   </component>
@@ -572,7 +595,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="fix layout" />
     <MESSAGE value="fix main layout dark and light theme" />
     <MESSAGE value="fix some responsive ui" />
     <MESSAGE value="fix height of body" />
@@ -597,7 +619,8 @@
     <MESSAGE value="add new post" />
     <MESSAGE value="change twitter to x" />
     <MESSAGE value="add post 19" />
-    <option name="LAST_COMMIT_MESSAGE" value="add post 19" />
+    <MESSAGE value="remove matomo" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove matomo" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

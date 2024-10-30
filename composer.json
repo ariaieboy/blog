@@ -1,7 +1,7 @@
 {
     "require": {
-        "tightenco/jigsaw": "^1.6",
-        "samdark/sitemap": "^2.4",
+        "tightenco/jigsaw": "^1.7.1",
+        "samdark/sitemap": "^2.4.1",
         "torchlight/torchlight-jigsaw": "^0.3.4"
     },
     "autoload": {
