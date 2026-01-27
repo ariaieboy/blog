@@ -1,1 +1,1 @@
-<img src="/assets/img/me.webp" class="h-64 w-64 rounded-full" alt="author"/>
+<img src="/assets/img/me.JPG" class="h-64 w-64 rounded-full" alt="author"/>
