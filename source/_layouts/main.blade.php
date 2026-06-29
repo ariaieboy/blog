@@ -19,7 +19,9 @@
     @if ($page->production)
         <!-- Insert analytics code here -->
     @endif
-    <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
+    @viteRefresh()
+    <link rel="stylesheet" href="{{ vite('source/_assets/css/main.css') }}">
+    <script defer type="module" src="{{ vite('source/_assets/js/main.js') }}"></script>
 </head>
 
 <body class="min-h-screen">
@@ -117,7 +119,6 @@
 
     </div>
 </div>
-<script src="{{ mix('js/main.js', 'assets/build') }}"></script>
 @stack('scripts')
 </body>
 </html>

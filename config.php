@@ -3,7 +3,7 @@
 use Illuminate\Support\Str;
 
 return [
-    'baseUrl' => '',
+    'baseUrl' => 'http://localhost',
     'production' => false,
     'siteName' => 'AriaieBOY Blog',
     'siteDescription' => 'Articles, tutorials, snippets, and everything else.',
