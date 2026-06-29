@@ -122,7 +122,7 @@ The Code above is the only thing you need to create a full CRUD for your User Mo
 Even if it's your first time seeing a Filament resource file you can understand 90% of the snippet's code above. Because of the great syntax of the Filament.
 
 One of the best features of Filament is the auto-populating of select options using the model relationship:
-```PHP
+```php
 Forms\Components\Select::make('roles')
                     ->multiple()
                     ->relationship('roles', 'name')
@@ -132,12 +132,12 @@ In these snippets, I've created a multiple select input for the `roles` relation
 It's getting, even more, interesting because these 4 lines of code also handle the creation or updating of the record relationship automatically and you don't need to do anything to save the selected options that users send with the create or edit form and that is amazing.
 
 Your relationship may have a lot of options and good practice is to add a search to the select something like Select2js is very useful in a typical application you must install and configure the Select2 and provide the needed data or create an API endpoint so Select2 can fetch the data remotely. but in the Filament the only thing that you need to do is to add one line of code.
-```PHP
+```php
 Forms\Components\Select::make('roles')
-                    ->multiple()
-		            ->searchable() // [tl! focus]
-                    ->relationship('roles', 'name')
-                    ->preload(),
+                    {~ ->multiple() ~}
+		            {+ ->searchable() +}
+                    {~ ->relationship('roles', 'name') ~}
+                    {~ ->preload() ~},
 ```
 By adding one method `searchable()` you gonna have a Select2 kind of search on your select input. isn't that amazing?
 

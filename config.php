@@ -3,7 +3,7 @@
 use Illuminate\Support\Str;
 
 return [
-    'baseUrl' => 'http://localhost',
+    'baseUrl' => env('APP_URL','http://localhost'),
     'production' => false,
     'siteName' => 'AriaieBOY Blog',
     'siteDescription' => 'Articles, tutorials, snippets, and everything else.',

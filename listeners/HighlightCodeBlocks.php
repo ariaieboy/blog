@@ -16,7 +16,7 @@ class HighlightCodeBlocks
         // Find all HTML files in the output directory
         $files = $this->getHtmlFiles($outputPath);
 
-        $highlighter = new Highlighter(new CssTheme());
+        $highlighter = new Highlighter(new CssTheme())->withGutter();
 
         foreach ($files as $file) {
             $content = file_get_contents($file);
@@ -29,7 +29,7 @@ class HighlightCodeBlocks
                     $code = html_entity_decode($matches[2]);
 
                     try {
-                        $highlighted = $highlighter->parse($code, $language);
+                        $highlighted = $highlighter->parse($code, strtolower($language));
                         return '<pre class="highlight"><code class="language-' . $language . '">' . $highlighted . '</code></pre>';
                     } catch (\Exception $e) {
                         // If highlighting fails, return the original
