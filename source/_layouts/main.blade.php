@@ -88,7 +88,7 @@
         @yield('body')
     </div>
     <div class="py-4 lg:py-6">
-        <footer class="footer items-center p-4 bg-base-100 rounded-lg">
+        <footer class="footer-horizontal items-center p-4 bg-base-100 rounded-lg">
             <div class="items-center grid-flow-col">
                 <img src="/assets/img/logo.png" class="w-10 h-10 bg-logo rounded-full" alt="logo"/>
                 <p>Copyright ©2022{{(date('Y')!=='2022'?"-".date('Y'):'')}} - All right reserved</p>

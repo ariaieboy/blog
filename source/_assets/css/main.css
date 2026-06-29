@@ -1,6 +1,10 @@
 @import '../../../vendor/tempest/highlight/src/Themes/Css/one-dark-pro.css'
   layer(base);
 @import 'tailwindcss';
+@plugin "daisyui" {
+  themes: light --default, dark --prefersdark;
+}
+
 
 @config '../../../tailwind.config.js';
 
@@ -154,8 +158,7 @@
 
 @layer components {
     code{
-      /*TODO: !bg-neutral !text-neutral-content*/
-        @apply p-1 rounded-xs!;
+        @apply !bg-neutral !text-neutral-content p-1 rounded-xs!;
     }
 }
 /*
