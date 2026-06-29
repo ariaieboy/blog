@@ -6,9 +6,7 @@
     "build": "vite build",
     "prod": "vite build --mode production"
   },
-  "allowScripts": [
-    "tailwindcss"
-  ],
+  "allow-scripts-pending": true,
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.13",
     "@tighten/jigsaw-vite-plugin": "^2.0.0",
