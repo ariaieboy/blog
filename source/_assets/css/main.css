@@ -154,7 +154,8 @@
 
 @layer components {
     code{
-        @apply p-1 !bg-neutral !text-neutral-content rounded-xs!;
+      /*TODO: !bg-neutral*/
+        @apply p-1 !text-neutral-content rounded-xs!;
     }
 }
 /*
