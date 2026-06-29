@@ -4,7 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4201626-96e1-46d7-aaae-7166515ee4a5" name="Changes" comment="" />
+    <list default="true" id="d4201626-96e1-46d7-aaae-7166515ee4a5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap.php" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/torchlight.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/torchlight_cache/02/65/02657a27fbb6e88fd910ce223dff3d8542681d2f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/torchlight_cache/03/12/0312f4eb7f3c3d230686c0fce492850478257196" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/torchlight_cache/03/a5/03a50ee37f2725bfe0d3ea3e51a3c48517ba9674" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/torchlight_cache/0b/66/0b6643fe8fd02f6e333df5d45f325ba54d91915e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/torchlight_cache/12/37/12371e2a216a723d6206be2c154f2d716cf031cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/torchlight_cache/12/6f/126f1f3024da4e7cd715c3e1fec94c134d6c23cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/torchlight_cache/13/e1/13e119c94a33b567ce76616c436f59cc8312a06a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/torchlight_cache/15/af/15afea60d992dacc3dee42987332332fcd65ba21" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/torchlight_cache/23/f8/23f860dd24d5eb233fad024396d1f89a62a20f0f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/torchlight_cache/26/07/2607072b0924598d7cc8b3ab1c48846e25d96bb6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/torchlight_cache/3a/66/3a66897f3ad7e4bb3d4b7a1ae7f18cf5d751cefe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/torchlight_cache/46/43/46430e0f101326828ef2517440aef1544f379245" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/torchlight_cache/46/c5/46c543c19669241ba3c4c5225becbf136224cabd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/torchlight_cache/4b/2b/4b2b24a2955cb39f2545e197407d52bf05e9dc29" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/torchlight_cache/4f/c9/4fc9d23e738211aa7f66dc7d3b5fa9d516475c29" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/torchlight_cache/53/65/53655f43721712c7fe41b37c9cb63d93d30e4754" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/torchlight_cache/59/9a/599a6d74ba4906bc00e13e9bf3dfe78e4801b1d4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/torchlight_cache/5a/b1/5ab123f86051eaeb1fc4b10ded54c7925f22ae76" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/torchlight_cache/62/80/6280bbcb533448fe6341ed92ffc9eb8488334218" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/torchlight_cache/69/6e/696e7c43dde5a44913edc8e90519a5e5cde5f3ab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/torchlight_cache/7c/71/7c715fd6ddca675dd88d97b4bd844357bbbfd44f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/torchlight_cache/7d/a8/7da8d2ffa8c4080f0f4bc512200317437a32809a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/torchlight_cache/83/ea/83ea2e042b524d9368dc692e3d2db4d8eb266a56" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/torchlight_cache/84/39/8439c33b9656ac19b0ac7ff18b76636642315d02" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/torchlight_cache/8b/66/8b66dd5ed014f185d0c70d82a02b3fdbe124eee9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/torchlight_cache/8c/59/8c597a379ca8c57ca83f9a02fd0315fd0dbf62e9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/torchlight_cache/93/af/93af56a8f0db7c87750b7b62f9423a9e2ae6ddf3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/torchlight_cache/b9/9b/b99b178e5576c8e980a119d3699a75b70be5b7da" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/torchlight_cache/b9/ef/b9ef2d07543c3af1106b2bb514248a5c3426cd59" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/torchlight_cache/ba/1e/ba1e9c495c3d6a3cfa1bf0cf36b0b6f5c6a701b9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/torchlight_cache/c9/3d/c93ddd24f62193362f4042dda7e1882e833e9e43" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/torchlight_cache/cf/0d/cf0db86b6947f69d2412ecf3540c8c21cb65b29a" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -173,6 +211,16 @@
       <path value="$PROJECT_DIR$/vendor/nette/utils" />
       <path value="$PROJECT_DIR$/vendor/psr/clock" />
       <path value="$PROJECT_DIR$/vendor/carbonphp/carbon-doctrine-types" />
+      <path value="$PROJECT_DIR$/vendor/spatie/error-solutions" />
+      <path value="$PROJECT_DIR$/vendor/laravel/serializable-closure" />
+      <path value="$PROJECT_DIR$/vendor/laravel/prompts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php86" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php85" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php84" />
+      <path value="$PROJECT_DIR$/vendor/symfony/clock" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/reflection" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/queue" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/database" />
     </include_path>
   </component>
   <component name="ProjectColorInfo">{
@@ -202,34 +250,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.laravel-idea.update-module-directories&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.laravel_idea.move_run_console_settings&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;copilot.chat.legacySessionMetadata.migrated&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;20.1.0&quot;,
-    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;20.1.0&quot;,
-    &quot;last_opened_file_path&quot;: &quot;//wsl.localhost/openSUSE-Tumbleweed/home/ariaieboy/code/blog/source/assets/img&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_interpreter_path&quot;: &quot;wsl://Ubuntu@/usr/bin/node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;\\\\wsl$\\Ubuntu\\home\\ariaieboy\\code\\blog\\node_modules\\prettier&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.laravel-idea.update-module-directories": "true",
+    "RunOnceActivity.laravel_idea.move_run_console_settings": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "git-widget-placeholder": "update",
+    "git.auto.fetch.suggestion.counter": "1",
+    "ignore.virus.scanning.warn.message": "true",
+    "javascript.nodejs.core.library.configured.version": "20.1.0",
+    "javascript.nodejs.core.library.typings.version": "20.1.0",
+    "last_opened_file_path": "//wsl.localhost/openSUSE-Tumbleweed/home/ariaieboy/code/blog/source/assets/img",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "wsl://Ubuntu@/usr/bin/node",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "\\\\wsl$\\Ubuntu\\home\\ariaieboy\\code\\blog\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "configurable.group.appearance",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="\\wsl.localhost\openSUSE-Tumbleweed\home\ariaieboy\code\blog\source\assets\img" />
