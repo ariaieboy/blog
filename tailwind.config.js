@@ -31,21 +31,21 @@ module.exports = {
             }
         },
     },
-    daisyui: {
-        themes: [{
-            light: {
-                ...require("daisyui/src/theming/themes")["light"],
-                primary: "#156EF4",
-            },
-            dark: {
-                ...require("daisyui/src/theming/themes")["dark"],
-                primary: "#156EF4",
-            },
-        }]
-    },
+    // daisyui: {
+    //     themes: [{
+    //         light: {
+    //             ...require("daisyui/src/theming/themes")["light"],
+    //             primary: "#156EF4",
+    //         },
+    //         dark: {
+    //             ...require("daisyui/src/theming/themes")["dark"],
+    //             primary: "#156EF4",
+    //         },
+    //     }]
+    // },
     plugins: [
         require("@tailwindcss/typography"),
-        require("daisyui")
+        // require("daisyui")
     ],
 }
 
