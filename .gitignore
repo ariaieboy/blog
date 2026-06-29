@@ -6,3 +6,5 @@
 /assets/
 /cache/
 /torchlight_cache/
+.env
+.idea
