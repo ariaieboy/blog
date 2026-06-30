@@ -6,11 +6,11 @@
             </svg>
             {{ $page->siteName }}
         </a>
-        <div class="flex gap-3 text-sm">
-            <a href="/blog" class="link link-hover {{ $page->isActive('/blog') ? 'text-primary' : '' }}">Blog</a>
-            <a href="/uses" class="link link-hover {{ $page->isActive('/uses') ? 'text-primary' : '' }}">Uses</a>
-            <a href="/about" class="link link-hover {{ $page->isActive('/about') ? 'text-primary' : '' }}">About</a>
-            <a href="/contact" class="link link-hover {{ $page->isActive('/contact') ? 'text-primary' : '' }}">Contact</a>
+        <div class="flex flex-wrap gap-2">
+            <a href="/blog" class="btn btn-ghost {{ $page->isActive('/blog') ? 'text-primary' : '' }}">Blog</a>
+            <a href="/uses" class="btn btn-ghost {{ $page->isActive('/uses') ? 'text-primary' : '' }}">Uses</a>
+            <a href="/about" class="btn btn-ghost {{ $page->isActive('/about') ? 'text-primary' : '' }}">About</a>
+            <a href="/contact" class="btn btn-ghost {{ $page->isActive('/contact') ? 'text-primary' : '' }}">Contact</a>
         </div>
     </div>
 </header>

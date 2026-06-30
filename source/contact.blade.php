@@ -13,12 +13,12 @@ description: Get in touch with us
         <p class="text-base opacity-80 mb-8">Got a question or just want to say hello? Reach out — I'd love to hear from you.</p>
 
         <div class="flex flex-wrap gap-3 mb-8">
-            <a href="https://x.com/ariaieboy_ir" target="_blank" rel="noopener noreferrer" class="btn btn-outline btn-sm">X (Twitter)</a>
-            <a href="https://bsky.app/profile/ariaieboy.ir" target="_blank" rel="noopener noreferrer" class="btn btn-outline btn-sm">Bluesky</a>
-            <a href="https://instagram.com/ariaieboy" target="_blank" rel="noopener noreferrer" class="btn btn-outline btn-sm">Instagram</a>
-            <a href="https://t.me/ariaieboy" target="_blank" rel="noopener noreferrer" class="btn btn-outline btn-sm">Telegram</a>
-            <a href="https://github.com/ariaieboy" target="_blank" rel="noopener noreferrer" class="btn btn-outline btn-sm">GitHub</a>
-            <a href="https://wa.me/989158585889?text=hi,%20i%20am%20contacting%20from%20github" target="_blank" rel="noopener noreferrer" class="btn btn-outline btn-sm">WhatsApp</a>
+            <a href="https://x.com/ariaieboy_ir" target="_blank" rel="noopener noreferrer" class="btn btn-outline">X (Twitter)</a>
+            <a href="https://bsky.app/profile/ariaieboy.ir" target="_blank" rel="noopener noreferrer" class="btn btn-outline">Bluesky</a>
+            <a href="https://instagram.com/ariaieboy" target="_blank" rel="noopener noreferrer" class="btn btn-outline">Instagram</a>
+            <a href="https://t.me/ariaieboy" target="_blank" rel="noopener noreferrer" class="btn btn-outline">Telegram</a>
+            <a href="https://github.com/ariaieboy" target="_blank" rel="noopener noreferrer" class="btn btn-outline">GitHub</a>
+            <a href="https://wa.me/989158585889?text=hi,%20i%20am%20contacting%20from%20github" target="_blank" rel="noopener noreferrer" class="btn btn-outline">WhatsApp</a>
         </div>
 
         <p class="text-sm opacity-70">Or email me at <a href="mailto:ariaieboy.ir@gmail.com" class="link">ariaieboy.ir@gmail.com</a></p>

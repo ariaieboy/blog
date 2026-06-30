@@ -1,0 +1,5 @@
+/* Keep pre/code blocks from overflowing */
+.prose pre, .prose code {
+    white-space: pre-wrap;
+    word-break: break-word;
+}

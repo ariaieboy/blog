@@ -23,11 +23,11 @@ description: A little bit about the site
         </div>
 
         <div class="flex flex-wrap gap-3 mt-8 pt-8 border-t border-base-300">
-            <a href="https://github.com/ariaieboy" target="_blank" rel="noopener noreferrer" class="btn btn-outline btn-sm">GitHub</a>
-            <a href="https://x.com/ariaieboy_ir" target="_blank" rel="noopener noreferrer" class="btn btn-outline btn-sm">X (Twitter)</a>
-            <a href="https://bsky.app/profile/ariaieboy.ir" target="_blank" rel="noopener noreferrer" class="btn btn-outline btn-sm">Bluesky</a>
-            <a href="/uses" class="btn btn-outline btn-sm">/uses</a>
-            <a href="/contact" class="btn btn-outline btn-sm">Contact</a>
+            <a href="https://github.com/ariaieboy" target="_blank" rel="noopener noreferrer" class="btn btn-outline">GitHub</a>
+            <a href="https://x.com/ariaieboy_ir" target="_blank" rel="noopener noreferrer" class="btn btn-outline">X (Twitter)</a>
+            <a href="https://bsky.app/profile/ariaieboy.ir" target="_blank" rel="noopener noreferrer" class="btn btn-outline">Bluesky</a>
+            <a href="/uses" class="btn btn-outline">/uses</a>
+            <a href="/contact" class="btn btn-outline">Contact</a>
         </div>
     </div>
 @endsection
