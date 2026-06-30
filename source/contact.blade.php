@@ -21,6 +21,6 @@ description: Get in touch with us
             <a href="https://wa.me/989158585889?text=hi,%20i%20am%20contacting%20from%20github" target="_blank" rel="noopener noreferrer" class="btn btn-outline btn-sm">WhatsApp</a>
         </div>
 
-        <p class="text-sm opacity-70">Or email me at <a href="mailto:ariaieboy@example.com" class="link">ariaieboy@example.com</a></p>
+        <p class="text-sm opacity-70">Or email me at <a href="mailto:ariaieboy.ir@gmail.com" class="link">ariaieboy.ir@gmail.com</a></p>
     </div>
 @stop
