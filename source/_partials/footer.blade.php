@@ -3,6 +3,8 @@
         <p class="text-sm opacity-70">&copy; 2022-{{ date('Y') }} {{ $page->siteName }}. All rights reserved.</p>
 
         <nav class="flex flex-wrap justify-center gap-4 text-sm">
+            <a href="/blog" class="link link-hover">Blog</a>
+            <a href="/uses" class="link link-hover">Uses</a>
             <a href="/about" class="link link-hover">About</a>
             <a href="/contact" class="link link-hover">Contact</a>
         </nav>
