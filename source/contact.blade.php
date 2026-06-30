@@ -5,66 +5,22 @@ description: Get in touch with us
 @extends('_layouts.main')
 
 @section('body')
-<h1>Contact</h1>
+    <div class="max-w-2xl min-w-2xl mx-auto p-4 pt-12 md:pt-24">
+        <svg class="w-10 h-10 fill-current text-primary mb-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
+            <path d="M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H512c35.3 0 64-28.7 64-64V96c0-35.3-28.7-64-64-64H64zm80 256h64c44.2 0 80 35.8 80 80c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16c0-44.2 35.8-80 80-80zm-32-96a64 64 0 1 1 128 0 64 64 0 1 1 -128 0zm256-32H496c8.8 0 16 7.2 16 16s-7.2 16-16 16H368c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H496c8.8 0 16 7.2 16 16s-7.2 16-16 16H368c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H496c8.8 0 16 7.2 16 16s-7.2 16-16 16H368c-8.8 0-16-7.2-16-16s7.2-16 16-16z"/>
+        </svg>
+        <h1 class="text-3xl font-bold mb-1">Contact</h1>
+        <p class="text-base opacity-80 mb-8">Got a question or just want to say hello? Reach out — I'd love to hear from you.</p>
 
-<p class="mb-8">
-    Static sites are unable to handle form submissions. However, there are third-party services, like Tighten’s <a href="https://fieldgoal.io" title="FieldGoal">FieldGoal</a>, which can accept the form submission, email you the result, and redirect back to a thank you page.
-</p>
-
-<form action="/contact" class="mb-12">
-    <div class="flex flex-wrap mb-6 -mx-3">
-        <div class="w-full md:w-1/2 mb-6 md:mb-0 px-3">
-            <label class="block mb-2 text-gray-800 text-sm font-semibold" for="contact-name">
-                Name
-            </label>
-
-            <input
-                type="text"
-                id="contact-name"
-                placeholder="Jane Doe"
-                name="name"
-                class="bg-white block w-full border shadow-sm rounded-lg outline-hidden mb-2 px-4 py-3"
-                required
-            >
+        <div class="flex flex-wrap gap-3 mb-8">
+            <a href="https://x.com/ariaieboy_ir" target="_blank" rel="noopener noreferrer" class="btn btn-outline btn-sm">X (Twitter)</a>
+            <a href="https://bsky.app/profile/ariaieboy.ir" target="_blank" rel="noopener noreferrer" class="btn btn-outline btn-sm">Bluesky</a>
+            <a href="https://instagram.com/ariaieboy" target="_blank" rel="noopener noreferrer" class="btn btn-outline btn-sm">Instagram</a>
+            <a href="https://t.me/ariaieboy" target="_blank" rel="noopener noreferrer" class="btn btn-outline btn-sm">Telegram</a>
+            <a href="https://github.com/ariaieboy" target="_blank" rel="noopener noreferrer" class="btn btn-outline btn-sm">GitHub</a>
+            <a href="https://wa.me/989158585889?text=hi,%20i%20am%20contacting%20from%20github" target="_blank" rel="noopener noreferrer" class="btn btn-outline btn-sm">WhatsApp</a>
         </div>
 
-        <div class="w-full px-3 md:w-1/2">
-            <label class="block text-gray-800 text-sm font-semibold mb-2" for="contact-email">
-                Email Address
-            </label>
-
-            <input
-                type="email"
-                id="contact-email"
-                placeholder="email@domain.com"
-                name="email"
-                class="bg-white block w-full border shadow-sm rounded-lg outline-hidden mb-2 px-4 py-3"
-                required
-            >
-        </div>
+        <p class="text-sm opacity-70">Or email me at <a href="mailto:ariaieboy@example.com" class="link">ariaieboy@example.com</a></p>
     </div>
-
-    <div class="w-full mb-12">
-        <label class="block text-gray-800 text-sm font-semibold mb-2" for="contact-message">
-            Message
-        </label>
-
-        <textarea
-            id="contact-message"
-            rows="4"
-            name="message"
-            class="bg-white block w-full border shadow-sm rounded-lg outline-hidden appearance-none mb-2 px-4 py-3"
-            placeholder="A lovely message here."
-            required
-        ></textarea>
-    </div>
-
-    <div class="flex justify-end w-full">
-        <input
-            type="submit"
-            value="Submit"
-            class="block bg-blue-500 hover:bg-blue-600 text-white text-sm font-semibold leading-snug tracking-wide uppercase shadow-sm rounded-lg cursor-pointer px-6 py-3"
-        >
-    </div>
-</form>
 @stop
