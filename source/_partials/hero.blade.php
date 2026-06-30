@@ -8,10 +8,11 @@
             </div>
             <h1 class="text-5xl font-bold mb-2">Hi, I’m AriaieBOY</h1>
             <p class="py-4 text-lg opacity-80">Self-Employed, Full-Stack web developer at Rakolo.com</p>
-            <div class="flex justify-center gap-4">
-                <a href="/about" class="btn btn-primary btn-outline">About Me</a>
+            <div class="flex justify-center gap-3 flex-wrap">
+                <a href="/blog" class="btn btn-primary">Read the Blog</a>
+                <a href="/uses" class="btn btn-outline btn-primary">/uses</a>
+                <a href="/about" class="btn btn-ghost">About</a>
                 <a href="/contact" class="btn btn-ghost">Contact</a>
-                <a href="/uses" class="btn btn-ghost">Uses</a>
             </div>
         </div>
     </div>
