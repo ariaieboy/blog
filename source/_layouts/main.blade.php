@@ -27,6 +27,10 @@
     </head>
 
     <body class="min-h-screen flex flex-col">
+        @if (! $__env->yieldContent('hide_header'))
+            @include('_partials.header')
+        @endif
+
         @yield('body')
         @include('_partials.footer')
         @stack('scripts')

@@ -1,5 +1,9 @@
 @extends('_layouts.main')
 
+@section('hide_header')
+    true
+@endsection
+
 @section('body')
     @include('_partials.hero')
 
