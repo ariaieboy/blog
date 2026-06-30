@@ -3,8 +3,4 @@
 /source/assets/build/
 /vendor/
 .DS_Store
-/assets/
-/cache/
-/torchlight_cache/
-.env
-.idea
+hot
