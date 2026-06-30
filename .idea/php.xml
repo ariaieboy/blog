@@ -108,6 +108,7 @@
       <path value="$PROJECT_DIR$/vendor/illuminate/database" />
       <path value="$PROJECT_DIR$/vendor/illuminate/reflection" />
       <path value="$PROJECT_DIR$/vendor/illuminate/queue" />
+      <path value="$PROJECT_DIR$/vendor/tempest/highlight" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.2">
