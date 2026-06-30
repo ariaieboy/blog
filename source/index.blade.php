@@ -8,7 +8,7 @@
     @include('_partials.hero')
 
     <section class="py-12 px-4 flex-1">
-        <div class="max-w-2xl mx-auto">
+        <div class="max-w-2xl min-w-2xl mx-auto">
             <h2 class="text-2xl font-bold mb-8">Latest Posts</h2>
 
             <div class="space-y-2">

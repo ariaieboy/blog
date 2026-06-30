@@ -5,14 +5,14 @@
 @endphp
 
 @section('body')
-    <article class="max-w-2xl mx-auto p-4 prose prose-indigo">
+    <article class="max-w-2xl min-w-2xl mx-auto p-4 prose prose-indigo">
         @if ($page->cover_image)
             <img src="{{ $page->cover_image }}" alt="{{ $page->title }} cover image" class="mb-6 rounded-lg w-full">
         @endif
 
         <h1 class="!mt-0">{{ $page->title }}</h1>
 
-        <p class="text-sm text-gray-500 mb-4">{{ $page->author }} • {{ date('F j, Y', $page->date) }}</p>
+        <p class="text-sm text-gray-500 mb-4">{{ date('F j, Y', $page->date) }} • {{ $page->estimated_reading_time }}</p>
 
         @if ($page->categories)
             <div class="mb-4">

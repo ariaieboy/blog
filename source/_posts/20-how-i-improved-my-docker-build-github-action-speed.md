@@ -29,27 +29,27 @@ The next thing that I changed was the front-end build stage.
 As I mentioned above I was using a multi-stage build docker image to reduce the image file size and boost cache hits but I wasn't successful before these changes.
 Here are my build stages:
 ```dockerfile
-		FROM composer:2 AS back
-		COPY . /var/www/html
-		WORKDIR /var/www/html
-		RUN composer install --no-interaction --optimize-autoloader --no-dev --ignore-platform-reqs
-		
-		###step 2 frontend
-		FROM node:22 AS front
-		COPY . /var/www/html
-		COPY --from=back /var/www/html/vendor /var/www/html/vendor
-		WORKDIR /var/www/html
-		RUN npm install && npm run build
+FROM composer:2 AS back
+COPY . /var/www/html
+WORKDIR /var/www/html
+RUN composer install --no-interaction --optimize-autoloader --no-dev --ignore-platform-reqs
+
+###step 2 frontend
+FROM node:22 AS front
+COPY . /var/www/html
+COPY --from=back /var/www/html/vendor /var/www/html/vendor
+WORKDIR /var/www/html
+RUN npm install && npm run build
 ```
 The problem with that code is that it copies the whole project to install dependencies and run the npm build command. Because of that in each build, It installs dependencies even if the package.json is untouched.
 So I fixed that issue by changing the front-end stage like this:
 ```dockerfile
-		FROM node:22 AS front
-		COPY package*.json .
-		RUN npm install
-		COPY . .
-		COPY --from=back /var/www/html/vendor /var/www/html/vendor
-		RUN npm run build
+FROM node:22 AS front
+COPY package*.json .
+RUN npm install
+COPY . .
+COPY --from=back /var/www/html/vendor /var/www/html/vendor
+RUN npm run build
 ```
 By separating the `npm install` and `npm run build` commands now docker can cache the first 2 layers if the package.json file is not changed.
 
