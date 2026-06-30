@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="dark">
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -21,18 +21,14 @@
             <!-- Insert analytics code here -->
         @endif
 
-        <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,300i,400,400i,700,700i,800,800i" rel="stylesheet">
-        <link href="https://cdn.jsdelivr.net/npm/prismjs/themes/prism.css" rel="stylesheet" />
-
         @viteRefresh()
         <link rel="stylesheet" href="{{ vite('source/_assets/css/main.css') }}">
         <script defer type="module" src="{{ vite('source/_assets/js/main.js') }}"></script>
     </head>
 
-    <body class="min-h-screen">
-        <div id="main" class="container mx-auto min-h-screen flex flex-col">
-
-        </div>
+    <body class="min-h-screen flex flex-col">
+        @yield('body')
+        @include('_partials.footer')
         @stack('scripts')
     </body>
 </html>
