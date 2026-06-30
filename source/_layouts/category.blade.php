@@ -1,7 +1,7 @@
 @extends('_layouts.main')
 
 @section('body')
-    <div class="max-w-2xl min-w-2xl mx-auto p-4">
+    <div class="max-w-2xl mx-auto p-4">
         <h1 class="text-3xl font-bold mb-2">{{ $page->title }}</h1>
 
         <div class="text-base text-gray-500 mb-8 border-b border-gray-200 pb-6">

@@ -5,7 +5,7 @@
 @endphp
 
 @section('body')
-    <article class="max-w-2xl min-w-2xl mx-auto p-4 prose prose-indigo">
+    <article class="max-w-2xl mx-auto p-4 prose prose-indigo">
         @if ($page->cover_image)
             <img src="{{ $page->cover_image }}" alt="{{ $page->title }} cover image" class="mb-6 rounded-lg w-full">
         @endif

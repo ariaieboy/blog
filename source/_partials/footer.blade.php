@@ -1,5 +1,5 @@
 <footer class="bg-base-200 text-base-content border-t border-base-300 mt-auto">
-    <div class="max-w-2xl min-w-2xl mx-auto p-8 flex flex-col items-center gap-4">
+    <div class="max-w-2xl mx-auto p-8 flex flex-col items-center gap-4">
         <p class="text-sm opacity-70">&copy; 2022-{{ date('Y') }} {{ $page->siteName }}. All rights reserved.</p>
 
         <nav class="flex flex-wrap justify-center gap-4 text-sm">

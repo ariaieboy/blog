@@ -5,7 +5,7 @@ description: A little bit about the site
 @extends('_layouts.main')
 
 @section('body')
-    <div class="max-w-2xl min-w-2xl mx-auto p-4 pt-12 md:pt-24">
+    <div class="max-w-2xl mx-auto p-4 pt-12 md:pt-24">
         <svg class="w-10 h-10 fill-current text-primary mb-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
             <path d="M256 0C114.6 0 0 114.6 0 256s114.6 256 256 256s256-114.6 256-256S397.4 0 256 0zM256 128c39.77 0 72 32.24 72 72S295.8 272 256 272c-39.76 0-72-32.24-72-72S216.2 128 256 128zM384 405.7c-32.4 30.89-78.26 50.29-128 50.29s-95.6-19.4-128-50.29v-5.422c0-35.94 29.12-65.07 65.07-65.07h125.9c35.95 0 65.07 29.13 65.07 65.07V405.7z"/>
         </svg>
