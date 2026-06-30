@@ -18,7 +18,7 @@ description: A collection of most of the tools I use every day.
         <div class="prose prose-indigo max-w-none">
             <h2 class="text-center"> Languages and Tools</h2>
             <h6 class="text-center"> Main Stack </h6>
-            <div class="flex gap-2 justify-center">
+            <div class="flex gap-2 justify-center flex-wrap">
                 <a href="https://tailwindcss.com/" target="blank"><img class="text-center"
                                                                        src="https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label="
                                                                        alt="tailwindcss"/></a>
@@ -36,7 +36,7 @@ description: A collection of most of the tools I use every day.
                                                                        alt="filamentphp"/></a>
             </div>
             <h6 class="text-center">Building & Testing Tools</h6>
-            <div class="flex gap-2 justify-center">
+            <div class="flex gap-2 justify-center flex-wrap">
                 <a href="https://nodejs.org/" target="blank"><img class="text-center"
                                                                   src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label="
                                                                   alt="nodejs"/></a>
@@ -51,7 +51,7 @@ description: A collection of most of the tools I use every day.
                                                                    alt="pestphp"/></a>
             </div>
             <h6 class="text-center"> DataBases </h6>
-            <div class="flex gap-2 justify-center">
+            <div class="flex gap-2 justify-center flex-wrap">
                 <a href="https://www.postgresql.org/" target="blank"><img class="text-center"
                                                                           src="https://img.shields.io/static/v1?style=for-the-badge&message=Postgres&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label="
                                                                           alt="postgresql"/></a>
@@ -67,7 +67,7 @@ description: A collection of most of the tools I use every day.
             </div>
             <h6 class="text-center"> Web Server & PaaS </h6>
 
-            <div class="flex gap-2 justify-center">
+            <div class="flex gap-2 justify-center flex-wrap">
                 <a href="https://www.caprover.com/" target="blank"><img class="text-center"
                                                                         src="https://img.shields.io/static/v1?style=for-the-badge&message=CapRover&color=222222&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAkxJREFUOE+Nk01IVFEUx//n3vfefDjO5EwFGZRRU5RfmS4EK23TJjJIp0VQNNJYmxZBEhjBLAoKIooiQiWsRUoa5KZWiYRRgRJKgdViwCAhZ7Joxhnn3fdOiBiOjeFZnvs/P+7/fBBWCH4SkvFXU/tE6vd+ECZ0TRv0dozGl8tpaYJDIRkvjG2TbAYZVgEBOsAhodRBm8QIS/22X9cHqGPUXKzLASROlUeEbUbBvB5AlkE/iNkDsA8AgSjJ0nHR3z1+7x/At9ZqtzMz+5xsqx4AQzqiYoscAexD1hRrSFmlxHaQNTGU8G4+GbzzYm4e8vcHHG3Qfsa+98BSzQAxS+OEXmduF2bmEoT+TBUV3qCNySNqwujxRz6M57cQrmgWau4RmF0g7alWKx4LTnUCtt92OO+jMS1YIuZdO3ktL2DBRrqTbHUcoCzrxmWjVmVJpa+CKYWdzna7fLbC82tXGwWXWVgkTrfU7JAq1Uu2tRtEcXYWhI2a2TIyM1fY477FjY4RT5Gvn2hI5fRg6ThnwlX1UOlusF3CQr6zN/nC7uLpu7ZuxGVTWZvL3zeZ10IO5HTlUcxlusBcxMJxzqhTbrC9wXP20/mlupw9yFmqaFTMxPqvk5W9wKT36nsxTEDSc+bjw1UB5kXTrdV7tHRykEm+1etcA0zqpbd17PPqAS1VxZqZHobLGJYN/o5Cbd0bOtZnrRqQiFSWiqz5gAKBdt/hra/pQHfmv8e0/DERqWkCWxToet+/0tWu2MSvN0Mu1+RMSWCN+kLRhZnniz+PjOsRHROEwwAAAABJRU5ErkJggg==&logoColor=FFFFFF&label="
                                                                         alt="CapRover"/></a>
@@ -79,7 +79,7 @@ description: A collection of most of the tools I use every day.
                                                                      alt="nginx"/></a>
             </div>
             <h6 class="text-center"> Dev Enviorment </h6>
-            <div class="flex gap-2 justify-center">
+            <div class="flex gap-2 justify-center flex-wrap">
                 <a href="https://www.docker.com/" target="blank"><img class="text-center"
                                                                       src="https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label="
                                                                       alt="docker"/></a>
@@ -89,7 +89,7 @@ description: A collection of most of the tools I use every day.
             </div>
             <h6 class="text-center"> Local Enviorment </h6>
 
-            <div class="flex gap-2 justify-center">
+            <div class="flex gap-2 justify-center flex-wrap">
                 <a href="https://www.microsoft.com/" target="blank"><img class="text-center"
                                                                          src="https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label="
                                                                          alt="windows 11"/></a>
@@ -99,7 +99,7 @@ description: A collection of most of the tools I use every day.
             </div>
             <h6 class="text-center"> Editors </h6>
 
-            <div class="flex gap-2 justify-center">
+            <div class="flex gap-2 justify-center flex-wrap">
                 <a href="https://www.jetbrains.com/" target="blank"><img class="text-center"
                                                                          src="https://img.shields.io/static/v1?style=for-the-badge&message=PhpStorm&color=000000&logo=PhpStorm&logoColor=FFFFFF&label="
                                                                          alt="phpstorm"/></a>
