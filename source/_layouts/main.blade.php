@@ -8,10 +8,8 @@
 
         <meta name="theme-color" content="#1e1e2a">
 
-        <!-- Preconnect to external origins -->
-        <link rel="preconnect" href="https://img.shields.io">
+        <!-- Preconnect for newsletter -->
         <link rel="preconnect" href="https://ariaieboy.kit.com">
-        <link rel="dns-prefetch" href="https://img.shields.io">
         <link rel="dns-prefetch" href="https://ariaieboy.kit.com">
 
         <meta property="og:title" content="{{ $page->title ? $page->title . ' | ' : '' }}{{ $page->siteName }}"/>
@@ -30,9 +28,10 @@
         @endif
 
         @viteRefresh()
-        <link rel="stylesheet" href="{{ vite('source/_assets/css/main.css') }}" media="print" onload="this.media='all'">
+        <link rel="preload" href="{{ vite('source/_assets/css/main.css') }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
         <noscript><link rel="stylesheet" href="{{ vite('source/_assets/css/main.css') }}"></noscript>
 {{--        <script defer type="module" src="{{ vite('source/_assets/js/main.js') }}"></script>--}}
+        @stack('head')
     </head>
 
     <body class="min-h-screen flex flex-col">

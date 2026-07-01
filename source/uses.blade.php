@@ -2,6 +2,10 @@
 title: Uses
 description: A collection of most of the tools I use every day.
 ---
+@push('head')
+<link rel="preconnect" href="https://img.shields.io">
+<link rel="dns-prefetch" href="https://img.shields.io">
+@endpush
 @extends('_layouts.main')
 
 @section('body')
