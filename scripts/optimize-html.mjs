@@ -3,7 +3,7 @@ import { readdir, stat, readFile, writeFile } from 'fs/promises';
 import { extname, join } from 'path';
 
 const ROOT = new URL('..', import.meta.url).pathname;
-const BUILD = join(ROOT, 'build_production');
+const BUILD = join(ROOT, 'docs');
 
 // Collect all .webp files available in the build
 const webpFiles = new Set();

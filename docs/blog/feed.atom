@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>AriaieBOY Blog</title>
-    <link href="https://ariaieboy.ir/blog" />
-    <link type="application/atom+xml" rel="self" href="https://ariaieboy.ir/blog/feed.atom" />
-    <updated>2026-07-01T11:45:51+00:00</updated>
-    <id>https://ariaieboy.ir/blog/feed.atom</id>
+    <link href="http://localhost:8000/blog" />
+    <link type="application/atom+xml" rel="self" href="http://localhost:8000/blog/feed.atom" />
+    <updated>2026-07-01T11:54:19+00:00</updated>
+    <id>http://localhost:8000/blog/feed.atom</id>
     <author>
         <name>AriaieBOY</name>
     </author>
                 <entry>
-    <id>https://ariaieboy.ir/blog/21-digital-life-without-internet-access-in-iran</id>
-    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/21-digital-life-without-internet-access-in-iran" />
+    <id>http://localhost:8000/blog/21-digital-life-without-internet-access-in-iran</id>
+    <link type="text/html" rel="alternate" href="http://localhost:8000/blog/21-digital-life-without-internet-access-in-iran" />
     <title>Digital Life Without Internet Access in IRAN</title>
     <published>2026-01-24T00:00:00+00:00</published>
     <updated>2026-01-24T00:00:00+00:00</updated>
@@ -108,8 +108,8 @@ As of 8 November 2026, we don’t have access to the internet in my country. In 
     ]]></content>
 </entry>
             <entry>
-    <id>https://ariaieboy.ir/blog/20-how-i-improved-my-docker-build-github-action-speed</id>
-    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/20-how-i-improved-my-docker-build-github-action-speed" />
+    <id>http://localhost:8000/blog/20-how-i-improved-my-docker-build-github-action-speed</id>
+    <link type="text/html" rel="alternate" href="http://localhost:8000/blog/20-how-i-improved-my-docker-build-github-action-speed" />
     <title>How I improved my docker build GitHUB action speed by +2000% </title>
     <published>2024-10-30T00:00:00+00:00</published>
     <updated>2024-10-30T00:00:00+00:00</updated>
@@ -189,8 +189,8 @@ tmp
     ]]></content>
 </entry>
             <entry>
-    <id>https://ariaieboy.ir/blog/19-how-can-you-benefit-from-pestphp-in-a-phpunit-codebase</id>
-    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/19-how-can-you-benefit-from-pestphp-in-a-phpunit-codebase" />
+    <id>http://localhost:8000/blog/19-how-can-you-benefit-from-pestphp-in-a-phpunit-codebase</id>
+    <link type="text/html" rel="alternate" href="http://localhost:8000/blog/19-how-can-you-benefit-from-pestphp-in-a-phpunit-codebase" />
     <title>How can you benefit from PestPHP in a PHPUnit codebase?</title>
     <published>2024-05-20T00:00:00+00:00</published>
     <updated>2024-05-20T00:00:00+00:00</updated>
@@ -258,8 +258,8 @@ I wrote about it in <a href="https://ariaieboy.ir/blog/enjoyable-php-testing-wit
     ]]></content>
 </entry>
             <entry>
-    <id>https://ariaieboy.ir/blog/18-php-release-cycle-changed-after-14-years</id>
-    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/18-php-release-cycle-changed-after-14-years" />
+    <id>http://localhost:8000/blog/18-php-release-cycle-changed-after-14-years</id>
+    <link type="text/html" rel="alternate" href="http://localhost:8000/blog/18-php-release-cycle-changed-after-14-years" />
     <title>PHP Release Cycle changed after 14 years</title>
     <published>2024-05-14T00:00:00+00:00</published>
     <updated>2024-05-14T00:00:00+00:00</updated>
@@ -285,8 +285,8 @@ that means even if a PHP GA release shifts because of any problem the end of the
     ]]></content>
 </entry>
             <entry>
-    <id>https://ariaieboy.ir/blog/17-windows-mail-replacement</id>
-    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/17-windows-mail-replacement" />
+    <id>http://localhost:8000/blog/17-windows-mail-replacement</id>
+    <link type="text/html" rel="alternate" href="http://localhost:8000/blog/17-windows-mail-replacement" />
     <title>Microsoft going to kill Windows Mail here is the best replacement</title>
     <published>2024-01-07T00:00:00+00:00</published>
     <updated>2024-01-07T00:00:00+00:00</updated>
@@ -307,8 +307,8 @@ that means even if a PHP GA release shifts because of any problem the end of the
     ]]></content>
 </entry>
             <entry>
-    <id>https://ariaieboy.ir/blog/16-what-is-laravel-macro</id>
-    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/16-what-is-laravel-macro" />
+    <id>http://localhost:8000/blog/16-what-is-laravel-macro</id>
+    <link type="text/html" rel="alternate" href="http://localhost:8000/blog/16-what-is-laravel-macro" />
     <title>What is a Laravel Macro, and how can you write an IDE Helper for a Macro?</title>
     <published>2023-09-07T00:00:00+00:00</published>
     <updated>2023-09-07T00:00:00+00:00</updated>
@@ -376,8 +376,8 @@ namespace Filament\Tables\Columns {
     ]]></content>
 </entry>
             <entry>
-    <id>https://ariaieboy.ir/blog/15-how-i-improved-my-backup-strategies</id>
-    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/15-how-i-improved-my-backup-strategies" />
+    <id>http://localhost:8000/blog/15-how-i-improved-my-backup-strategies</id>
+    <link type="text/html" rel="alternate" href="http://localhost:8000/blog/15-how-i-improved-my-backup-strategies" />
     <title>How I improved my backup strategies using TrueNAS Scale</title>
     <published>2023-08-18T00:00:00+00:00</published>
     <updated>2023-08-18T00:00:00+00:00</updated>
@@ -414,8 +414,8 @@ I need to check the integrity of the backup files.</p>
     ]]></content>
 </entry>
             <entry>
-    <id>https://ariaieboy.ir/blog/14-why-should-you-consider-using-avif-on-your-website</id>
-    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/14-why-should-you-consider-using-avif-on-your-website" />
+    <id>http://localhost:8000/blog/14-why-should-you-consider-using-avif-on-your-website</id>
+    <link type="text/html" rel="alternate" href="http://localhost:8000/blog/14-why-should-you-consider-using-avif-on-your-website" />
     <title>Why should you consider using AVIF on your website?</title>
     <published>2023-08-11T00:00:00+00:00</published>
     <updated>2023-08-11T00:00:00+00:00</updated>
@@ -457,8 +457,8 @@ And right now, it has over 43 members.</p>
     ]]></content>
 </entry>
             <entry>
-    <id>https://ariaieboy.ir/blog/13-laravel-pint-easy-to-use-code-style-fixer</id>
-    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/13-laravel-pint-easy-to-use-code-style-fixer" />
+    <id>http://localhost:8000/blog/13-laravel-pint-easy-to-use-code-style-fixer</id>
+    <link type="text/html" rel="alternate" href="http://localhost:8000/blog/13-laravel-pint-easy-to-use-code-style-fixer" />
     <title>Laravel Pint: Easy-to-use Code Style Fixer For Artisans</title>
     <published>2023-08-04T00:00:00+00:00</published>
     <updated>2023-08-04T00:00:00+00:00</updated>
@@ -495,8 +495,8 @@ However, adhering to these guidelines while focusing on writing code can be chal
     ]]></content>
 </entry>
             <entry>
-    <id>https://ariaieboy.ir/blog/12-how-do-i-backup-my-websites</id>
-    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/12-how-do-i-backup-my-websites" />
+    <id>http://localhost:8000/blog/12-how-do-i-backup-my-websites</id>
+    <link type="text/html" rel="alternate" href="http://localhost:8000/blog/12-how-do-i-backup-my-websites" />
     <title>How do I backup my websites, and why should I improve</title>
     <published>2023-06-23T00:00:00+00:00</published>
     <updated>2023-06-23T00:00:00+00:00</updated>
@@ -541,8 +541,8 @@ However, adhering to these guidelines while focusing on writing code can be chal
     ]]></content>
 </entry>
             <entry>
-    <id>https://ariaieboy.ir/blog/11-code-splitting-and-lazy-loading-alpine-components</id>
-    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/11-code-splitting-and-lazy-loading-alpine-components" />
+    <id>http://localhost:8000/blog/11-code-splitting-and-lazy-loading-alpine-components</id>
+    <link type="text/html" rel="alternate" href="http://localhost:8000/blog/11-code-splitting-and-lazy-loading-alpine-components" />
     <title>Code-splitting and Lazy-loading Alpine Components using Async Alpine</title>
     <published>2023-06-02T00:00:00+00:00</published>
     <updated>2023-06-02T00:00:00+00:00</updated>
@@ -680,8 +680,8 @@ window.addEventListener('another-library-init', () =&gt; {
     ]]></content>
 </entry>
             <entry>
-    <id>https://ariaieboy.ir/blog/10-free-performance-using-laravel-octane-and-swoole</id>
-    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/10-free-performance-using-laravel-octane-and-swoole" />
+    <id>http://localhost:8000/blog/10-free-performance-using-laravel-octane-and-swoole</id>
+    <link type="text/html" rel="alternate" href="http://localhost:8000/blog/10-free-performance-using-laravel-octane-and-swoole" />
     <title>Free Performance + Extra features for Laravel using Octane and Swoole</title>
     <published>2023-05-26T00:00:00+00:00</published>
     <updated>2023-05-26T00:00:00+00:00</updated>
@@ -801,8 +801,8 @@ return Octane::table('example')-&gt;get('uuid');
     ]]></content>
 </entry>
             <entry>
-    <id>https://ariaieboy.ir/blog/9-zsh-plugin-for-laravel-sail</id>
-    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/9-zsh-plugin-for-laravel-sail" />
+    <id>http://localhost:8000/blog/9-zsh-plugin-for-laravel-sail</id>
+    <link type="text/html" rel="alternate" href="http://localhost:8000/blog/9-zsh-plugin-for-laravel-sail" />
     <title>ZSH Plugin for Laravel Sail</title>
     <published>2023-05-19T00:00:00+00:00</published>
     <updated>2023-05-19T00:00:00+00:00</updated>
@@ -851,8 +851,8 @@ For example, you can start the service containers using <code>./vendor/bin/sail 
     ]]></content>
 </entry>
             <entry>
-    <id>https://ariaieboy.ir/blog/8-nala-modern-front-end-for-apt</id>
-    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/8-nala-modern-front-end-for-apt" />
+    <id>http://localhost:8000/blog/8-nala-modern-front-end-for-apt</id>
+    <link type="text/html" rel="alternate" href="http://localhost:8000/blog/8-nala-modern-front-end-for-apt" />
     <title>Nala: Modern Front-End for the APT Package Manager</title>
     <published>2023-04-16T00:00:00+00:00</published>
     <updated>2023-04-16T00:00:00+00:00</updated>
@@ -890,8 +890,8 @@ If you use the latest version of Debian or Ubuntu you can install it as simply a
     ]]></content>
 </entry>
             <entry>
-    <id>https://ariaieboy.ir/blog/7-translate-your-laravel-application-using-laravel-lang</id>
-    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/7-translate-your-laravel-application-using-laravel-lang" />
+    <id>http://localhost:8000/blog/7-translate-your-laravel-application-using-laravel-lang</id>
+    <link type="text/html" rel="alternate" href="http://localhost:8000/blog/7-translate-your-laravel-application-using-laravel-lang" />
     <title>Translate Your Laravel Application to 78 Languages</title>
     <published>2023-02-28T00:00:00+00:00</published>
     <updated>2023-02-28T00:00:00+00:00</updated>
@@ -927,8 +927,8 @@ But by default, all the Laravel Lang files include the English language. And if 
     ]]></content>
 </entry>
             <entry>
-    <id>https://ariaieboy.ir/blog/6-caprover-easy-and-free-self-hosted-paas</id>
-    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/6-caprover-easy-and-free-self-hosted-paas" />
+    <id>http://localhost:8000/blog/6-caprover-easy-and-free-self-hosted-paas</id>
+    <link type="text/html" rel="alternate" href="http://localhost:8000/blog/6-caprover-easy-and-free-self-hosted-paas" />
     <title>CapRover - Easy and Free Self-Hosted PaaS!</title>
     <published>2023-02-10T00:00:00+00:00</published>
     <updated>2023-02-10T00:00:00+00:00</updated>
@@ -974,8 +974,8 @@ Besides one-click apps, there are some sample apps that you can use to practice 
     ]]></content>
 </entry>
             <entry>
-    <id>https://ariaieboy.ir/blog/test-your-code-base-without-test</id>
-    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/test-your-code-base-without-test" />
+    <id>http://localhost:8000/blog/test-your-code-base-without-test</id>
+    <link type="text/html" rel="alternate" href="http://localhost:8000/blog/test-your-code-base-without-test" />
     <title>Test Your Codebase Without Testing It Using Larastan</title>
     <published>2023-01-14T00:00:00+00:00</published>
     <updated>2023-01-14T00:00:00+00:00</updated>
@@ -1012,8 +1012,8 @@ Since lots of Laravel works magically PHPStan needs......</summary>
     ]]></content>
 </entry>
             <entry>
-    <id>https://ariaieboy.ir/blog/enjoyable-php-testing-with-pestphp</id>
-    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/enjoyable-php-testing-with-pestphp" />
+    <id>http://localhost:8000/blog/enjoyable-php-testing-with-pestphp</id>
+    <link type="text/html" rel="alternate" href="http://localhost:8000/blog/enjoyable-php-testing-with-pestphp" />
     <title>Enjoyable PHP Testing with PestPHP</title>
     <published>2022-12-23T00:00:00+00:00</published>
     <updated>2022-12-23T00:00:00+00:00</updated>
@@ -1085,8 +1085,8 @@ With Pest, testing is much more enjoyable. It has a simpler syntax compared to P
     ]]></content>
 </entry>
             <entry>
-    <id>https://ariaieboy.ir/blog/filament-the-best-tall-stack-package</id>
-    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/filament-the-best-tall-stack-package" />
+    <id>http://localhost:8000/blog/filament-the-best-tall-stack-package</id>
+    <link type="text/html" rel="alternate" href="http://localhost:8000/blog/filament-the-best-tall-stack-package" />
     <title>Filament: the best TALL Stack Package</title>
     <published>2022-12-16T00:00:00+00:00</published>
     <updated>2022-12-16T00:00:00+00:00</updated>
@@ -1250,8 +1250,8 @@ It's getting, even more, interesting because these 4 lines of code also handle t
     ]]></content>
 </entry>
             <entry>
-    <id>https://ariaieboy.ir/blog/tall-stack-the-dreamland-for-a-laravel-developer</id>
-    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/tall-stack-the-dreamland-for-a-laravel-developer" />
+    <id>http://localhost:8000/blog/tall-stack-the-dreamland-for-a-laravel-developer</id>
+    <link type="text/html" rel="alternate" href="http://localhost:8000/blog/tall-stack-the-dreamland-for-a-laravel-developer" />
     <title>TALL Stack: the dreamland for a laravel developer</title>
     <published>2022-12-09T00:00:00+00:00</published>
     <updated>2022-12-09T00:00:00+00:00</updated>
@@ -1305,8 +1305,8 @@ Livewire home page says :
     ]]></content>
 </entry>
             <entry>
-    <id>https://ariaieboy.ir/blog/why-this-blog</id>
-    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/why-this-blog" />
+    <id>http://localhost:8000/blog/why-this-blog</id>
+    <link type="text/html" rel="alternate" href="http://localhost:8000/blog/why-this-blog" />
     <title>Why This Blog ?</title>
     <published>2022-12-02T00:00:00+00:00</published>
     <updated>2022-12-02T00:00:00+00:00</updated>

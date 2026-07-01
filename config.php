@@ -8,7 +8,9 @@ return [
     'siteName' => 'AriaieBOY Blog',
     'siteDescription' => 'Articles, tutorials, snippets, and everything else.',
     'siteAuthor' => 'AriaieBOY',
-
+    'build'=>[
+        'destination'=>'docs'
+    ],
     // collections
     'collections' => [
         'posts' => [
