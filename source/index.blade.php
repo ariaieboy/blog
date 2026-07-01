@@ -7,7 +7,13 @@
 @section('body')
     @include('_partials.hero')
 
-    <section class="py-12 px-4 flex-1">
+    <div class="py-8 px-4">
+        <div class="max-w-2xl mx-auto">
+            @include('_partials.newsletter')
+        </div>
+    </div>
+
+    <section class="pb-12 px-4 flex-1">
         <div class="max-w-2xl mx-auto">
             <h2 class="text-2xl font-bold mb-8">Posts</h2>
 

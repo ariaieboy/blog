@@ -22,5 +22,9 @@ description: The list of blog posts for the site
                 @endforeach
             </div>
         @endforeach
+
+        <div class="mt-12">
+            @include('_partials.newsletter')
+        </div>
     </div>
 @stop

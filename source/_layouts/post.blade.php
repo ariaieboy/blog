@@ -26,6 +26,10 @@
             @yield('content')
         </div>
 
+        <div class="my-8">
+            @include('_partials.newsletter')
+        </div>
+
         <nav class="flex flex-col sm:flex-row sm:justify-between gap-2 overflow-hidden">
             @if ($next = $page->getNext())
                 <a href="{{ $next->getUrl() }}" class="btn btn-ghost btn-sm text-left truncate max-w-full" title="Older Post: {{ $next->title }}">&larr; {{ $next->title }}</a>
