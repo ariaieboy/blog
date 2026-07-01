@@ -1,11 +1,25 @@
-/* Scan Blade/MD sources for Tailwind classes */
-@source "../../../source/**/*.blade.php";
-@source "../../../source/**/*.md";
-
 @import "tailwindcss";
 @import '../../../vendor/tempest/highlight/src/Themes/Css/one-dark-pro.css';
 @plugin "@tailwindcss/typography";
-@plugin "daisyui";
+@plugin "daisyui" {
+    include: [
+        /* base — always needed */
+        "properties", "scrollbar", "svg", "rootscrolllock", "rootscrollgutter", "rootcolor",
+        /* utilities */
+        "typography", "glass", "join", "radius",
+        /* components actually used */
+        "button",
+        "hero",
+        "avatar",
+        "link",
+        "footer"
+    ];
+}
+
+/* Scan Blade templates for Tailwind classes */
+@source "../../../source/**/*.blade.php";
+@source "../../../source/**/*.md";
+
 @plugin "daisyui/theme" {
     name: "dark";
     default: true;
