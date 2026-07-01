@@ -1,16 +1,11 @@
+/* Scan Blade/MD sources for Tailwind classes */
+@source "../../../source/**/*.blade.php";
+@source "../../../source/**/*.md";
+
 @import "tailwindcss";
 @import '../../../vendor/tempest/highlight/src/Themes/Css/one-dark-pro.css';
 @plugin "@tailwindcss/typography";
-@plugin "daisyui" {
-    include: [
-        "button",
-        "hero",
-        "avatar",
-        "link",
-        "footer",
-        "badge"
-    ];
-}
+@plugin "daisyui";
 @plugin "daisyui/theme" {
     name: "dark";
     default: true;

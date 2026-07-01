@@ -3,10 +3,7 @@
         <div class="max-w-md">
             <div class="avatar mb-6">
                 <div class="w-32 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2">
-                    <picture>
-                        <source srcset="/assets/img/profile.webp" type="image/webp">
-                        <img src="/assets/img/profile.jpg" width="256" height="256" alt="{{ $page->siteName }}" />
-                    </picture>
+                    <img src="/assets/img/profile.jpg" width="256" height="256" alt="{{ $page->siteName }}" />
                 </div>
             </div>
             <h1 class="text-3xl sm:text-5xl font-bold mb-2">Hi, I’m AriaieBOY</h1>
