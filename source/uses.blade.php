@@ -21,7 +21,7 @@ description: A collection of most of the tools I use every day.
 
         <div class="prose prose-indigo max-w-none">
             <h2 class="text-center"> Languages and Tools</h2>
-            <h6 class="text-center"> Main Stack </h6>
+            <h3 class="text-center text-lg font-bold"> Main Stack </h3>
             <div class="flex gap-2 justify-center flex-wrap">
                 <a href="https://tailwindcss.com/" target="blank"><img loading="lazy" class="text-center"
                                                                        src="https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label="
@@ -39,7 +39,7 @@ description: A collection of most of the tools I use every day.
                                                                        src="https://img.shields.io/static/v1?style=for-the-badge&message=filament&color=efefef&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9ImN1cnJlbnRDb2xvciIgdmlld0JveD0iNTQuMjc5IC0uOTc2IDMxLjMwOSAzMy4wNjUiPgogIDxwYXRoIGZpbGw9IiMxMTE4MjciIGQ9Im03MC45OTMgMTAuNDc0LS41OSAxLjQ5NSAyLjc2MyAxLjkxM2MuMTQ5LjEwMi4yMjguMjkzLjIwNi40ODZsLS4wMDkuMDU3LS4xODYuODM4Yy0uMDQ3LjIxMS0uMjA5LjM2NC0uNDAxLjM3NmwtMi40MzguMTYxIDIuMDg1IDEuNDMyYy4xNDkuMTAzLjIyOS4yOTQuMjA3LjQ4NmwtLjAxLjA1OC0uMTg2LjgzOGMtLjA0Ny4yMTEtLjIwOS4zNjMtLjQwMS4zNzZsLTIuNDM4LjE2MSAyLjA4NSAxLjQzMmMuMTQ5LjEwMi4yMjkuMjk0LjIwNy40ODZsLS4wMS4wNTgtLjE4Ni44MzdjLS4wNDYuMjExLS4yMDkuMzY0LS40LjM3N2wtMi40MzkuMTYxIDIuMDg2IDEuNDMyYy4xNDkuMTAyLjIyOC4yOTMuMjA2LjQ4NmwtLjAxLjA1Ny0uMTg1LjgzOGMtLjA0Ny4yMTEtLjIwOS4zNjMtLjQwMS4zNzZsLTIuNDM4LjE2MiAyLjA4NSAxLjQzMWMuMTQ5LjEwMi4yMjguMjk0LjIwNi40ODZsLS4wMDkuMDU4LS4xODYuODM4Yy0uMDQ3LjIxMS0uMjA5LjM2My0uNDAxLjM3NmwtMy40Mi4yOTctLjQyNSAxLjc5N2gtMi43MzFsLjg0NC0zLjMwMmMuMDQ3LS4yMTEuMjEtLjM2My40MDEtLjM3NmwyLjQzOS0uMTYyLTIuMDg2LTEuNDMxYy0uMTQ5LS4xMDItLjIyOC0uMjkzLS4yMDYtLjQ4NmwuMDA5LS4wNTguMTg2LS44MzdjLjA0Ny0uMjExLjIwOS0uMzY0LjQwMS0uMzc2bDIuNDM4LS4xNjItMi4wODUtMS40MzFjLS4xNDktLjEwMy0uMjI4LS4yOTQtLjIwNi0uNDg3bC4wMDktLjA1Ny4xODYtLjgzOGMuMDQ3LS4yMTEuMjA5LS4zNjMuNDAxLS4zNzZsMi40MzgtLjE2Mi0yLjA4NS0xLjQzMWMtLjE0OS0uMTAyLS4yMjktLjI5NC0uMjA3LS40ODZsLjAxLS4wNTguMTg2LS44MzdjLjA0Ni0uMjExLjIwOS0uMzY0LjQtLjM3N2wyLjQzOS0uMTYxLTIuMDg1LTEuNDMyYy0uMTQ5LS4xMDItLjIyOS0uMjkzLS4yMDctLjQ4NmwuMDEtLjA1Ny4xODUtLjgzOGMuMDQ3LS4yMTEuMjEtLjM2NC40MDEtLjM3NmwyLjQzOC0uMTYyLTIuMDg1LTEuNDMxYy0uMTQ5LS4xMDItLjIyOC0uMjk0LS4yMDYtLjQ4NmwuMDA5LS4wNTguMzgtMS4zMzEgMy4wMTItLjExNFptMi4xLTEwLjAyMmMxLjExOSAwIDEuOTQ5LjM3NSAyLjQ4OSAxLjEyNi41MzkuNzUxLjcwMSAxLjY1LjQ4NSAyLjY5Ny0uMjQzIDEuMTk4LS43NDUgMi4wMDctMS41MDcgMi40MjctLjc2Mi40MjEtMS43MS42MzEtMi44NDMuNjMxLTEuMTA2IDAtMS45MzktLjMyOC0yLjQ5OS0uOTgyLS41Ni0uNjU0LS43MTgtMS41ODctLjQ3Ni0yLjguMjMtMS4xMDIuNzMyLTEuODk0IDEuNTA4LTIuMzc2Ljc3NS0uNDgyIDEuNzIzLS43MjMgMi44NDMtLjcyM1oiLz4KPC9zdmc+Cg==&logoColor=FFFFFF&label="
                                                                        alt="filamentphp"/></a>
             </div>
-            <h6 class="text-center">Building & Testing Tools</h6>
+            <h3 class="text-center text-lg font-bold">Building & Testing Tools</h3>
             <div class="flex gap-2 justify-center flex-wrap">
                 <a href="https://nodejs.org/" target="blank"><img loading="lazy" class="text-center"
                                                                   src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label="
@@ -54,7 +54,7 @@ description: A collection of most of the tools I use every day.
                                                                    src="https://img.shields.io/static/v1?style=for-the-badge&message=pestphp&color=222222&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAi9JREFUSEtjZKAxYKSx+Qz0t0BHVkd5b9/lOyT7jJGB4cuPzx+yJsaG7jy9cQ9MP4YPcjyrciv8WyeRbAFUAyMrA8OqU3P7CmemFIOEMCzYVnXmsJ6csQ25FoD1MTIwyKQzcjIwMPzAsODqzB9fuRnZuZj/MzAw/iffmrLlKWHLDs5djWHB/tX//7P9ZWBAxyz/GBiY/xFvYfWy7PiFh6YtwpaKmIg3BqLyyYz/f9H12DZqKdx/fv0higXOSeXZodmt/az/GBhY/zIwEKT/MzCw/mFgYPzIzAryMUgPLGhlMhiZGRgY/qFYELj65CFpTVNb1n+MGEGELdhwiTH+/PXNJImdGyMVRdx6+pWVhYuL+R8LA/M/ZgamfywMLP+YGVj+MjGw/cOMF1wW9LWH+Rw+tnorhgV+r279hxjOwsD0jxlMY7D/MoMtZf3LiNXS19fPHe5INbbDltE4nT6f/AZyNbIPCLFhDmD9y8TweP/WFRtzfSORIxweB3wOehbqe7uOQzRAggjM/s34G0MMKQgZf/z78fbI8Z1nCkrTP3168g49NcEtkJ2e3SOa4QnO3hDAyPD7zstrl1WTtElNtlh9oHN/3i02BTFVZMk307Z0PcqeUU4VC4z+bv7DwAROu3Bwx6nK4tP+SyepYQGj0f8tGAXBOUYfLgYGhu+UWyDFK2L0dPlrdIPOMfpQXCGBDRCKdwxWWFC8BtmC/7///DjPFgAqcikCFLuQkO1D3wIAm2DzGbOVeZkAAAAASUVORK5CYII=&logoColor=FFFFFF&label="
                                                                    alt="pestphp"/></a>
             </div>
-            <h6 class="text-center"> DataBases </h6>
+            <h3 class="text-center text-lg font-bold"> DataBases </h3>
             <div class="flex gap-2 justify-center flex-wrap">
                 <a href="https://www.postgresql.org/" target="blank"><img loading="lazy" class="text-center"
                                                                           src="https://img.shields.io/static/v1?style=for-the-badge&message=Postgres&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label="
@@ -69,7 +69,7 @@ description: A collection of most of the tools I use every day.
                                                                     src="https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=DC382D&logo=Redis&logoColor=FFFFFF&label="
                                                                     alt="redis"/></a>
             </div>
-            <h6 class="text-center"> Web Server & PaaS </h6>
+            <h3 class="text-center text-lg font-bold"> Web Server & PaaS </h3>
 
             <div class="flex gap-2 justify-center flex-wrap">
                 <a href="https://www.caprover.com/" target="blank"><img loading="lazy" class="text-center"
@@ -82,7 +82,7 @@ description: A collection of most of the tools I use every day.
                                                                      src="https://img.shields.io/static/v1?style=for-the-badge&message=NGINX&color=009639&logo=NGINX&logoColor=FFFFFF&label="
                                                                      alt="nginx"/></a>
             </div>
-            <h6 class="text-center"> Dev Enviorment </h6>
+            <h3 class="text-center text-lg font-bold"> Dev Enviorment </h3>
             <div class="flex gap-2 justify-center flex-wrap">
                 <a href="https://www.docker.com/" target="blank"><img loading="lazy" class="text-center"
                                                                       src="https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label="
@@ -91,7 +91,7 @@ description: A collection of most of the tools I use every day.
                                                                       src="https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label="
                                                                       alt="ubuntu"/></a>
             </div>
-            <h6 class="text-center"> Local Enviorment </h6>
+            <h3 class="text-center text-lg font-bold"> Local Enviorment </h3>
 
             <div class="flex gap-2 justify-center flex-wrap">
                 <a href="https://www.microsoft.com/" target="blank"><img loading="lazy" class="text-center"
@@ -101,7 +101,7 @@ description: A collection of most of the tools I use every day.
                                                                          src="https://img.shields.io/static/v1?style=for-the-badge&message=WSL&color=222222&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAs1JREFUSEvtlV1IU2Ecxp+znbMtV23pBAmtLVPLi1GoF7kyFUPKCiVKZ/lRzCJKQ12i08SISVBBWK2yjD4uogxyZXOQEoQEdZGfUX4EaX5ljFBxA93eE1tlDueaNe86cODA+f+f33n/73Oel8IiX5QX9CmIRGJIIjYiNGYHgqISIAoMhfGMEh2P9J4CKMB3GaQh4ZBtjsc7/QNk1raC5i+d9wOflSe7B6TVPEVQRDy4PB8nEZZlcTMlHDl1792u/o+Aw4Yu+EpD54j8B8yMZNFHpNK3Y8XqEJd7cFu5ARl3X7nd5EZtJjr0hvlseoDDoe/x+TybZW3CBQTIbU5iz3VnIY9LApdDw8dP4hLU0/gEo70fXQI4HJoAoGiahtVqBSlq/63hDRdpNBq2uvoGNJoSqNVFIOoWgMP9AfEGoFi1iS3I+oABkxBRe0Zgy38D0ALvAbLTEm1HtjZziDgdqSeNGApMBIkt8BaAozabx88NDg4hOHgNjA1G7NyVDJL/GmCW/POIxBI//2+fB/oco2ZZgu7uXsTGxmFi0gJy6HE7RCuDcWtf5F9lEcMwVW2tLblh68KcnFdaego63VWMj4/Zs6nn50sKYrEI/nI5pFsSERS5Db7S9TMJ6yLsKImfhHwZHQbLAtQsAxsMDVAq98NsntQSQso8OEPs3fabzP4PBJcLhRaV9ivs/qdmEe5Xn8DBvBoIBCRnYmL6pgeAmRIHoDiVf6koiznO5wN7y6dRdacTMpnUUWQymTBSJ0NNvQ0Zu5meSNXk3Ah3Q3QAjm7nnT6v5pXbn+2Z0MbUI1qhcLRVVFSgMPoiaIZyjK22idRlV5pTPF2FA3DtGL85KYZWLBdR4NJArnYKL/tXoa+vHwKG4NNDAbhcoOz6VOUV/VSpp+L2OqcsEgoREBdC65q6rHkWCwZ+uSVdQRtfdFpLhsfwdiHicwALbfak/jtIkkkopP/9jAAAAABJRU5ErkJggg==&logoColor=FFFFFF&label="
                                                                          alt="wsl2"/></a>
             </div>
-            <h6 class="text-center"> Editors </h6>
+            <h3 class="text-center text-lg font-bold"> Editors </h3>
 
             <div class="flex gap-2 justify-center flex-wrap">
                 <a href="https://www.jetbrains.com/" target="blank"><img loading="lazy" class="text-center"

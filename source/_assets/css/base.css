@@ -4,8 +4,12 @@
     word-break: break-word;
 }
 
-/* Ensure sufficient contrast for outline buttons on hero dark bg */
+/* Ensure sufficient contrast for buttons on dark bg */
 .hero .btn-outline.btn-primary {
-    --color-primary: oklch(72% 0.18 259.794);
+    color: oklch(80% 0.16 259.794);
+}
+header .btn-ghost.text-primary,
+.hero .btn-ghost.text-primary {
+    color: oklch(80% 0.16 259.794);
 }
 

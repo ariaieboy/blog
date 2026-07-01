@@ -12,7 +12,7 @@
 
         <h1 class="!mt-0">{{ $page->title }}</h1>
 
-        <p class="text-sm text-gray-500 mb-4">{{ date('F j, Y', $page->date) }} • {{ $page->estimated_reading_time }}</p>
+        <p class="text-sm text-base-content/70 mb-4">{{ date('F j, Y', $page->date) }} • {{ $page->estimated_reading_time }}</p>
 
         @if ($page->categories)
             <div class="mb-4 not-prose">
