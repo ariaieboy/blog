@@ -8,7 +8,7 @@ categories: [writing]
 ---
 When I started this blog, my goal was simple: write about technology and share my experience with the tools and technologies I work with.
 
-Even in my last article about the internet blackout in Iran, I deliberately avoided discussing politics or the reasons behind it. I focused only on the technical side of what happened.
+Even in my last article about the internet blackout in Iran, I deliberately avoided discussing politics, or the reasons behind it. I focused only on the technical side of what happened.
 
 But sometimes, you simply can't close your eyes, pretend nothing happened, and move on.
 
@@ -26,11 +26,11 @@ And those who call themselves Iranian while celebrating or supporting foreign mi
 
 Bombs and missiles are not a solution to political problems—especially when they come from countries that have repeatedly shown little respect for the very human rights they claim to defend.
 
-These governments claimed they came to bring freedom. Yet, according to reports from inside Iran, on the very first day of the war they carried out a two-stage Tomahawk missile strike against the Shajareh Tayyebeh School in Minab, killing 168 students and teachers. Later that same day, a sports hall in Mallard was struck while a women's volleyball team was practicing, leaving more than twenty people dead.
+These governments claimed they came to bring freedom. Yet, according to reports, on the very first day of the war they carried out a double-tap Tomahawk missile strike against the [Shajareh Tayyebeh School](https://www.amnestyusa.org/blog/u-s-responsible-for-killing-over-100-children-in-iran-school-attack/) in Minab, killing 168 students and teachers. Later that same day, a sports hall in [Mallard](https://www.bbc.com/news/articles/c4gx8e1x5j3o) was struck while a women's volleyball team was practicing, leaving more than twenty people dead.
 
-Civilian locations were hit—places that are protected under the laws of war—including the 12,000-seat Azadi Stadium in Tehran, Gandhi Hospital, the Grand Bazaar of Tehran, emergency medical centers across several cities, Tehran Children's Park, fuel storage facilities, Sharif University of Technology, desalination plants in southern Iran, schools, and many other civilian sites.
+Civilian locations were hit—places that are protected under the laws of war—including the [12,000-seat Azadi Stadium in Tehran](https://www.aljazeera.com/gallery/2026/3/5/explosions-rock-tehran-as-israel-intensifies-strikes-on-government-sites), [Gandhi Hospital](https://www.bbc.com/news/articles/cpw004xqxnjo), [emergency medical centers across several cities](https://www.theguardian.com/global-development/2026/mar/05/at-least-dozen-hospital-and-health-facilities-in-iran-hit-since-us-israel-attacks-began-who-says), [fuel storage facilities](https://www.theguardian.com/world/2026/mar/23/tehran-toxic-cloud-satellite-image-oil-fires), [Sharif University of Technology](https://www.science.org/content/article/war-escalates-iran-s-universities-face-increasing-fire), [desalination plants in southern Iran](https://www.cbsnews.com/live-updates/us-iran-war-israel-strikes-regime-targets/#post-update-974ac2fc), and many other civilian sites.
 
-Leaders and officials from these countries openly spoke about destroying our nation, erasing Iran from the map, taking us back to the Stone Age, and eliminating civilian infrastructure.
+Leaders and officials from these countries openly spoke about [destroying our nation](https://www.bbc.com/news/articles/cwyk7xgkzvzo), [erasing Iran from the map](https://ca.news.yahoo.com/donald-trump-threatens-wipe-iran-060656533.html), [taking us back to the Stone Age](https://www.lemonde.fr/en/international/article/2026/04/02/trump-vows-to-send-iran-back-to-the-stone-ages-but-offers-no-end-to-the-war_6752043_4.html?srsltid=AfmBOopfd5zrtzX37k9HrcRN7Eq6EKuAnAEtXq7uNfpnad9PrUhabzCI), and [eliminating civilian infrastructure](https://www.cnbc.com/2026/04/03/trump-iran-threats-un-resolution-blocked-strait-of-hormuz-f35-shot-down.html).
 
 Perhaps what is hardest for many politicians—and even many ordinary people around the world—to understand is what happened next.
 

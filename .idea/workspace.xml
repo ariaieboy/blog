@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4201626-96e1-46d7-aaae-7166515ee4a5" name="Changes" comment="fix" />
+    <list default="true" id="d4201626-96e1-46d7-aaae-7166515ee4a5" name="Changes" comment="22">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/22-no-to-any-war-standwithpeace-iran/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/22-no-to-any-war-standwithpeace-iran/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/feed.atom" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/feed.atom" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/22-no-to-any-war-standwithpeace-iran.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/22-no-to-any-war-standwithpeace-iran.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -231,7 +238,7 @@
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;20.1.0&quot;,
     &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;20.1.0&quot;,
-    &quot;last_opened_file_path&quot;: &quot;//wsl.localhost/Ubuntu/home/ariaieboy/code/newblog/docs&quot;,
+    &quot;last_opened_file_path&quot;: &quot;//wsl.localhost/Ubuntu/home/ariaieboy/code/newblog/source/_posts&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -245,10 +252,10 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="\\wsl.localhost\Ubuntu\home\ariaieboy\code\newblog\source\_posts" />
       <recent name="\\wsl.localhost\Ubuntu\home\ariaieboy\code\newblog\source\assets\img" />
       <recent name="\\wsl.localhost\Ubuntu\home\ariaieboy\code\newblog\source" />
       <recent name="\\wsl.localhost\Ubuntu\home\ariaieboy\code\newblog\source\assets" />
-      <recent name="\\wsl.localhost\Ubuntu\home\ariaieboy\code\newblog\source\_posts" />
       <recent name="\\wsl.localhost\Ubuntu\home\ariaieboy\code\newblog\source\_categories" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -632,7 +639,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="fix index theme" />
     <MESSAGE value="fix blog theme" />
     <MESSAGE value="fix uses page" />
     <MESSAGE value="fix contact page and 404" />
@@ -657,7 +663,8 @@
     <MESSAGE value="new" />
     <MESSAGE value="wip" />
     <MESSAGE value="fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix" />
+    <MESSAGE value="22" />
+    <option name="LAST_COMMIT_MESSAGE" value="22" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

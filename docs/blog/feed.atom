@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>AriaieBOY Blog</title>
-    <link href="http://localhost:8000/blog" />
-    <link type="application/atom+xml" rel="self" href="http://localhost:8000/blog/feed.atom" />
-    <updated>2026-07-01T12:34:14+00:00</updated>
-    <id>http://localhost:8000/blog/feed.atom</id>
+    <link href="https://ariaieboy.ir/blog" />
+    <link type="application/atom+xml" rel="self" href="https://ariaieboy.ir/blog/feed.atom" />
+    <updated>2026-07-01T13:04:53+00:00</updated>
+    <id>https://ariaieboy.ir/blog/feed.atom</id>
     <author>
         <name>AriaieBOY</name>
     </author>
                 <entry>
-    <id>http://localhost:8000/blog/22-no-to-any-war-standwithpeace-iran</id>
-    <link type="text/html" rel="alternate" href="http://localhost:8000/blog/22-no-to-any-war-standwithpeace-iran" />
+    <id>https://ariaieboy.ir/blog/22-no-to-any-war-standwithpeace-iran</id>
+    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/22-no-to-any-war-standwithpeace-iran" />
     <title>No to Any War — #StandWithPeace #Iran</title>
     <published>2026-07-01T00:00:00+00:00</published>
     <updated>2026-07-01T00:00:00+00:00</updated>
@@ -19,11 +19,11 @@
     </author>
     <summary type="html">When I started this blog, my goal was simple: write about technology and share my experience with the tools and technologies I work with.
 
-Even in my last article about the internet blackout in Iran, I deliberately avoided discussing politics or the......</summary>
+Even in my last article about the internet blackout in Iran, I deliberately avoided discussing politics, or the......</summary>
     <content type="html"><![CDATA[
         <p>When I started this blog, my goal was simple: write about technology and share my experience with the tools and technologies I work with.</p>
 
-<p>Even in my last article about the internet blackout in Iran, I deliberately avoided discussing politics or the reasons behind it. I focused only on the technical side of what happened.</p>
+<p>Even in my last article about the internet blackout in Iran, I deliberately avoided discussing politics, or the reasons behind it. I focused only on the technical side of what happened.</p>
 
 <p>But sometimes, you simply can't close your eyes, pretend nothing happened, and move on.</p>
 
@@ -41,11 +41,11 @@ Even in my last article about the internet blackout in Iran, I deliberately avoi
 
 <p>Bombs and missiles are not a solution to political problems—especially when they come from countries that have repeatedly shown little respect for the very human rights they claim to defend.</p>
 
-<p>These governments claimed they came to bring freedom. Yet, according to reports from inside Iran, on the very first day of the war they carried out a two-stage Tomahawk missile strike against the Shajareh Tayyebeh School in Minab, killing 168 students and teachers. Later that same day, a sports hall in Mallard was struck while a women's volleyball team was practicing, leaving more than twenty people dead.</p>
+<p>These governments claimed they came to bring freedom. Yet, according to reports, on the very first day of the war they carried out a double-tap Tomahawk missile strike against the <a href="https://www.amnestyusa.org/blog/u-s-responsible-for-killing-over-100-children-in-iran-school-attack/">Shajareh Tayyebeh School</a> in Minab, killing 168 students and teachers. Later that same day, a sports hall in <a href="https://www.bbc.com/news/articles/c4gx8e1x5j3o">Mallard</a> was struck while a women's volleyball team was practicing, leaving more than twenty people dead.</p>
 
-<p>Civilian locations were hit—places that are protected under the laws of war—including the 12,000-seat Azadi Stadium in Tehran, Gandhi Hospital, the Grand Bazaar of Tehran, emergency medical centers across several cities, Tehran Children's Park, fuel storage facilities, Sharif University of Technology, desalination plants in southern Iran, schools, and many other civilian sites.</p>
+<p>Civilian locations were hit—places that are protected under the laws of war—including the <a href="https://www.aljazeera.com/gallery/2026/3/5/explosions-rock-tehran-as-israel-intensifies-strikes-on-government-sites">12,000-seat Azadi Stadium in Tehran</a>, <a href="https://www.bbc.com/news/articles/cpw004xqxnjo">Gandhi Hospital</a>, <a href="https://www.theguardian.com/global-development/2026/mar/05/at-least-dozen-hospital-and-health-facilities-in-iran-hit-since-us-israel-attacks-began-who-says">emergency medical centers across several cities</a>, <a href="https://www.theguardian.com/world/2026/mar/23/tehran-toxic-cloud-satellite-image-oil-fires">fuel storage facilities</a>, <a href="https://www.science.org/content/article/war-escalates-iran-s-universities-face-increasing-fire">Sharif University of Technology</a>, <a href="https://www.cbsnews.com/live-updates/us-iran-war-israel-strikes-regime-targets/#post-update-974ac2fc">desalination plants in southern Iran</a>, and many other civilian sites.</p>
 
-<p>Leaders and officials from these countries openly spoke about destroying our nation, erasing Iran from the map, taking us back to the Stone Age, and eliminating civilian infrastructure.</p>
+<p>Leaders and officials from these countries openly spoke about <a href="https://www.bbc.com/news/articles/cwyk7xgkzvzo">destroying our nation</a>, <a href="https://ca.news.yahoo.com/donald-trump-threatens-wipe-iran-060656533.html">erasing Iran from the map</a>, <a href="https://www.lemonde.fr/en/international/article/2026/04/02/trump-vows-to-send-iran-back-to-the-stone-ages-but-offers-no-end-to-the-war_6752043_4.html?srsltid=AfmBOopfd5zrtzX37k9HrcRN7Eq6EKuAnAEtXq7uNfpnad9PrUhabzCI">taking us back to the Stone Age</a>, and <a href="https://www.cnbc.com/2026/04/03/trump-iran-threats-un-resolution-blocked-strait-of-hormuz-f35-shot-down.html">eliminating civilian infrastructure</a>.</p>
 
 <p>Perhaps what is hardest for many politicians—and even many ordinary people around the world—to understand is what happened next.</p>
 
@@ -110,8 +110,8 @@ July 1, 2026</p>
     ]]></content>
 </entry>
             <entry>
-    <id>http://localhost:8000/blog/21-digital-life-without-internet-access-in-iran</id>
-    <link type="text/html" rel="alternate" href="http://localhost:8000/blog/21-digital-life-without-internet-access-in-iran" />
+    <id>https://ariaieboy.ir/blog/21-digital-life-without-internet-access-in-iran</id>
+    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/21-digital-life-without-internet-access-in-iran" />
     <title>Digital Life Without Internet Access in IRAN</title>
     <published>2026-01-24T00:00:00+00:00</published>
     <updated>2026-01-24T00:00:00+00:00</updated>
@@ -209,8 +209,8 @@ As of 8 November 2026, we don’t have access to the internet in my country. In 
     ]]></content>
 </entry>
             <entry>
-    <id>http://localhost:8000/blog/20-how-i-improved-my-docker-build-github-action-speed</id>
-    <link type="text/html" rel="alternate" href="http://localhost:8000/blog/20-how-i-improved-my-docker-build-github-action-speed" />
+    <id>https://ariaieboy.ir/blog/20-how-i-improved-my-docker-build-github-action-speed</id>
+    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/20-how-i-improved-my-docker-build-github-action-speed" />
     <title>How I improved my docker build GitHUB action speed by +2000% </title>
     <published>2024-10-30T00:00:00+00:00</published>
     <updated>2024-10-30T00:00:00+00:00</updated>
@@ -290,8 +290,8 @@ tmp
     ]]></content>
 </entry>
             <entry>
-    <id>http://localhost:8000/blog/19-how-can-you-benefit-from-pestphp-in-a-phpunit-codebase</id>
-    <link type="text/html" rel="alternate" href="http://localhost:8000/blog/19-how-can-you-benefit-from-pestphp-in-a-phpunit-codebase" />
+    <id>https://ariaieboy.ir/blog/19-how-can-you-benefit-from-pestphp-in-a-phpunit-codebase</id>
+    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/19-how-can-you-benefit-from-pestphp-in-a-phpunit-codebase" />
     <title>How can you benefit from PestPHP in a PHPUnit codebase?</title>
     <published>2024-05-20T00:00:00+00:00</published>
     <updated>2024-05-20T00:00:00+00:00</updated>
@@ -359,8 +359,8 @@ I wrote about it in <a href="https://ariaieboy.ir/blog/enjoyable-php-testing-wit
     ]]></content>
 </entry>
             <entry>
-    <id>http://localhost:8000/blog/18-php-release-cycle-changed-after-14-years</id>
-    <link type="text/html" rel="alternate" href="http://localhost:8000/blog/18-php-release-cycle-changed-after-14-years" />
+    <id>https://ariaieboy.ir/blog/18-php-release-cycle-changed-after-14-years</id>
+    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/18-php-release-cycle-changed-after-14-years" />
     <title>PHP Release Cycle changed after 14 years</title>
     <published>2024-05-14T00:00:00+00:00</published>
     <updated>2024-05-14T00:00:00+00:00</updated>
@@ -386,8 +386,8 @@ that means even if a PHP GA release shifts because of any problem the end of the
     ]]></content>
 </entry>
             <entry>
-    <id>http://localhost:8000/blog/17-windows-mail-replacement</id>
-    <link type="text/html" rel="alternate" href="http://localhost:8000/blog/17-windows-mail-replacement" />
+    <id>https://ariaieboy.ir/blog/17-windows-mail-replacement</id>
+    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/17-windows-mail-replacement" />
     <title>Microsoft going to kill Windows Mail here is the best replacement</title>
     <published>2024-01-07T00:00:00+00:00</published>
     <updated>2024-01-07T00:00:00+00:00</updated>
@@ -408,8 +408,8 @@ that means even if a PHP GA release shifts because of any problem the end of the
     ]]></content>
 </entry>
             <entry>
-    <id>http://localhost:8000/blog/16-what-is-laravel-macro</id>
-    <link type="text/html" rel="alternate" href="http://localhost:8000/blog/16-what-is-laravel-macro" />
+    <id>https://ariaieboy.ir/blog/16-what-is-laravel-macro</id>
+    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/16-what-is-laravel-macro" />
     <title>What is a Laravel Macro, and how can you write an IDE Helper for a Macro?</title>
     <published>2023-09-07T00:00:00+00:00</published>
     <updated>2023-09-07T00:00:00+00:00</updated>
@@ -477,8 +477,8 @@ namespace Filament\Tables\Columns {
     ]]></content>
 </entry>
             <entry>
-    <id>http://localhost:8000/blog/15-how-i-improved-my-backup-strategies</id>
-    <link type="text/html" rel="alternate" href="http://localhost:8000/blog/15-how-i-improved-my-backup-strategies" />
+    <id>https://ariaieboy.ir/blog/15-how-i-improved-my-backup-strategies</id>
+    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/15-how-i-improved-my-backup-strategies" />
     <title>How I improved my backup strategies using TrueNAS Scale</title>
     <published>2023-08-18T00:00:00+00:00</published>
     <updated>2023-08-18T00:00:00+00:00</updated>
@@ -515,8 +515,8 @@ I need to check the integrity of the backup files.</p>
     ]]></content>
 </entry>
             <entry>
-    <id>http://localhost:8000/blog/14-why-should-you-consider-using-avif-on-your-website</id>
-    <link type="text/html" rel="alternate" href="http://localhost:8000/blog/14-why-should-you-consider-using-avif-on-your-website" />
+    <id>https://ariaieboy.ir/blog/14-why-should-you-consider-using-avif-on-your-website</id>
+    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/14-why-should-you-consider-using-avif-on-your-website" />
     <title>Why should you consider using AVIF on your website?</title>
     <published>2023-08-11T00:00:00+00:00</published>
     <updated>2023-08-11T00:00:00+00:00</updated>
@@ -558,8 +558,8 @@ And right now, it has over 43 members.</p>
     ]]></content>
 </entry>
             <entry>
-    <id>http://localhost:8000/blog/13-laravel-pint-easy-to-use-code-style-fixer</id>
-    <link type="text/html" rel="alternate" href="http://localhost:8000/blog/13-laravel-pint-easy-to-use-code-style-fixer" />
+    <id>https://ariaieboy.ir/blog/13-laravel-pint-easy-to-use-code-style-fixer</id>
+    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/13-laravel-pint-easy-to-use-code-style-fixer" />
     <title>Laravel Pint: Easy-to-use Code Style Fixer For Artisans</title>
     <published>2023-08-04T00:00:00+00:00</published>
     <updated>2023-08-04T00:00:00+00:00</updated>
@@ -596,8 +596,8 @@ However, adhering to these guidelines while focusing on writing code can be chal
     ]]></content>
 </entry>
             <entry>
-    <id>http://localhost:8000/blog/12-how-do-i-backup-my-websites</id>
-    <link type="text/html" rel="alternate" href="http://localhost:8000/blog/12-how-do-i-backup-my-websites" />
+    <id>https://ariaieboy.ir/blog/12-how-do-i-backup-my-websites</id>
+    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/12-how-do-i-backup-my-websites" />
     <title>How do I backup my websites, and why should I improve</title>
     <published>2023-06-23T00:00:00+00:00</published>
     <updated>2023-06-23T00:00:00+00:00</updated>
@@ -642,8 +642,8 @@ However, adhering to these guidelines while focusing on writing code can be chal
     ]]></content>
 </entry>
             <entry>
-    <id>http://localhost:8000/blog/11-code-splitting-and-lazy-loading-alpine-components</id>
-    <link type="text/html" rel="alternate" href="http://localhost:8000/blog/11-code-splitting-and-lazy-loading-alpine-components" />
+    <id>https://ariaieboy.ir/blog/11-code-splitting-and-lazy-loading-alpine-components</id>
+    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/11-code-splitting-and-lazy-loading-alpine-components" />
     <title>Code-splitting and Lazy-loading Alpine Components using Async Alpine</title>
     <published>2023-06-02T00:00:00+00:00</published>
     <updated>2023-06-02T00:00:00+00:00</updated>
@@ -781,8 +781,8 @@ window.addEventListener('another-library-init', () =&gt; {
     ]]></content>
 </entry>
             <entry>
-    <id>http://localhost:8000/blog/10-free-performance-using-laravel-octane-and-swoole</id>
-    <link type="text/html" rel="alternate" href="http://localhost:8000/blog/10-free-performance-using-laravel-octane-and-swoole" />
+    <id>https://ariaieboy.ir/blog/10-free-performance-using-laravel-octane-and-swoole</id>
+    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/10-free-performance-using-laravel-octane-and-swoole" />
     <title>Free Performance + Extra features for Laravel using Octane and Swoole</title>
     <published>2023-05-26T00:00:00+00:00</published>
     <updated>2023-05-26T00:00:00+00:00</updated>
@@ -902,8 +902,8 @@ return Octane::table('example')-&gt;get('uuid');
     ]]></content>
 </entry>
             <entry>
-    <id>http://localhost:8000/blog/9-zsh-plugin-for-laravel-sail</id>
-    <link type="text/html" rel="alternate" href="http://localhost:8000/blog/9-zsh-plugin-for-laravel-sail" />
+    <id>https://ariaieboy.ir/blog/9-zsh-plugin-for-laravel-sail</id>
+    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/9-zsh-plugin-for-laravel-sail" />
     <title>ZSH Plugin for Laravel Sail</title>
     <published>2023-05-19T00:00:00+00:00</published>
     <updated>2023-05-19T00:00:00+00:00</updated>
@@ -952,8 +952,8 @@ For example, you can start the service containers using <code>./vendor/bin/sail 
     ]]></content>
 </entry>
             <entry>
-    <id>http://localhost:8000/blog/8-nala-modern-front-end-for-apt</id>
-    <link type="text/html" rel="alternate" href="http://localhost:8000/blog/8-nala-modern-front-end-for-apt" />
+    <id>https://ariaieboy.ir/blog/8-nala-modern-front-end-for-apt</id>
+    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/8-nala-modern-front-end-for-apt" />
     <title>Nala: Modern Front-End for the APT Package Manager</title>
     <published>2023-04-16T00:00:00+00:00</published>
     <updated>2023-04-16T00:00:00+00:00</updated>
@@ -991,8 +991,8 @@ If you use the latest version of Debian or Ubuntu you can install it as simply a
     ]]></content>
 </entry>
             <entry>
-    <id>http://localhost:8000/blog/7-translate-your-laravel-application-using-laravel-lang</id>
-    <link type="text/html" rel="alternate" href="http://localhost:8000/blog/7-translate-your-laravel-application-using-laravel-lang" />
+    <id>https://ariaieboy.ir/blog/7-translate-your-laravel-application-using-laravel-lang</id>
+    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/7-translate-your-laravel-application-using-laravel-lang" />
     <title>Translate Your Laravel Application to 78 Languages</title>
     <published>2023-02-28T00:00:00+00:00</published>
     <updated>2023-02-28T00:00:00+00:00</updated>
@@ -1028,8 +1028,8 @@ But by default, all the Laravel Lang files include the English language. And if 
     ]]></content>
 </entry>
             <entry>
-    <id>http://localhost:8000/blog/6-caprover-easy-and-free-self-hosted-paas</id>
-    <link type="text/html" rel="alternate" href="http://localhost:8000/blog/6-caprover-easy-and-free-self-hosted-paas" />
+    <id>https://ariaieboy.ir/blog/6-caprover-easy-and-free-self-hosted-paas</id>
+    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/6-caprover-easy-and-free-self-hosted-paas" />
     <title>CapRover - Easy and Free Self-Hosted PaaS!</title>
     <published>2023-02-10T00:00:00+00:00</published>
     <updated>2023-02-10T00:00:00+00:00</updated>
@@ -1075,8 +1075,8 @@ Besides one-click apps, there are some sample apps that you can use to practice 
     ]]></content>
 </entry>
             <entry>
-    <id>http://localhost:8000/blog/test-your-code-base-without-test</id>
-    <link type="text/html" rel="alternate" href="http://localhost:8000/blog/test-your-code-base-without-test" />
+    <id>https://ariaieboy.ir/blog/test-your-code-base-without-test</id>
+    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/test-your-code-base-without-test" />
     <title>Test Your Codebase Without Testing It Using Larastan</title>
     <published>2023-01-14T00:00:00+00:00</published>
     <updated>2023-01-14T00:00:00+00:00</updated>
@@ -1113,8 +1113,8 @@ Since lots of Laravel works magically PHPStan needs......</summary>
     ]]></content>
 </entry>
             <entry>
-    <id>http://localhost:8000/blog/enjoyable-php-testing-with-pestphp</id>
-    <link type="text/html" rel="alternate" href="http://localhost:8000/blog/enjoyable-php-testing-with-pestphp" />
+    <id>https://ariaieboy.ir/blog/enjoyable-php-testing-with-pestphp</id>
+    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/enjoyable-php-testing-with-pestphp" />
     <title>Enjoyable PHP Testing with PestPHP</title>
     <published>2022-12-23T00:00:00+00:00</published>
     <updated>2022-12-23T00:00:00+00:00</updated>
@@ -1186,8 +1186,8 @@ With Pest, testing is much more enjoyable. It has a simpler syntax compared to P
     ]]></content>
 </entry>
             <entry>
-    <id>http://localhost:8000/blog/filament-the-best-tall-stack-package</id>
-    <link type="text/html" rel="alternate" href="http://localhost:8000/blog/filament-the-best-tall-stack-package" />
+    <id>https://ariaieboy.ir/blog/filament-the-best-tall-stack-package</id>
+    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/filament-the-best-tall-stack-package" />
     <title>Filament: the best TALL Stack Package</title>
     <published>2022-12-16T00:00:00+00:00</published>
     <updated>2022-12-16T00:00:00+00:00</updated>
@@ -1351,8 +1351,8 @@ It's getting, even more, interesting because these 4 lines of code also handle t
     ]]></content>
 </entry>
             <entry>
-    <id>http://localhost:8000/blog/tall-stack-the-dreamland-for-a-laravel-developer</id>
-    <link type="text/html" rel="alternate" href="http://localhost:8000/blog/tall-stack-the-dreamland-for-a-laravel-developer" />
+    <id>https://ariaieboy.ir/blog/tall-stack-the-dreamland-for-a-laravel-developer</id>
+    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/tall-stack-the-dreamland-for-a-laravel-developer" />
     <title>TALL Stack: the dreamland for a laravel developer</title>
     <published>2022-12-09T00:00:00+00:00</published>
     <updated>2022-12-09T00:00:00+00:00</updated>
@@ -1406,8 +1406,8 @@ Livewire home page says :
     ]]></content>
 </entry>
             <entry>
-    <id>http://localhost:8000/blog/why-this-blog</id>
-    <link type="text/html" rel="alternate" href="http://localhost:8000/blog/why-this-blog" />
+    <id>https://ariaieboy.ir/blog/why-this-blog</id>
+    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/why-this-blog" />
     <title>Why This Blog ?</title>
     <published>2022-12-02T00:00:00+00:00</published>
     <updated>2022-12-02T00:00:00+00:00</updated>
