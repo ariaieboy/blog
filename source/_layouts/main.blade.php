@@ -6,6 +6,14 @@
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <meta name="description" content="{{ $page->description ?? $page->siteDescription }}">
 
+        <meta name="theme-color" content="#1e1e2a">
+
+        <!-- Preconnect to external origins -->
+        <link rel="preconnect" href="https://img.shields.io">
+        <link rel="preconnect" href="https://ariaieboy.kit.com">
+        <link rel="dns-prefetch" href="https://img.shields.io">
+        <link rel="dns-prefetch" href="https://ariaieboy.kit.com">
+
         <meta property="og:title" content="{{ $page->title ? $page->title . ' | ' : '' }}{{ $page->siteName }}"/>
         <meta property="og:type" content="{{ $page->type ?? 'website' }}" />
         <meta property="og:url" content="{{ $page->getUrl() }}"/>

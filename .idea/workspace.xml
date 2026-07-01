@@ -4,68 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4201626-96e1-46d7-aaae-7166515ee4a5" name="Changes" comment="update deps">
-      <change beforePath="$PROJECT_DIR$/docs/404/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/about/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/build/assets/main-C49JKfnu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/build/assets/main-OcLnMqCK.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/build/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/img/chevron-right.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/img/icon-blog.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/img/icon-contact.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/img/icon-post.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/img/icon-project.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/img/icon-story.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/img/icon-uses.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/img/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/img/long-arrow-left.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/img/long-arrow-right.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/img/posts/10/php-fpm.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/img/posts/10/swoole-octane.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/img/posts/19/img.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/img/posts/19/img_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/img/posts/21/google.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/img/posts/21/stats.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/img/posts/6/img.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/img/posts/8/apt-v-nala.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/img/profile.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/blog/10-free-performance-using-laravel-octane-and-swoole/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/blog/11-code-splitting-and-lazy-loading-alpine-components/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/blog/12-how-do-i-backup-my-websites/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/blog/13-laravel-pint-easy-to-use-code-style-fixer/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/blog/14-why-should-you-consider-using-avif-on-your-website/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/blog/15-how-i-improved-my-backup-strategies/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/blog/16-what-is-laravel-macro/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/blog/17-windows-mail-replacement/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/blog/18-php-release-cycle-changed-after-14-years/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/blog/19-how-can-you-benefit-from-pestphp-in-a-phpunit-codebase/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/blog/20-how-i-improved-my-docker-build-github-action-speed/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/blog/21-digital-life-without-internet-access-in-iran/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/blog/6-caprover-easy-and-free-self-hosted-paas/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/blog/7-translate-your-laravel-application-using-laravel-lang/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/blog/8-nala-modern-front-end-for-apt/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/blog/9-zsh-plugin-for-laravel-sail/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/blog/categories/backup/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/blog/categories/general/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/blog/categories/news/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/blog/categories/performance/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/blog/categories/tips/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/blog/categories/tools/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/blog/categories/tutorials/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/blog/categories/writing/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/blog/enjoyable-php-testing-with-pestphp/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/blog/feed.atom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/blog/filament-the-best-tall-stack-package/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/blog/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/blog/tall-stack-the-dreamland-for-a-laravel-developer/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/blog/test-your-code-base-without-test/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/blog/why-this-blog/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/contact/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/sitemap.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/uses/index.html" beforeDir="false" />
+    <list default="true" id="d4201626-96e1-46d7-aaae-7166515ee4a5" name="Changes" comment="update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/enjoyable-php-testing-with-pestphp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/enjoyable-php-testing-with-pestphp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/filament-the-best-tall-stack-package/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/filament-the-best-tall-stack-package/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/tall-stack-the-dreamland-for-a-laravel-developer/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/tall-stack-the-dreamland-for-a-laravel-developer/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/test-your-code-base-without-test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/test-your-code-base-without-test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/why-this-blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/why-this-blog/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/contact/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/uses/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/uses/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/source/_assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_layouts/main.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/source/_layouts/main.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_layouts/post.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/source/_layouts/post.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_partials/hero.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/source/_partials/hero.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/uses.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/source/uses.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -277,34 +232,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.laravel-idea.update-module-directories": "true",
-    "RunOnceActivity.laravel_idea.move_run_console_settings": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "copilot.chat.legacySessionMetadata.migrated": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "javascript.nodejs.core.library.configured.version": "20.1.0",
-    "javascript.nodejs.core.library.typings.version": "20.1.0",
-    "last_opened_file_path": "//wsl.localhost/Ubuntu/home/ariaieboy/code/newblog/docs",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_interpreter_path": "wsl://Ubuntu@/usr/bin/node",
-    "nodejs_package_manager_path": "npm",
-    "prettierjs.PrettierConfiguration.Package": "\\\\wsl$\\Ubuntu\\home\\ariaieboy\\code\\blog\\node_modules\\prettier",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.laravel-idea.update-module-directories&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.laravel_idea.move_run_console_settings&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;copilot.chat.legacySessionMetadata.migrated&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;20.1.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;20.1.0&quot;,
+    &quot;last_opened_file_path&quot;: &quot;//wsl.localhost/Ubuntu/home/ariaieboy/code/newblog/docs&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;wsl://Ubuntu@/usr/bin/node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;\\\\wsl$\\Ubuntu\\home\\ariaieboy\\code\\blog\\node_modules\\prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="\\wsl.localhost\Ubuntu\home\ariaieboy\code\newblog\source\assets\img" />
