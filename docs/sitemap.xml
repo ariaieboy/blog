@@ -1,178 +1,183 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
  <url>
+  <loc>https://ariaieboy.ir/CNAME</loc>
+  <lastmod>2026-07-01T11:57:21+00:00</lastmod>
+  <changefreq>daily</changefreq>
+ </url>
+ <url>
   <loc>https://ariaieboy.ir/blog/categories/backup</loc>
-  <lastmod>2026-07-01T11:55:40+00:00</lastmod>
+  <lastmod>2026-07-01T11:57:21+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://ariaieboy.ir/blog/categories/general</loc>
-  <lastmod>2026-07-01T11:55:40+00:00</lastmod>
+  <lastmod>2026-07-01T11:57:21+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://ariaieboy.ir/blog/categories/news</loc>
-  <lastmod>2026-07-01T11:55:40+00:00</lastmod>
+  <lastmod>2026-07-01T11:57:21+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://ariaieboy.ir/blog/categories/performance</loc>
-  <lastmod>2026-07-01T11:55:40+00:00</lastmod>
+  <lastmod>2026-07-01T11:57:21+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://ariaieboy.ir/blog/categories/tips</loc>
-  <lastmod>2026-07-01T11:55:40+00:00</lastmod>
+  <lastmod>2026-07-01T11:57:21+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://ariaieboy.ir/blog/categories/tools</loc>
-  <lastmod>2026-07-01T11:55:40+00:00</lastmod>
+  <lastmod>2026-07-01T11:57:21+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://ariaieboy.ir/blog/categories/tutorials</loc>
-  <lastmod>2026-07-01T11:55:40+00:00</lastmod>
+  <lastmod>2026-07-01T11:57:21+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://ariaieboy.ir/blog/categories/writing</loc>
-  <lastmod>2026-07-01T11:55:40+00:00</lastmod>
+  <lastmod>2026-07-01T11:57:21+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://ariaieboy.ir/blog/10-free-performance-using-laravel-octane-and-swoole</loc>
-  <lastmod>2026-07-01T11:55:40+00:00</lastmod>
+  <lastmod>2026-07-01T11:57:21+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://ariaieboy.ir/blog/11-code-splitting-and-lazy-loading-alpine-components</loc>
-  <lastmod>2026-07-01T11:55:40+00:00</lastmod>
+  <lastmod>2026-07-01T11:57:21+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://ariaieboy.ir/blog/12-how-do-i-backup-my-websites</loc>
-  <lastmod>2026-07-01T11:55:40+00:00</lastmod>
+  <lastmod>2026-07-01T11:57:21+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://ariaieboy.ir/blog/13-laravel-pint-easy-to-use-code-style-fixer</loc>
-  <lastmod>2026-07-01T11:55:40+00:00</lastmod>
+  <lastmod>2026-07-01T11:57:21+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://ariaieboy.ir/blog/14-why-should-you-consider-using-avif-on-your-website</loc>
-  <lastmod>2026-07-01T11:55:40+00:00</lastmod>
+  <lastmod>2026-07-01T11:57:21+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://ariaieboy.ir/blog/15-how-i-improved-my-backup-strategies</loc>
-  <lastmod>2026-07-01T11:55:40+00:00</lastmod>
+  <lastmod>2026-07-01T11:57:21+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://ariaieboy.ir/blog/16-what-is-laravel-macro</loc>
-  <lastmod>2026-07-01T11:55:40+00:00</lastmod>
+  <lastmod>2026-07-01T11:57:21+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://ariaieboy.ir/blog/17-windows-mail-replacement</loc>
-  <lastmod>2026-07-01T11:55:40+00:00</lastmod>
+  <lastmod>2026-07-01T11:57:21+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://ariaieboy.ir/blog/18-php-release-cycle-changed-after-14-years</loc>
-  <lastmod>2026-07-01T11:55:40+00:00</lastmod>
+  <lastmod>2026-07-01T11:57:21+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://ariaieboy.ir/blog/19-how-can-you-benefit-from-pestphp-in-a-phpunit-codebase</loc>
-  <lastmod>2026-07-01T11:55:40+00:00</lastmod>
+  <lastmod>2026-07-01T11:57:21+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://ariaieboy.ir/blog/20-how-i-improved-my-docker-build-github-action-speed</loc>
-  <lastmod>2026-07-01T11:55:40+00:00</lastmod>
+  <lastmod>2026-07-01T11:57:21+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://ariaieboy.ir/blog/21-digital-life-without-internet-access-in-iran</loc>
-  <lastmod>2026-07-01T11:55:40+00:00</lastmod>
+  <lastmod>2026-07-01T11:57:21+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://ariaieboy.ir/blog/6-caprover-easy-and-free-self-hosted-paas</loc>
-  <lastmod>2026-07-01T11:55:40+00:00</lastmod>
+  <lastmod>2026-07-01T11:57:21+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://ariaieboy.ir/blog/7-translate-your-laravel-application-using-laravel-lang</loc>
-  <lastmod>2026-07-01T11:55:40+00:00</lastmod>
+  <lastmod>2026-07-01T11:57:21+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://ariaieboy.ir/blog/8-nala-modern-front-end-for-apt</loc>
-  <lastmod>2026-07-01T11:55:40+00:00</lastmod>
+  <lastmod>2026-07-01T11:57:21+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://ariaieboy.ir/blog/9-zsh-plugin-for-laravel-sail</loc>
-  <lastmod>2026-07-01T11:55:40+00:00</lastmod>
+  <lastmod>2026-07-01T11:57:21+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://ariaieboy.ir/blog/enjoyable-php-testing-with-pestphp</loc>
-  <lastmod>2026-07-01T11:55:40+00:00</lastmod>
+  <lastmod>2026-07-01T11:57:21+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://ariaieboy.ir/blog/filament-the-best-tall-stack-package</loc>
-  <lastmod>2026-07-01T11:55:40+00:00</lastmod>
+  <lastmod>2026-07-01T11:57:21+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://ariaieboy.ir/blog/tall-stack-the-dreamland-for-a-laravel-developer</loc>
-  <lastmod>2026-07-01T11:55:40+00:00</lastmod>
+  <lastmod>2026-07-01T11:57:21+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://ariaieboy.ir/blog/test-your-code-base-without-test</loc>
-  <lastmod>2026-07-01T11:55:40+00:00</lastmod>
+  <lastmod>2026-07-01T11:57:21+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://ariaieboy.ir/blog/why-this-blog</loc>
-  <lastmod>2026-07-01T11:55:40+00:00</lastmod>
+  <lastmod>2026-07-01T11:57:21+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://ariaieboy.ir/about</loc>
-  <lastmod>2026-07-01T11:55:40+00:00</lastmod>
+  <lastmod>2026-07-01T11:57:21+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://ariaieboy.ir/blog</loc>
-  <lastmod>2026-07-01T11:55:40+00:00</lastmod>
+  <lastmod>2026-07-01T11:57:21+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://ariaieboy.ir/blog/feed.atom</loc>
-  <lastmod>2026-07-01T11:55:40+00:00</lastmod>
+  <lastmod>2026-07-01T11:57:21+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://ariaieboy.ir/contact</loc>
-  <lastmod>2026-07-01T11:55:40+00:00</lastmod>
+  <lastmod>2026-07-01T11:57:21+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://ariaieboy.ir</loc>
-  <lastmod>2026-07-01T11:55:40+00:00</lastmod>
+  <lastmod>2026-07-01T11:57:21+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://ariaieboy.ir/uses</loc>
-  <lastmod>2026-07-01T11:55:40+00:00</lastmod>
+  <lastmod>2026-07-01T11:57:21+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
 </urlset>
