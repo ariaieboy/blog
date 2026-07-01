@@ -4,7 +4,7 @@
     "scripts": {
         "dev": "vite",
         "build": "vite build",
-        "prod": "vite build --mode production"
+        "prod": "node scripts/optimize-images.mjs && vite build --mode production && rm -rf docs && cp -r build_production docs"
     },
     "devDependencies": {
         "@tailwindcss/typography": "^0.5.20",
