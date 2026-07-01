@@ -30,7 +30,8 @@
         @endif
 
         @viteRefresh()
-        <link rel="stylesheet" href="{{ vite('source/_assets/css/main.css') }}">
+        <link rel="stylesheet" href="{{ vite('source/_assets/css/main.css') }}" media="print" onload="this.media='all'">
+        <noscript><link rel="stylesheet" href="{{ vite('source/_assets/css/main.css') }}"></noscript>
 {{--        <script defer type="module" src="{{ vite('source/_assets/js/main.js') }}"></script>--}}
     </head>
 
