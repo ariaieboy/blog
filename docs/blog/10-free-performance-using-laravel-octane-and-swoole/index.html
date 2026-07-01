@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="description" content="Free Performance + Extra features for Laravel using Octane and Swoole">
+
+        <meta property="og:title" content="Free Performance + Extra features for Laravel using Octane and Swoole | AriaieBOY Blog"/>
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content="https://ariaieboy.ir/blog/10-free-performance-using-laravel-octane-and-swoole"/>
+        <meta property="og:description" content="Free Performance + Extra features for Laravel using Octane and Swoole" />
+
+        <title>Free Performance + Extra features for Laravel using Octane and Swoole | AriaieBOY Blog</title>
+
+        <link rel="home" href="https://ariaieboy.ir">
+        <link rel="icon" href="/favicon.ico">
+        <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="AriaieBOY Blog Atom Feed">
+
+                    <!-- Insert analytics code here -->
+        
+                <link rel="stylesheet" href="/assets/build/assets/main-OcLnMqCK.css">
+        <script defer type="module" src="/assets/build/assets/main-C49JKfnu.js"></script>
+    </head>
+
+    <body class="min-h-screen flex flex-col">
+                    <header class="bg-base-200 border-b border-base-300">
+    <div class="max-w-2xl mx-auto px-4 py-3 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-1 sm:gap-0">
+        <a href="https://ariaieboy.ir" class="flex items-center gap-2 font-bold text-lg">
+            <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6" />
+            </svg>
+            AriaieBOY Blog
+        </a>
+        <div class="flex flex-wrap gap-2">
+            <a href="/blog" class="btn btn-ghost ">Blog</a>
+            <a href="/uses" class="btn btn-ghost ">Uses</a>
+            <a href="/about" class="btn btn-ghost ">About</a>
+            <a href="/contact" class="btn btn-ghost ">Contact</a>
+        </div>
+    </div>
+</header>        
+            <article class="w-full max-w-2xl mx-auto p-4 prose prose-indigo min-w-0">
+        
+        <h1 class="!mt-0">Free Performance + Extra features for Laravel using Octane and Swoole</h1>
+
+        <p class="text-sm text-gray-500 mb-4">May 26, 2023 • 3 min</p>
+
+                    <div class="mb-4 not-prose">
+                                    <a href="/blog/categories/tools" class="btn btn-ghost btn-xs" title="View posts in tools">tools</a>
+                            </div>
+        
+        <div class="border-b border-gray-200 mb-8 pb-4 overflow-x-auto" v-pre>
+            <h2>How Laravel Octane Boosts Performance?</h2>
+
+<p>As you know, in traditional Laravel applications, the PHP process will run the application from the ground up with each request, and the PHP process can only handle one request at a time.</p>
+
+<p>But in Laravel Octane, the application will bootstrap once at the first request to the ram. After that, every request that hits the server will serve using the bootstrapped application in the ram instead of running the application from the ground up.</p>
+
+<p>Another feature is that Laravel Octane can run multiple workers at once, so instead of handling one request at a time, it can take multiple requests at once.</p>
+
+<h2>How much faster is Octane?</h2>
+
+<p>A quick search in the internet you can find lots of benchmarks on the internet, but for a quick comparison, I  tested my website using both Laravel Octane (swoole) and nginx + PHP-fpm with default settings and did a benchmark using this command:
+<code>ab -t 10 -c http://localhost</code></p>
+
+<p>And here is the result:</p>
+
+<p><code>nginx</code>
+<img src="/assets/img/posts/10/php-fpm.png" alt="nginx php fpm" />
+<code>octane</code>
+<img src="/assets/img/posts/10/swoole-octane.png" alt="laravel octane swoole" /></p>
+
+<p>As you can see in the results above, it's about 25% faster than nginx-fpm.</p>
+
+<p>Based on the configurations, it can perform much faster with fewer resources, but 25-30% boosts are a lot.</p>
+
+<p>Boosting Performance is one of many things that Laravel Octane can do.</p>
+
+<p>Laravel Octane under the hood uses some drivers to run the workers and bootstrap the application to the ram, including swoole, openswoole, and Roadrunner.</p>
+
+<p>If you use swoole as the driver, you can access some cool extra features that can be useful depending on your application.</p>
+
+<h3>Concurrent Tasks</h3>
+
+<p>You can run operations concurrently using swoole task workers:</p>
+
+<pre class="highlight"><code class="language-php"><span class="hl-gutter">1</span>[<span class="hl-variable">$users</span>, <span class="hl-variable">$servers</span>] = <span class="hl-type">Octane</span>::<span class="hl-property">concurrently</span>([
+<span class="hl-gutter">2</span> <span class="hl-keyword">fn</span> () =&gt; <span class="hl-type">User</span>::<span class="hl-property">all</span>(),
+<span class="hl-gutter">3</span> <span class="hl-keyword">fn</span> () =&gt; <span class="hl-type">Server</span>::<span class="hl-property">all</span>(),
+<span class="hl-gutter">4</span>]);</code></pre>
+
+<p>All the functions above will run in parallel using swoole task workers. Isn't that awesome?</p>
+
+<h3>The Octane Cache</h3>
+
+<p>Octane using Swoole Table provides a cache driver that can handle up to 2 million reads and write operations per second.</p>
+
+<p>You can also interact directly with Swoole Table using these codes:</p>
+
+<pre class="highlight"><code class="language-php"><span class="hl-gutter">1</span><span class="hl-type">Octane</span>::<span class="hl-property">table</span>(<span class="hl-value">'example'</span>)-&gt;<span class="hl-keyword">set</span>(<span class="hl-value">'uuid'</span>, [
+<span class="hl-gutter">2</span> <span class="hl-value">'name'</span> =&gt; <span class="hl-value">'Nuno Maduro'</span>,
+<span class="hl-gutter">3</span> <span class="hl-value">'votes'</span> =&gt; 1000,
+<span class="hl-gutter">4</span>]);
+<span class="hl-gutter">5</span>
+<span class="hl-gutter">6</span><span class="hl-keyword">return</span> <span class="hl-type">Octane</span>::<span class="hl-property">table</span>(<span class="hl-value">'example'</span>)-&gt;<span class="hl-property">get</span>(<span class="hl-value">'uuid'</span>);</code></pre>
+
+<h2>Ticks &amp; Intervals</h2>
+
+<p>Using Octane with Swoole allows you to execute callables every specified second.</p>
+
+<p>For example, the code below will run each 20 seconds after the application startup:</p>
+
+<pre class="highlight"><code class="language-php"><span class="hl-gutter">1</span><span class="hl-type">Octane</span>::<span class="hl-property">tick</span>(<span class="hl-value">'simple-ticker'</span>, <span class="hl-keyword">fn</span> () =&gt; <span class="hl-property">ray</span>(<span class="hl-value">'Ticking...'</span>))
+<span class="hl-gutter">2</span> -&gt;<span class="hl-property">seconds</span>(20);</code></pre>
+
+<h2>How can you use Laravel Octane?</h2>
+
+<p>There is a good installation tutorial in the Laravel doc itself <a href="https://laravel.com/docs/10.x/octane#installation">here</a></p>
+
+<p>You need to install the drivers on your server first. For example, for installing swoole, you can use pecl:
+<code>pecl install swoole</code></p>
+
+<p>After that, you need to install the laravel Octane itself using the code below:</p>
+
+<p><code>composer require laravel/octane</code></p>
+
+<p>Then you need to run this command:</p>
+
+<p><code>php artisan octane:install</code></p>
+
+<p>And at the end, for serving your application, you can use this artisan command:</p>
+
+<p><code>php artisan octane:start</code></p>
+
+<h2>But can I use Octane on all Laravel applications?</h2>
+
+<p>The quick answer is Yes and also No!</p>
+
+<p>You can use Octane on all Laravel applications, but since it handles requests differently, you must check that your application is compatible with Octane.</p>
+
+<p>For example, your application's service providers <code>register</code> and <code>boot</code> methods will only be executed once when the request worker initially boots.</p>
+
+<p>Because of that, You should double-check the injections in your <code>boot</code> and <code>register</code> methods.</p>
+
+<p>You can read about the <a href="https://laravel.com/docs/10.x/octane#dependency-injection-and-octane">Dependency Injection &amp; Octane</a> in the Laravel Doc.</p>
+
+<p>If you use Larastan, there is a rule that you can use to check Octane Compatibility. You can enable this rule by setting this parameter in your <code>phpstan.neon</code> file:</p>
+
+<pre class="highlight"><code><span class="hl-gutter">1</span>parameters:
+<span class="hl-gutter">2</span>    checkOctaneCompatibility: true</code></pre>
+
+<p>But don't be afraid of compatibility problems and memory leaks. After using Octane for almost two years, I only encounter one memory leak in <code>barryvdh/laravel-debugbar</code>.</p>
+
+<p>Since You only use the debug bar in the development environment, it might not be a big deal. Still, I replaced it with <code>itsgoingd/clockwork</code>, and I can tell you it's as good as the laravel debug bar, and it supports Octane without any memory leak or compatibility problem.</p>
+        </div>
+
+        <div class="my-8">
+            <div class="w-full" style="overflow: visible !important;">
+    <script async data-uid="6d00b17a2b" src="https://ariaieboy.kit.com/6d00b17a2b/index.js"></script>
+</div>
+        </div>
+
+        <nav class="flex flex-col sm:flex-row sm:justify-between gap-2 overflow-hidden">
+                            <a href="https://ariaieboy.ir/blog/9-zsh-plugin-for-laravel-sail" class="btn btn-ghost btn-sm text-left truncate max-w-full" title="Older Post: ZSH Plugin for Laravel Sail">&larr; ZSH Plugin for Laravel Sail</a>
+                                        <a href="https://ariaieboy.ir/blog/11-code-splitting-and-lazy-loading-alpine-components" class="btn btn-ghost btn-sm text-left sm:text-right truncate max-w-full" title="Newer Post: Code-splitting and Lazy-loading Alpine Components using Async Alpine">Code-splitting and Lazy-loading Alpine Components using Async Alpine &rarr;</a>
+                    </nav>
+    </article>
+        <footer class="bg-base-200 text-base-content border-t border-base-300 mt-auto">
+    <div class="max-w-2xl mx-auto p-8 flex flex-col items-center gap-4">
+        <p class="text-sm opacity-70">&copy; 2022-2026 AriaieBOY Blog. All rights reserved.</p>
+
+        <nav class="flex flex-wrap justify-center gap-2 text-sm">
+            <a href="/blog" class="btn btn-ghost btn-sm">Blog</a>
+            <a href="/uses" class="btn btn-ghost btn-sm">Uses</a>
+            <a href="/about" class="btn btn-ghost btn-sm">About</a>
+            <a href="/contact" class="btn btn-ghost btn-sm">Contact</a>
+        </nav>
+
+        <nav class="flex gap-4">
+            <a href="https://github.com/ariaieboy" target="_blank" rel="noopener noreferrer" class="btn btn-ghost btn-circle" title="GitHub">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg>
+            </a>
+            <a href="https://x.com/ariaieboy_ir" target="_blank" rel="noopener noreferrer" class="btn btn-ghost btn-circle" title="X (Twitter)">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            </a>
+            <a href="https://bsky.app/profile/ariaieboy.ir" target="_blank" rel="noopener noreferrer" class="btn btn-ghost btn-circle" title="Bluesky">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M12 10.8c-1.087-2.114-4.046-6.053-6.798-7.995C2.566.944 1.561 1.266.902 1.565.139 1.908 0 3.08 0 3.768c0 .69.378 5.65.624 6.479.815 2.736 3.713 3.66 6.383 3.364.136-.02.275-.039.415-.056-.138.022-.276.04-.415.056-3.912.58-7.387 2.005-2.83 7.078 5.013 5.19 6.87-1.113 7.823-4.308.953 3.195 2.05 9.271 7.733 4.308 4.267-4.308 1.172-6.498-2.74-7.078a8.741 8.741 0 0 1-.415-.056c.14.017.279.036.415.056 2.67.297 5.568-.628 6.383-3.364.246-.828.624-5.79.624-6.478 0-.69-.139-1.861-.902-2.206-.659-.298-1.664-.62-4.3 1.24C16.046 4.748 13.087 8.687 12 10.8Z"/></svg>
+            </a>
+            <a href="/blog/feed.atom" class="btn btn-ghost btn-circle" title="RSS Feed">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 0 1 2.18 2.18C8.36 19 7.38 20 6.18 20C5 20 4 19 4 17.82a2.18 2.18 0 0 1 2.18-2.18M4 4.44A15.56 15.56 0 0 1 19.56 20h-2.83A12.73 12.73 0 0 0 4 7.27V4.44m0 5.66a9.9 9.9 0 0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4 12.93V10.1Z"/></svg>
+            </a>
+        </nav>
+    </div>
+</footer>
+            </body>
+</html>

@@ -1,0 +1,1343 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>AriaieBOY Blog</title>
+    <link href="https://ariaieboy.ir/blog" />
+    <link type="application/atom+xml" rel="self" href="https://ariaieboy.ir/blog/feed.atom" />
+    <updated>2026-07-01T10:45:00+00:00</updated>
+    <id>https://ariaieboy.ir/blog/feed.atom</id>
+    <author>
+        <name>AriaieBOY</name>
+    </author>
+                <entry>
+    <id>https://ariaieboy.ir/blog/21-digital-life-without-internet-access-in-iran</id>
+    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/21-digital-life-without-internet-access-in-iran" />
+    <title>Digital Life Without Internet Access in IRAN</title>
+    <published>2026-01-24T00:00:00+00:00</published>
+    <updated>2026-01-24T00:00:00+00:00</updated>
+    <author>
+        <name>Author Name</name>
+    </author>
+    <summary type="html">If you can read this post, it means I’m super lucky that this post has published from my computer to GitHub, and after that, on the Cloudflare page.
+
+
+As of 8 November 2026, we don’t have access to the internet in my country. In this post, I don’t......</summary>
+    <content type="html"><![CDATA[
+        <blockquote>
+  <p>If you can read this post, it means I’m super lucky that this post has published from my computer to GitHub, and after that, on the Cloudflare page.</p>
+</blockquote>
+
+<p>As of 8 November 2026, we don’t have access to the internet in my country. In this post, I don’t want to talk about the politics or why this happened and who is right and who is wrong.</p>
+
+<p>It’s not a technical post either. It’s just a story that we are the main characters in 2026.</p>
+
+<p>Everything started on Thursday night. After work, when I arrived at my home. I found out that my internet connection is offline. Not only is the internet shut down, but also all the local websites are inaccessible.</p>
+
+<p>For the first few hours, I thought it was like other times when they limit the internet access, and the access returns after a few days. But this time it's different.</p>
+
+<p>For years, the government and the businessess try to make their apps and websites work even without the internet.</p>
+
+<p>All websites moved their server inside the country and added OTP login using SMS, so if we lost internet connection for hours or days, like previous blackouts, users could access their sites and apps.</p>
+
+<p>We also have lots of local services, for example, we have more than 7 local messenger apps replacing Telegram and WhatsApp. These apps exist so that when internet access is limited, people can use these apps to communicate with each other.</p>
+
+<p>This time, not only is the internet is shutdown, but also all the communication channels are blocked. All website including the government website is offline. And you cannot send or receive AN SMS.</p>
+
+<p>And for the calls, you can only call your loved ones from 8AM to 8 PM or 10 PM, and after that, when the night comes, you are all alone. You can’t text, you can’t call.</p>
+
+<p>For sure, they can’t block all communications for a long period.</p>
+
+<h2>It's NOT NORTH KOREA</h2>
+
+<p>When you talk to outsiders, they compare IRAN with NORTH KOREA. But it’s not comparable.</p>
+
+<p>In Iran, we have technology, and people life depends on it. If we didn’t have internet in the first place, and the people were brainwashed that nothing exists outside Iran. It was easier to live without the internet and modern communication technologies.</p>
+
+<p>So please, when you read an article about Iran's internet blackout, DO NOT COMPARE IT WITH NORTH KOREA.</p>
+
+<p>I think in Saturday, some government websites, and some official news agencies started to work, and after that, apps and websites that their server is inside the country started to go online.</p>
+
+<h2>Online But not working</h2>
+
+<p>As I said before, the SMS is blocked in the country, and you cannot log in to more than 95% of the websites. On the official and government websites, the login system only works with SMS OTP, and on other websites, it’s AN SMS OTP or Google login. And as you can tell, Google is not accessible here.</p>
+
+<h2>No Google, Hello to 2026 Website URL List</h2>
+
+<p>If you are old enough, you might remember the telephone books that people write their loved ones' numbers in that telephone book.</p>
+
+<p>I saw lots of people searching for the official website URL. They all used Google to find the website they wanted since Google was not available. People start to create a website URL list, so they can access banks or internal websites by entering the website URL instead of searching on Google.</p>
+
+<h2>SMS is Back But Partially</h2>
+
+<p>After 2-3 days, OTP SMS for official websites is back, and after around 5-6 days, other websites can send OTP code only if their message pattern doesn’t contain any English letter; you can only send Persian letters and numbers. And every pattern must get accepted by the officials.</p>
+
+<h2>Normal life goes on, but digital life does not so much</h2>
+
+<p>My website stats dropped more than 80% in the early days:
+<img src="/assets/img/posts/21/stats.png" alt="stats" /></p>
+
+<p>And my Google search result 100%:
+<img src="/assets/img/posts/21/google.png" alt="google" /></p>
+
+<h2>Google is Online not anything else</h2>
+
+<p>After about 7 days, people can access Google in some regions. It’s obvious in the picture above that when the Google access is restored in some areas, my website stats show improvement. But that’s not mean we have access to the internet.</p>
+
+<p>You can’t call it the Internet.</p>
+
+<h2>It’s FilterNET+</h2>
+
+<p>We don’t call this the internet. Before the blackout, we had FilterNET. It’s the internet, but lots of social media apps and websites are filtered and censored by the government. On the other hand, lots of global services restrict Iranian access to their platforms because of the sanctions.</p>
+
+<p>For example, we don’t have access to YouTube or Telegram because of the government filters, and Amazon, Amazon Cloud, and Google Cloud services because of the sanctions.</p>
+
+<p>Because of those, we call it FilterNET now it’s FilterNET+. We don’t have access to a lot of websites that we had access to before the blackout, for example, Cloudflare is not accessible, while before the blackout, we had access to it.</p>
+
+<h2>Nobody Can Stop US</h2>
+
+<p>As I said, we are sanctioned from the outside and filtered from the inside, but NoBody can stop us. Our people adapt quickly.</p>
+
+<p>For example, in the case of Telegram While it’s filtered by Government but, about 50M out of 80M people use it using proxies.</p>
+
+<p>And that’s why this time they blocked all the communication channels. So nobody can share their way of connecting to others.</p>
+
+<h2>15 days passed, another 15 days are on the way</h2>
+
+<p>It’s been 15 days since the FilterNET that we used before is offline, and we only have access to a handful of necessary apps and websites. Google,Gmail, in some hours and GitHub are accessible for about 24 hours. We don’t know its temprorary or permanent.</p>
+
+<p>They might BAN me and invoke my access to my Personal Website <a href="https://ariaieboy.ir">AriaieBOY.IR</a> domain. But as I said NoBody Can Stop us. Not Filtering, not Sanctions.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ariaieboy.ir/blog/20-how-i-improved-my-docker-build-github-action-speed</id>
+    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/20-how-i-improved-my-docker-build-github-action-speed" />
+    <title>How I improved my docker build GitHUB action speed by +2000% </title>
+    <published>2024-10-30T00:00:00+00:00</published>
+    <updated>2024-10-30T00:00:00+00:00</updated>
+    <author>
+        <name>Author Name</name>
+    </author>
+    <summary type="html">Let me clarify that the 2000% speed boost I achieved was from a subsequent build of a Laravel app. You may not see the same improvement in every situation, but this enhancement significantly helped me.
+
+I like to ship websites quickly. When I fix a bug......</summary>
+    <content type="html"><![CDATA[
+        <p>Let me clarify that the 2000% speed boost I achieved was from a subsequent build of a Laravel app. You may not see the same improvement in every situation, but this enhancement significantly helped me.</p>
+
+<p>I like to ship websites quickly. When I fix a bug or implement a feature, I push it to production immediately. If something goes wrong after all my tests and static analyzers pass, I either roll back to the previous version or deploy a hotfix right away.</p>
+
+<p>My Docker build action originally took around 3 minutes to complete, and I had not taken the time to investigate ways to boost its speed until I saw the new GitHub Docker build summary.</p>
+
+<p>Initially, my Docker build workflow utilized 0% of Docker's caching capability. I had over-engineered my Docker images with a multi-stage build, ensuring that each layer contained minimal changes, allowing Docker to cache my image layers easily.</p>
+
+<h3>So, what was the problem? 🤔</h3>
+
+<p>The first issue was my inexperience. At the beginning of my docker file, I specified an <code>ARG</code> that sets my application version.</p>
+
+<pre><code>ARG APP_VERSION
+ENV APP_VERSION=$APP_VERSION
+</code></pre>
+
+<p>The version changes with each build because of that docker wouldn't cache anything in my build. I just boosted my cache utilization to 26% by moving these 2 lines to the end of my dockerfile since I don't use this ARG in my build process and only use the environment variable in laravel to show the current online version.</p>
+
+<h3>26% was not enough</h3>
+
+<p>I managed to cut the build time to half by changing that 2 line but 26% cache hit with 1m20s was not enough for me I knew that I could boost the speed and cache hit even more. So I dig deeper.
+The next thing that I changed was the front-end build stage.
+As I mentioned above I was using a multi-stage build docker image to reduce the image file size and boost cache hits but I wasn't successful before these changes.
+Here are my build stages:</p>
+
+<pre><code class="language-dockerfile">FROM composer:2 AS back
+COPY . /var/www/html
+WORKDIR /var/www/html
+RUN composer install --no-interaction --optimize-autoloader --no-dev --ignore-platform-reqs
+
+###step 2 frontend
+FROM node:22 AS front
+COPY . /var/www/html
+COPY --from=back /var/www/html/vendor /var/www/html/vendor
+WORKDIR /var/www/html
+RUN npm install &amp;&amp; npm run build
+</code></pre>
+
+<p>The problem with that code is that it copies the whole project to install dependencies and run the npm build command. Because of that in each build, It installs dependencies even if the package.json is untouched.
+So I fixed that issue by changing the front-end stage like this:</p>
+
+<pre><code class="language-dockerfile">FROM node:22 AS front
+COPY package*.json .
+RUN npm install
+COPY . .
+COPY --from=back /var/www/html/vendor /var/www/html/vendor
+RUN npm run build
+</code></pre>
+
+<p>By separating the <code>npm install</code> and <code>npm run build</code> commands now docker can cache the first 2 layers if the package.json file is not changed.</p>
+
+<h3>The last change that reduced the build time to 7 seconds</h3>
+
+<p>Every article you come across about Docker highlights the importance of the <code>.dockerignore</code> file. This file is essential for optimizing your builds and ensuring efficiency in your development process.
+Since I use GitHub Actions to build my image, I initially thought it wasn't necessary to include a <code>.dockerignore</code> file. I already specified the files I wanted to ignore in my <code>.gitignore</code>, so those files were never pushed to the Git repository in the first place.
+But I was wrong. By adding these files and folders to my <code>.dockerignore</code> file I managed to hit a higher cache ratio and reduce my subsequential build to 7 seconds:</p>
+
+<pre><code>.github
+database/factories
+database/fake
+tests
+.git
+tmp
+</code></pre>
+
+<p>You must add a <code>.dockerignore</code> file according to your project structure and the technologies that you are using.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ariaieboy.ir/blog/19-how-can-you-benefit-from-pestphp-in-a-phpunit-codebase</id>
+    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/19-how-can-you-benefit-from-pestphp-in-a-phpunit-codebase" />
+    <title>How can you benefit from PestPHP in a PHPUnit codebase?</title>
+    <published>2024-05-20T00:00:00+00:00</published>
+    <updated>2024-05-20T00:00:00+00:00</updated>
+    <author>
+        <name>Author Name</name>
+    </author>
+    <summary type="html">In the PHP ecosystem, there are two well-known testing frameworks: PHPUnit and PestPHP.
+
+PHPUnit is much older and considered the standard in the ecosystem; however, Pest is newer.
+
+In the early days of Pest, the only thing Pest had to offer was the new......</summary>
+    <content type="html"><![CDATA[
+        <p>In the PHP ecosystem, there are two well-known testing frameworks: PHPUnit and PestPHP.</p>
+
+<p>PHPUnit is much older and considered the standard in the ecosystem; however, Pest is newer.</p>
+
+<p>In the early days of Pest, the only thing Pest had to offer was the new syntax, that's not the case anymore.</p>
+
+<p>Yes in my opinion the best thing about Pest is the new syntax it's cleaner and minimalistic But you might have decades of experience with PHPUnit and don't want to learn a new syntax. Here is the next good thing about Pest.</p>
+
+<h2>PHPUnit integration</h2>
+
+<p>Since Pest uses PHPUnit under the hood you don't need to use the new syntax or rewrite all your tests using the new syntax. You can simply install Pest and use it to run your PHPUnit tests.</p>
+
+<p>You might ask what is the benefit of using Pest instead of PHPUnit to run tests.</p>
+
+<h2>Cleaner and better test reporting</h2>
+
+<p>Another improvement of Pest over PHPUnit is the cli printers. It's much cleaner and readable. and error reporting is cleaner too:</p>
+
+<p><img src="/assets/img/posts/19/img.png" alt="failure output" /></p>
+
+<p>here is the output of the <code>--coverage</code> option in CLI:
+<img src="/assets/img/posts/19/img_1.png" alt="coverage output" /></p>
+
+<h2>Built-in Parallel testing</h2>
+
+<p>Pest lets you run your tests in parallel by passing the <code>--parallel</code> flag when you run your tests.</p>
+
+<h2>Build-in Profiling</h2>
+
+<p>Another cool feature that Pest provides is profiling. You can find your slow tests by passing the <code>--profile</code> flag when you want to run your tests.</p>
+
+<h2>Watch Plugin</h2>
+
+<p>Another cool feature that comes as a first-party plugin is the <code>--watch</code> command. By this command, Pest will automatically re-run your tests when it detects a new change in your codebase.</p>
+
+<blockquote>
+  <p>You can use all these features without using the Pest syntax. If you accept to use the new syntax you can benefit even more.</p>
+</blockquote>
+
+<h2>Architecture Testing</h2>
+
+<p>Using architecture testing you can enforce rules that make your project codebase clean and sustainable.
+For example, with these simple tests, you can prevent any debugging code from reaching your production</p>
+
+<pre><code class="language-php">test('globals')
+    -&gt;expect(['dd', 'dump', 'var_dump'])
+    -&gt;not-&gt;toBeUsed();
+</code></pre>
+
+<p>There are lots of other cool stuff about Pest But it requires you to use the new syntax.
+I know that change can be terrifying, but Pest is not that different from PHPUnit.It's just simpler and cleaner.
+I wrote about it in <a href="https://ariaieboy.ir/blog/enjoyable-php-testing-with-pestphp/">this</a> blog post.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ariaieboy.ir/blog/18-php-release-cycle-changed-after-14-years</id>
+    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/18-php-release-cycle-changed-after-14-years" />
+    <title>PHP Release Cycle changed after 14 years</title>
+    <published>2024-05-14T00:00:00+00:00</published>
+    <updated>2024-05-14T00:00:00+00:00</updated>
+    <author>
+        <name>Author Name</name>
+    </author>
+    <summary type="html">The last time the PHP release cycle changed was in 2010 with the acceptance of Release Process RFC after 14 years PHP accepted yet another RFC that changed the Release Cycle and the support policy for all active maintenance php versions including php......</summary>
+    <content type="html"><![CDATA[
+        <p>The last time the PHP release cycle changed was in 2010 with the acceptance of <a href="https://wiki.php.net/rfc/releaseprocess">Release Process RFC</a> after 14 years PHP accepted yet another RFC that changed the Release Cycle and the support policy for all active maintenance php versions including php >8.0</p>
+
+<p>The biggest change is that each PHP version will get updates for 4 years instead of the previous 3 years of support.</p>
+
+<p>Each PHP version including PHP >8.1 will receive 2 years of bug fixes and an additional 2 years of security fixes.</p>
+
+<p>Another change is DisAllowing new features in release candidate and bug fix releases. Before this RFC “small self-contained feature” could get merged into the PHP language in a new bug fix release or release candidate but from now on after the beta 3 release new features can't get merged into the PHP.</p>
+
+<p>The Release Cycle now bounds to the end of the year.
+that means even if a PHP GA release shifts because of any problem the end of the bug fix releases and the security releases will be the Dec 31 and it's not dependant on the release date of the PHP.</p>
+
+<p>There are more changes to the release cycle like "Allow features that do not require an RFC in the beta period", "Reduce the number of RCs to Four" and "Allowing recent regression fixes during security support".</p>
+
+<p>You can read about these changes on the RFC page <a href="https://wiki.php.net/rfc/release_cycle_update">here</a></p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ariaieboy.ir/blog/17-windows-mail-replacement</id>
+    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/17-windows-mail-replacement" />
+    <title>Microsoft going to kill Windows Mail here is the best replacement</title>
+    <published>2024-01-07T00:00:00+00:00</published>
+    <updated>2024-01-07T00:00:00+00:00</updated>
+    <author>
+        <name>Author Name</name>
+    </author>
+    <summary type="html">I have a habit of checking all my email and message notifications first thing in the morning to ensure that there are no unread notifications, as I find them distracting. For years, I have been relying on Windows Mail to manage my emails. I have tried......</summary>
+    <content type="html"><![CDATA[
+        <p>I have a habit of checking all my email and message notifications first thing in the morning to ensure that there are no unread notifications, as I find them distracting. For years, I have been relying on Windows Mail to manage my emails. I have tried other email clients in the past, but I always end up coming back to Windows Mail because of its simplicity, speed, and snappiness.</p>
+
+<p>However, Microsoft plans to discontinue Windows Mail and replace it with Outlook, which I find to be less efficient. Although Microsoft claims that Windows Mail will be available until the end of 2024, the pop-up messages about this have been bothering me. Sometimes, the app even switches automatically to Outlook, which is frustrating. Therefore, I have decided to switch to a new email client sooner rather than later.</p>
+
+<p>After trying several options, including Mozilla Thunderbird, the Nextcloud mail app, and Microsoft Outlook, I finally found Mailspring. This free and open-source email client is exactly what I was looking for. It's snappy, performs well, and supports background checks for new mail. Moreover, just like Windows Mail, it respects the Dark Mode setting.</p>
+
+<p>If you are a fan of Windows Mail's speed and simplicity, you will surely love Mailspring.</p>
+
+<p>You can download it from here: <a href="https://www.getmailspring.com/">https://www.getmailspring.com/</a>.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ariaieboy.ir/blog/16-what-is-laravel-macro</id>
+    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/16-what-is-laravel-macro" />
+    <title>What is a Laravel Macro, and how can you write an IDE Helper for a Macro?</title>
+    <published>2023-09-07T00:00:00+00:00</published>
+    <updated>2023-09-07T00:00:00+00:00</updated>
+    <author>
+        <name>Author Name</name>
+    </author>
+    <summary type="html">Macro is a simple mechanism that lets you add extra functionality to the classes that use the Macroable trait.
+
+For example, in my filament-jalali-datetime plugin for filament, I added a &lt;code&gt;jalaliDate&lt;/code&gt; method to the filament......</summary>
+    <content type="html"><![CDATA[
+        <h2>What is a Macro in Laravel?</h2>
+
+<p>Macro is a simple mechanism that lets you add extra functionality to the classes that use the Macroable trait.</p>
+
+<p>For example, in my <a href="https://github.com/ariaieboy/filament-jalali-datetime">filament-jalali-datetime</a> plugin for filament, I added a <code>jalaliDate</code> method to the filament <code>TextColumn</code> class using the code below:</p>
+
+<pre><code class="language-php">TextColumn::macro('jalaliDate', function (?string $format = null, ?string $timezone = null): static {
+            $format ??= config('filament-jalali-datetime.date_format');
+
+            $this-&gt;formatStateUsing(static function (Column $column, $state) use ($format, $timezone): ?string {
+                /** @var TextColumn $column */
+
+                if (blank($state)) {
+                    return null;
+                }
+
+                return Jalalian::fromCarbon(Carbon::parse($state)
+                    -&gt;setTimezone($timezone ?? $column-&gt;getTimezone()))
+                    -&gt;format($format);
+            });
+
+            return $this;
+        });
+
+</code></pre>
+
+<p>You can add new functionality to any class that uses the <code>Illuminate\Support\Traits\Macroable</code> trait.</p>
+
+<p>It's valuable, especially when you want to add new functionality to the core components of the framework and share it as a package.</p>
+
+<h2>The IDE-Helper</h2>
+
+<p>Laravel Macros are magical, and your IDE might not detect them correctly, so to have better IDE support, you must create some IDE helpers so the IDE can see your macros.</p>
+
+<p>The simplest way I found is an <code>ide_helpers.stubs.php</code> on the root that contains the signature of your macros; for example, for my <code>jalaliDate</code> method, I created this file, and my IDE can detect this method without any problem:</p>
+
+<pre><code class="language-php">&lt;?php
+
+namespace Filament\Tables\Columns {
+    class TextColumn
+    {
+        /**
+         * @source packages/filament-jalali-datetime/src/FilamentJalaliDatetimeServiceProvider.php:28
+         */
+        public function jalaliDate(?string $format = null, ?string $timezone = null): self
+        {
+            return $this;
+        }
+}
+</code></pre>
+
+<p>There is also a package to create automatic IDE-Helpers for macros named <a href="https://github.com/KristofMorva/laravel-ide-macros">tutorigo/laravel-ide-macros</a>.</p>
+
+<p>If you have any other option to create IDE-Helpers for Laravel macros, you can share it in the comments.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ariaieboy.ir/blog/15-how-i-improved-my-backup-strategies</id>
+    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/15-how-i-improved-my-backup-strategies" />
+    <title>How I improved my backup strategies using TrueNAS Scale</title>
+    <published>2023-08-18T00:00:00+00:00</published>
+    <updated>2023-08-18T00:00:00+00:00</updated>
+    <author>
+        <name>Author Name</name>
+    </author>
+    <summary type="html">In my previous blog post How do I backup my websites, and why should I improve, I described how I backup my websites.
+
+In that article, I mentioned some problems with my backup plans. Since then I deployed a local NAS in my home using TrueNAS and......</summary>
+    <content type="html"><![CDATA[
+        <p>In my previous blog post <a href="https://ariaieboy.ir/blog/12-how-do-i-backup-my-websites/">How do I backup my websites, and why should I improve</a>, I described how I backup my websites.</p>
+
+<p>In that article, I mentioned some problems with my backup plans. Since then I deployed a local NAS in my home using TrueNAS and improved my backup plans.</p>
+
+<h3>Redaundent storage using Raid-1</h3>
+
+<p>The first improvement is my Raid-1 configuration for backup storage.
+This means that in the event of one of my drives failing, I can restore my backed-up files from the other disk.</p>
+
+<h3>Object storage backup</h3>
+
+<p>One missing part of my backup process was the object storage.
+Thanks to TrueNAS, I can easily backup my object storage files using TrueNAS Data Protection Cloud Sync Task.
+It will sync my object storage files with my Local NAS.</p>
+
+<h3>Gickup for git backup</h3>
+
+<p>Another service that I run is Gickup, which backup all my remote git repositories to my local NAS.</p>
+
+<h3>One last thing: Backup health check</h3>
+
+<p>Right now, I backup multiple things like my Databases, Object Storage, and git repositories.
+I need to check the integrity of the backup files.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ariaieboy.ir/blog/14-why-should-you-consider-using-avif-on-your-website</id>
+    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/14-why-should-you-consider-using-avif-on-your-website" />
+    <title>Why should you consider using AVIF on your website?</title>
+    <published>2023-08-11T00:00:00+00:00</published>
+    <updated>2023-08-11T00:00:00+00:00</updated>
+    <author>
+        <name>Author Name</name>
+    </author>
+    <summary type="html">If you are reading tech news this day, you probably heard about the AV1 video coding format.
+AV1 will reduce file sizes without losing quality. It&#039;s the next big coding format that big tech giants start supporting in their hardware and software.
+AVIF is......</summary>
+    <content type="html"><![CDATA[
+        <h2>What is AVIF?</h2>
+
+<p>If you are reading tech news this day, you probably heard about the AV1 video coding format.
+AV1 will reduce file sizes without losing quality. It's the next big coding format that big tech giants start supporting in their hardware and software.
+AVIF is AV1 Image File Format. It uses AV1 to reduce image file sizes.
+AVIF and AV1 were built by the Alliance for Open Media, a non-profit industry consortium that develops open, royalty-free technology for multimedia delivery.</p>
+
+<h2>Why should you use AVIF?</h2>
+
+<p>AVIF is excellent at reducing image file sizes without losing quality. There are many comparisons, but I like <a href="https://www.ctrl.blog/entry/webp-avif-comparison.html">this post</a> from ctrl.blog.
+According to this post</p>
+
+<blockquote>
+  <p>AVIF outperformed both JPEG and WebP for every image in the test. AVIF's 85th percentile was the same as WebP's 15th percentile! A median saving of -50 % at the same DSSIM is a very good result!</p>
+</blockquote>
+
+<h2>But why should we use AVIF now?</h2>
+
+<p>If you heard about AVIF before, you probably know about its benefits compared to the WEBP. You can find great in-depth articles about the format and the technical details of how AVIF and AV1 work.</p>
+
+<p>But you should consider using AVIF now because, unlike WEBP, AVIF will be the next modern image format for the web.</p>
+
+<p>AVIF was released in 2019, and only four years later, almost every modern browser supports it <a href="https://caniuse.com/avif">(resource)</a>. while WEBP adoption was much slower; for example, Firefox added webp support nine years after the initial release, and Safari added support after ten years.</p>
+
+<p>As I mentioned above, AVIF was developed by AOM, a non-profit industry consortium that Amazon, Cisco, Google, Intel, Microsoft, Mozilla, and Netflix founded.
+And right now, it has over 43 members.</p>
+
+<p>All this shows that, unlike WEBP, the AVIF adoption will be much faster. And you can start adopting the AVIF format in your sites to increase performance and reduce bandwidth usage.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ariaieboy.ir/blog/13-laravel-pint-easy-to-use-code-style-fixer</id>
+    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/13-laravel-pint-easy-to-use-code-style-fixer" />
+    <title>Laravel Pint: Easy-to-use Code Style Fixer For Artisans</title>
+    <published>2023-08-04T00:00:00+00:00</published>
+    <updated>2023-08-04T00:00:00+00:00</updated>
+    <author>
+        <name>Author Name</name>
+    </author>
+    <summary type="html">For Laravel developers, having a standardized code style for each project is crucial.
+
+It makes the code more readable and gives the entire project a uniform look.
+
+However, adhering to these guidelines while focusing on writing code can be challenging.......</summary>
+    <content type="html"><![CDATA[
+        <p>For Laravel developers, having a standardized code style for each project is crucial.</p>
+
+<p>It makes the code more readable and gives the entire project a uniform look.</p>
+
+<p>However, adhering to these guidelines while focusing on writing code can be challenging.</p>
+
+<p>Thankfully, code-style fixers like Prettier in the JS ecosystem and PHP-CS-Fixer in PHP exist to take care of this issue.</p>
+
+<p>But installing and configuring these tools can pose a challenge.</p>
+
+<p>That's where Laravel Pint comes in - it provides a pre-configured PHP-CS-Fixer for use in Laravel projects.</p>
+
+<p>To install it, run the command <code>composer requires laravel/pint --dev</code> in your Laravel project.</p>
+
+<p>Then, to fix your Laravel project file styles, run the <code>./vendor/bin/pint</code> command.</p>
+
+<p>Laravel Pint is highly customizable, and you can configure it to suit your needs with a JSON config file.</p>
+
+<p>It also uses pre-existing rules from PHP-CS-Fixer in your configuration, making it a more straightforward and uncomplicated option.</p>
+
+<p>The default configuration works for most Laravel projects, making Laravel Pint a must-have code-style fixer for Laravel developers.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ariaieboy.ir/blog/12-how-do-i-backup-my-websites</id>
+    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/12-how-do-i-backup-my-websites" />
+    <title>How do I backup my websites, and why should I improve</title>
+    <published>2023-06-23T00:00:00+00:00</published>
+    <updated>2023-06-23T00:00:00+00:00</updated>
+    <author>
+        <name>Author Name</name>
+    </author>
+    <summary type="html">In the old days, I didn&#039;t have any backup plans, and the only time I needed my website backed up, I was lucky that my host provider had an automatic backup system. I could restore my website using those backups, but I lost a week of data because the......</summary>
+    <content type="html"><![CDATA[
+        <p>In the old days, I didn't have any backup plans, and the only time I needed my website backed up, I was lucky that my host provider had an automatic backup system. I could restore my website using those backups, but I lost a week of data because the hosting provider would back up the host weekly.</p>
+
+<p>I do not use a shared host these days, and I manage my servers, so I need to back up my websites personally.</p>
+
+<h2>How should I backup?</h2>
+
+<p>Determining which data requires backup and the frequency of changes is critical.</p>
+
+<p>To determine the needed data, we can think that our server is gone, and we want to restore our website to its current state.</p>
+
+<p>In my case, I need to know the services that my website needs, for example, the web server, application, database, object storage, and cache services.</p>
+
+<p>Then I need to recreate these services using my website source code and run those on my new server.</p>
+
+<p>After running the services, I first need to restore my databases. And if required, my object storage files.</p>
+
+<h2>How am I backing up my websites</h2>
+
+<p>I back up my databases to another server at least once daily. And in some cases, multiple times a day based on the application traffic.</p>
+
+<p>I back up my codebases on my local machine and the remote git repository hosted on GitHub or GitLab.</p>
+
+<p>Since I use docker for development, All my websites have a docker-compose file that can recreate all required services for the website.</p>
+
+<h2>What is missing?</h2>
+
+<p>The big missing part is the object storage part. I need to implement a way to automatically back up my files from my self-hosted object storage into another server.</p>
+
+<p>I must implement the 3-2-1 strategy for all my backups.</p>
+
+<p>I need to document the restoration process for each website.</p>
+
+<p>Implement a way to verify the health of the backup files; the last thing I want is a corrupted backup file.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ariaieboy.ir/blog/11-code-splitting-and-lazy-loading-alpine-components</id>
+    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/11-code-splitting-and-lazy-loading-alpine-components" />
+    <title>Code-splitting and Lazy-loading Alpine Components using Async Alpine</title>
+    <published>2023-06-02T00:00:00+00:00</published>
+    <updated>2023-06-02T00:00:00+00:00</updated>
+    <author>
+        <name>Author Name</name>
+    </author>
+    <summary type="html">Code-splitting and Lazy-loading Alpine Components using Async Alpine
+
+With AlpineJs, you can create components in two ways: using inline HTML markup or the &lt;code&gt;Alpine.data()&lt;/code&gt; function to define a component globally and use it throughout the......</summary>
+    <content type="html"><![CDATA[
+        <p>Code-splitting and Lazy-loading Alpine Components using Async Alpine</p>
+
+<p>With AlpineJs, you can create components in two ways: using inline HTML markup or the <code>Alpine.data()</code> function to define a component globally and use it throughout the entire project.</p>
+
+<p>Each approach has its pros and cons. For example, It is not possible to cache the inline components. And are only reusable if you use your template engine to create reusable components. The benefit of this approach is that you don't need a build step; you can add the AlpineJS to your HTML markup using CDN and start building your application.</p>
+
+<p>On the other hand, using <code>Alpine.data()</code> to declare the components, you can reuse them and cache them like other static files. This option has some downsides too.
+You must set up a bundler like Vite or Webpack to bundle the codes. And if you have a big project, your bundled file size can grow over time.</p>
+
+<p>To fix these issues, you can use Async Alpine to split your components into individual files and load them only when needed.</p>
+
+<h2>Installation</h2>
+
+<p>You can use Async Alpine using CDN or npm:</p>
+
+<pre><code class="language-HTML">&lt;script defer src="https://cdn.jsdelivr.net/npm/async-alpine@1.x.x/dist/async-alpine.script.js"&gt;&lt;/script&gt;
+&lt;script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"&gt;&lt;/script&gt;
+</code></pre>
+
+<p>When you want to use CDN, you must load Async Alpine before loading the Alpine itself.</p>
+
+<p>Install from npm with:</p>
+
+<pre><code class="language-bash">npm install async-alpine
+</code></pre>
+
+<p>Import it into your bundle alongside Alpine and run AsyncAlpine.init(Alpine) and AsyncAlpine.start() before Alpine.start():</p>
+
+<pre><code class="language-JS">import AsyncAlpine from 'async-alpine';
+import Alpine from 'alpinejs';
+AsyncAlpine.init(Alpine);
+AsyncAlpine.start();
+Alpine.start();
+</code></pre>
+
+<h2>Usage</h2>
+
+<p>To use Async Alpine, you must create your components in individual files using ES Module format like the code below:</p>
+
+<pre><code class="language-JS">// publicly available at `/assets/path-to-component.js`
+export default function myComponent() {
+  return {
+    message: '',
+    init() {
+      this.message = 'my component has initialised!'
+    }
+  }
+}
+</code></pre>
+
+<p>After creating components in separate files, you can load them using one of these four options depending on your environment:
+URL Components — most straightforward implementation declaring component URLs in JS;
+Data Components — for building tools with dynamic import/code-splitting like Vite, WebPack, Rollup, and Parcel;
+Alias Loading — if your components are in a very consistent file-system structure;
+Inline Components — you need to declare components in HTML to get the asset URL, for example, using an asset CDN or for Shopify sites.</p>
+
+<p>After loading components, you can use them asynchronously by adding <code>x-ignore</code> and <code>ax-load</code> with your <code>x-data</code> attribute like the code below:</p>
+
+<pre><code class="language-HTML">&lt;div
+  x-ignore
+  ax-load="visible"
+  x-data="myComponent"
+&gt;
+  &lt;div x-text="message"&gt;&lt;/div&gt;
+&lt;/div&gt;
+</code></pre>
+
+<h2>Loading Strategies</h2>
+
+<p>In the code above, you can see that we used a value in the <code>ax-load</code> attribute. You can change the loading strategy by setting these values in the <code>ax-load</code></p>
+
+<h3>Eager</h3>
+
+<p>It's the default behavior; if you do not provide any value, the component will load in this mode.
+In eager mode, the component will start loading immediately on page load.
+It will still load asynchronously in the background but with the highest priority possible.</p>
+
+<p>This mode is useful when you want a component to be interactive as soon as possible.</p>
+
+<h3>Idle</h3>
+
+<p>It uses requestIdleCallback, where it's supported to load when the main thread is less busy.
+Components not critical to the initial load are bests for this scenario.</p>
+
+<h3>Visible</h3>
+
+<p>It uses IntersectionObserver only to load when the component is in view, similar to lazy-loading images.</p>
+
+<h3>Media</h3>
+
+<p>The component will be loaded when the provided media query is true.</p>
+
+<h3>Event</h3>
+
+<p>The component will be loaded once it receives the async-alpine:load event on the window. Provide the id of the component in detail.id.</p>
+
+<pre><code class="language-HTML">&lt;!-- on a button click using Alpine's $dispatch --&gt;
+&lt;button x-data @click="$dispatch('async-alpine:load', { id: 'my-component-1' })"&gt;Load component&lt;/button&gt;
+&lt;div
+  id="my-component-1"
+  x-ignore
+  ax-load="event"
+  x-data="componentName"
+&gt;&lt;/div&gt;
+
+&lt;!-- load our component after `another-library-init` has loaded --&gt;
+&lt;script&gt;
+window.addEventListener('another-library-init', () =&gt; {
+  window.dispatchEvent(new CustomEvent('async-alpine:load', {
+    detail: {
+      id: 'my-component-2'
+    }
+  }))
+})
+&lt;/script&gt;
+&lt;div
+  id="my-component-2"
+  x-ignore
+  ax-load="media (prefers-reduced-motion: no-preference)"
+  x-data="componentName"
+&gt;&lt;/div&gt;
+</code></pre>
+
+<p>For more information and more detailed examples, you can check out the official document of Async Alpine <a href="https://async-alpine.dev/docs/">here</a>.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ariaieboy.ir/blog/10-free-performance-using-laravel-octane-and-swoole</id>
+    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/10-free-performance-using-laravel-octane-and-swoole" />
+    <title>Free Performance + Extra features for Laravel using Octane and Swoole</title>
+    <published>2023-05-26T00:00:00+00:00</published>
+    <updated>2023-05-26T00:00:00+00:00</updated>
+    <author>
+        <name>Author Name</name>
+    </author>
+    <summary type="html">As you know, in traditional Laravel applications, the PHP process will run the application from the ground up with each request, and the PHP process can only handle one request at a time.
+
+But in Laravel Octane, the application will bootstrap once at the......</summary>
+    <content type="html"><![CDATA[
+        <h2>How Laravel Octane Boosts Performance?</h2>
+
+<p>As you know, in traditional Laravel applications, the PHP process will run the application from the ground up with each request, and the PHP process can only handle one request at a time.</p>
+
+<p>But in Laravel Octane, the application will bootstrap once at the first request to the ram. After that, every request that hits the server will serve using the bootstrapped application in the ram instead of running the application from the ground up.</p>
+
+<p>Another feature is that Laravel Octane can run multiple workers at once, so instead of handling one request at a time, it can take multiple requests at once.</p>
+
+<h2>How much faster is Octane?</h2>
+
+<p>A quick search in the internet you can find lots of benchmarks on the internet, but for a quick comparison, I  tested my website using both Laravel Octane (swoole) and nginx + PHP-fpm with default settings and did a benchmark using this command:
+<code>ab -t 10 -c http://localhost</code></p>
+
+<p>And here is the result:</p>
+
+<p><code>nginx</code>
+<img src="/assets/img/posts/10/php-fpm.png" alt="nginx php fpm" />
+<code>octane</code>
+<img src="/assets/img/posts/10/swoole-octane.png" alt="laravel octane swoole" /></p>
+
+<p>As you can see in the results above, it's about 25% faster than nginx-fpm.</p>
+
+<p>Based on the configurations, it can perform much faster with fewer resources, but 25-30% boosts are a lot.</p>
+
+<p>Boosting Performance is one of many things that Laravel Octane can do.</p>
+
+<p>Laravel Octane under the hood uses some drivers to run the workers and bootstrap the application to the ram, including swoole, openswoole, and Roadrunner.</p>
+
+<p>If you use swoole as the driver, you can access some cool extra features that can be useful depending on your application.</p>
+
+<h3>Concurrent Tasks</h3>
+
+<p>You can run operations concurrently using swoole task workers:</p>
+
+<pre><code class="language-php">[$users, $servers] = Octane::concurrently([
+ fn () =&gt; User::all(),
+ fn () =&gt; Server::all(),
+]);
+</code></pre>
+
+<p>All the functions above will run in parallel using swoole task workers. Isn't that awesome?</p>
+
+<h3>The Octane Cache</h3>
+
+<p>Octane using Swoole Table provides a cache driver that can handle up to 2 million reads and write operations per second.</p>
+
+<p>You can also interact directly with Swoole Table using these codes:</p>
+
+<pre><code class="language-php">Octane::table('example')-&gt;set('uuid', [
+ 'name' =&gt; 'Nuno Maduro',
+ 'votes' =&gt; 1000,
+]);
+
+return Octane::table('example')-&gt;get('uuid');
+</code></pre>
+
+<h2>Ticks &amp; Intervals</h2>
+
+<p>Using Octane with Swoole allows you to execute callables every specified second.</p>
+
+<p>For example, the code below will run each 20 seconds after the application startup:</p>
+
+<pre><code class="language-php">Octane::tick('simple-ticker', fn () =&gt; ray('Ticking...'))
+ -&gt;seconds(20);
+</code></pre>
+
+<h2>How can you use Laravel Octane?</h2>
+
+<p>There is a good installation tutorial in the Laravel doc itself <a href="https://laravel.com/docs/10.x/octane#installation">here</a></p>
+
+<p>You need to install the drivers on your server first. For example, for installing swoole, you can use pecl:
+<code>pecl install swoole</code></p>
+
+<p>After that, you need to install the laravel Octane itself using the code below:</p>
+
+<p><code>composer require laravel/octane</code></p>
+
+<p>Then you need to run this command:</p>
+
+<p><code>php artisan octane:install</code></p>
+
+<p>And at the end, for serving your application, you can use this artisan command:</p>
+
+<p><code>php artisan octane:start</code></p>
+
+<h2>But can I use Octane on all Laravel applications?</h2>
+
+<p>The quick answer is Yes and also No!</p>
+
+<p>You can use Octane on all Laravel applications, but since it handles requests differently, you must check that your application is compatible with Octane.</p>
+
+<p>For example, your application's service providers <code>register</code> and <code>boot</code> methods will only be executed once when the request worker initially boots.</p>
+
+<p>Because of that, You should double-check the injections in your <code>boot</code> and <code>register</code> methods.</p>
+
+<p>You can read about the <a href="https://laravel.com/docs/10.x/octane#dependency-injection-and-octane">Dependency Injection &amp; Octane</a> in the Laravel Doc.</p>
+
+<p>If you use Larastan, there is a rule that you can use to check Octane Compatibility. You can enable this rule by setting this parameter in your <code>phpstan.neon</code> file:</p>
+
+<pre><code>parameters:
+    checkOctaneCompatibility: true
+</code></pre>
+
+<p>But don't be afraid of compatibility problems and memory leaks. After using Octane for almost two years, I only encounter one memory leak in <code>barryvdh/laravel-debugbar</code>.</p>
+
+<p>Since You only use the debug bar in the development environment, it might not be a big deal. Still, I replaced it with <code>itsgoingd/clockwork</code>, and I can tell you it's as good as the laravel debug bar, and it supports Octane without any memory leak or compatibility problem.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ariaieboy.ir/blog/9-zsh-plugin-for-laravel-sail</id>
+    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/9-zsh-plugin-for-laravel-sail" />
+    <title>ZSH Plugin for Laravel Sail</title>
+    <published>2023-05-19T00:00:00+00:00</published>
+    <updated>2023-05-19T00:00:00+00:00</updated>
+    <author>
+        <name>Author Name</name>
+    </author>
+    <summary type="html">Laravel Sail is a development environment that uses docker under the hood.
+By using Laravel Sail, you can use the power of docker without knowing much about it.
+It has pre-defined services for your applications, including a web server, database, Redis,......</summary>
+    <content type="html"><![CDATA[
+        <h2>What is Laravel Sail</h2>
+
+<p>Laravel Sail is a development environment that uses docker under the hood.
+By using Laravel Sail, you can use the power of docker without knowing much about it.
+It has pre-defined services for your applications, including a web server, database, Redis, etc.</p>
+
+<p>Sail also provides a CLI tool that helps you to manage the services and run commands like artisan, composer, npm, etc.
+For example, you can start the service containers using <code>./vendor/bin/sail up</code> or run artisan commands using <code>./vendor/bin/sail artisan</code></p>
+
+<h2>Laravel Sail ZSH Plugin features</h2>
+
+<p>As you can see from the examples above, you need to use the sail binary file path to run these commands.</p>
+
+<p>I've created a plugin for ZSH with lots of aliases, so you can use Laravel Sail with shorter commands.</p>
+
+<p>For example, you can start the service containers using the <code>sup</code> alias or run composer commands using the <code>sc</code> alias instead of <code>./vendor/bin/sail composer</code></p>
+
+<p>Aside from simple aliases, the plugin also lets you use these aliases in any project sub-directories without you needing to provide the path to sail binary.</p>
+
+<p>It also provides some basic autocompletion for the commands.</p>
+
+<p>Another feature that makes this plugin much more helpful than a simple set of aliases is that you can install composer and npm dependencies using <code>s cinit</code> and <code>ninit</code> commands.</p>
+
+<h2>How to install this plugin</h2>
+
+<p>Run this command in your terminal and clone the source code to your ohmyzsh plugin directory.</p>
+
+<pre><code class="language-bash"> git clone --depth=1 https://github.com/ariaieboy/laravel-sail ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/laravel-sail
+</code></pre>
+
+<p>Then open the <code>~/.zshrc</code> file in the editor of your choice and add <code>laravel-sail</code> to your ohmyzsh plugins list.</p>
+
+<p>You can see the list of all aliases in the link below:</p>
+
+<p><a href="https://github.com/ariaieboy/laravel-sail/blob/main/README.md">Laravel Sail ZSH Plugin</a></p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ariaieboy.ir/blog/8-nala-modern-front-end-for-apt</id>
+    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/8-nala-modern-front-end-for-apt" />
+    <title>Nala: Modern Front-End for the APT Package Manager</title>
+    <published>2023-04-16T00:00:00+00:00</published>
+    <updated>2023-04-16T00:00:00+00:00</updated>
+    <author>
+        <name>Author Name</name>
+    </author>
+    <summary type="html">As someone that uses Laravel and PestPHP, I am used to the beautiful CLI outputs. Nala is like a skin for apt with human-friendly outputs.
+For example, look at the picture below which one do you prefer?
+
+
+
+Besides the beautiful CLI outputs, Nala adds......</summary>
+    <content type="html"><![CDATA[
+        <p>As someone that uses Laravel and PestPHP, I am used to the beautiful CLI outputs. Nala is like a skin for apt with human-friendly outputs.
+For example, look at the picture below which one do you prefer?</p>
+
+<p><img src="/assets/img/posts/8/apt-v-nala.webp" alt="apt vs nala" /></p>
+
+<p>Besides the beautiful CLI outputs, Nala adds some nice to have features to the table.</p>
+
+<p>The parallel download mode helps you to download lots of small and large packages faster than the default APT.</p>
+
+<p>Another feature is <code>nala fetch</code> that test the latency of the available mirrors and then saves the 3 fastest mirrors and saves it in a file.</p>
+
+<p>Another feature that I found out about Nala while I was writing this article is <code>nala history</code> it's like git but for the packages. It's save all installed removed or upgraded packages in var/lib/nala/history.json with a unique ID.
+You can undo or redo changes using these IDs.
+Nala is free and open-source and is written using Python.
+If you use the latest version of Debian or Ubuntu you can install it as simply as an apt install:</p>
+
+<pre><code class="language-bash">sudo apt install Nala
+</code></pre>
+
+<p>Or you can check their wiki about other installation options:
+<a href="https://gitlab.com/volian/nala/-/wikis/Installation">Installation Page</a></p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ariaieboy.ir/blog/7-translate-your-laravel-application-using-laravel-lang</id>
+    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/7-translate-your-laravel-application-using-laravel-lang" />
+    <title>Translate Your Laravel Application to 78 Languages</title>
+    <published>2023-02-28T00:00:00+00:00</published>
+    <updated>2023-02-28T00:00:00+00:00</updated>
+    <author>
+        <name>Author Name</name>
+    </author>
+    <summary type="html">Laravel has localization tools that help you translate your applications into any language you want.
+But by default, all the Laravel Lang files include the English language. And if your application needs other languages you must create and manage lang......</summary>
+    <content type="html"><![CDATA[
+        <p>Laravel has localization tools that help you translate your applications into any language you want.
+But by default, all the Laravel Lang files include the English language. And if your application needs other languages you must create and manage lang files for each language by yourself.</p>
+
+<p>Right now that I am writing this article we have more than 1400 keys for each language in the Laravel-Lang package that includes Laravel and its first-party packages.</p>
+
+<p>You can translate Laravel and its packages like Jetstream, Fortify, Cashier, etc into 78 Languages.</p>
+
+<p>All you need to do is to install Laravel-lang/common packages using the command below:</p>
+
+<pre><code class="language-bash">composer require laravel-lang/common --dev
+</code></pre>
+
+<p>After that you can add any languages you want using the command below:</p>
+
+<pre><code class="language-bash">php artisan lang:add en de ro zh_CN lv
+</code></pre>
+
+<p>Laravel often introduces new localization keys to the lang files and the community might update the translations in the future you can update the added languages using the command below:</p>
+
+<pre><code class="language-bash">php artisan lang:update
+</code></pre>
+
+<p>You can translate missing keys or improve the translations and create a PR on the <a href="https://github.com/Laravel-Lang/lang">Laravel-Lang/lang</a>  and help improve this package.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ariaieboy.ir/blog/6-caprover-easy-and-free-self-hosted-paas</id>
+    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/6-caprover-easy-and-free-self-hosted-paas" />
+    <title>CapRover - Easy and Free Self-Hosted PaaS!</title>
+    <published>2023-02-10T00:00:00+00:00</published>
+    <updated>2023-02-10T00:00:00+00:00</updated>
+    <author>
+        <name>Author Name</name>
+    </author>
+    <summary type="html">If you managed a server on your own you know that configuring everything correctly is a very hard job to do.
+Handling Nginx configuration, issuing SSL Certifications securing the services, etc.
+Now imagine if you want to run more than a service on a......</summary>
+    <content type="html"><![CDATA[
+        <h2>What Is Caprover ?</h2>
+
+<p>If you managed a server on your own you know that configuring everything correctly is a very hard job to do.
+Handling Nginx configuration, issuing SSL Certifications securing the services, etc.
+Now imagine if you want to run more than a service on a server or you want to load balance your incoming requests between multiple servers and spin up more than one instance of a service on your servers. That's a hard job, right?
+Not with Caprover, You can manage multiple services like your NodeJS, Python, PHP, ASP.NET, and Ruby Apps or your Databases like MySQL, MongoDB, Postgres, etc. on a single server or a cluster of servers.
+It will load balance your app using a customizable Nginx proxy server and it can create free SSL certifications using Let's Encrypt.
+CapRover Has a nice WEB GUI that helps you manage your services. you can also manage your services using the CLI of the CapRover.
+Another awesome feature of CapRover is the rollback feature if you shipped a bad version on production you can easily roll back to any version of your APP with a single click.</p>
+
+<h2>But How It Is Working?</h2>
+
+<p>Under the hood, CapRover uses Docker to containerize your applications. An Nginx Reverse Proxy will manage your load balancing, the Reverse Proxy will also route the incoming requests to the specified services in your server(s).
+And for clustering, Caprover uses Docker Swarm.
+In the picture below you can see how CapRover works:
+<img src="/assets/img/posts/6/img.png" alt="CapRover Architecture" /></p>
+
+<h2>Is It Safe?</h2>
+
+<p>Caprover is an open-source project and you can check both the backend and frontend codes of it in their GitHub organization.
+Since CapRover only uses docker in the background you can remove CapRover from your server any time you wanted to and your apps will continue working without any problem.</p>
+
+<h2>But I Didn't Work With Docker Before</h2>
+
+<p>CapRover has lots of one-click apps which means you can deploy lots of popular projects with a single click.
+For example, you can deploy MySql, PostgreSQL, MariaDB, Redis, WordPress, Minio, etc.
+You can find the full list of the apps <a href="https://github.com/caprover/one-click-apps/tree/master/public/v4/apps">here</a>.
+Besides one-click apps, there are some sample apps that you can use to practice or even deploy your application using <a href="https://caprover.com/docs/sample-apps.html">these samples</a>.</p>
+
+<h3>Last Word</h3>
+
+<p>CapRover might not be a good option for big teams and companies but it's a really good option for individuals or small to medium teams that want to reduce their costs and enjoy the power of Docker and Nginx without having to learn them or deal with their settings scripts to make things work!!</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ariaieboy.ir/blog/test-your-code-base-without-test</id>
+    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/test-your-code-base-without-test" />
+    <title>Test Your Codebase Without Testing It Using Larastan</title>
+    <published>2023-01-14T00:00:00+00:00</published>
+    <updated>2023-01-14T00:00:00+00:00</updated>
+    <author>
+        <name>Author Name</name>
+    </author>
+    <summary type="html">Larastan is a wrapper around PHPStan for Laravel, and it let you test your source codes without writing any tests.
+
+PHPStan is a static analyzer for PHP and it&#039;s working with legacy and modern codes.
+
+Since lots of Laravel works magically PHPStan needs......</summary>
+    <content type="html"><![CDATA[
+        <p><strong>Larastan</strong> is a wrapper around PHPStan for Laravel, and it let you test your source codes without writing any tests.</p>
+
+<p>PHPStan is a static analyzer for PHP and it's working with legacy and modern codes.</p>
+
+<p>Since lots of Laravel works magically PHPStan needs some justification to understand the magic behind Laravel it's when Larastan comes into place.</p>
+
+<p>So if you have any PHP code base you can PHPStan and if you use Laravel you must go with Larastan. from here on I am gonna reference these tools as static analyzers.</p>
+
+<h2>But how it's working</h2>
+
+<p>Static Analyzers scan your code base before you even run your code in development or in CI to prevent any obvious &amp; tricky bugs to reach your production.</p>
+
+<p>PHPStan has 9 levels of rule sets that you can use on your code base. for example, level 0 only checks for:</p>
+
+<blockquote>
+  <p>basic checks, unknown classes, unknown functions, unknown methods called on $this, wrong number of arguments passed to those methods and functions, always undefined variables.</p>
+</blockquote>
+
+<p>It's good practice to start using these tools with low levels and fix bugs and errors after you fixed all errors on that level you can bump your level up and try to make your code base more strict and bug-free.</p>
+
+<p>For sure Static Analyzers are not going to test all possible outcomes of your code, but they can detect lots of annoying bugs and dead codes etc. and make your code base much cleaner and bug-free.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ariaieboy.ir/blog/enjoyable-php-testing-with-pestphp</id>
+    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/enjoyable-php-testing-with-pestphp" />
+    <title>Enjoyable PHP Testing with PestPHP</title>
+    <published>2022-12-23T00:00:00+00:00</published>
+    <updated>2022-12-23T00:00:00+00:00</updated>
+    <author>
+        <name>Author Name</name>
+    </author>
+    <summary type="html">Writing tests is time-consuming and tedious. But if you want close your eyes without fear at night, having good tests in your applications is essential.
+
+With Pest, testing is much more enjoyable. It has a simpler syntax compared to PHPUnit. The test......</summary>
+    <content type="html"><![CDATA[
+        <p>Writing tests is time-consuming and tedious. But if you want close your eyes without fear at night, having good tests in your applications is essential.</p>
+
+<p>With Pest, testing is much more enjoyable. It has a simpler syntax compared to PHPUnit. The test reports have more useful information in a beautiful style.</p>
+
+<p>Pest is a progressive testing framework that uses PHPUnit at its core. That means you can both PHPUnit test classes and Pest test files in the same test suite.</p>
+
+<p>You can also convert your PHPUnit test classes to Pest test files using these tools:
+<a href="https://laravelshift.com/phpunit-to-pest-converter">Pest Convertor by Laravel-Shift</a> (Each Shift Costs 9$)
+<a href="https://github.com/mandisma/pest-converter">Pest Convertor by mandisma</a> (Open-Source and free!)</p>
+
+<p>Laravel Shift is a well-known Service, especially among Laravel Users. It can convert your PHPUnit tests for 9$.</p>
+
+<p>The open-source option is not that popular but I've used it on a medium-sized project with hundreds of tests, and it's worked very well for me but it may need more work in big projects with complicated test suites.</p>
+
+<p>At the end let's compare a test written in both PHPUnit and Pest:</p>
+
+<p>PHPUnit:</p>
+
+<pre><code class="language-PHP">&lt;?php
+
+    namespace Tests\Feature;
+
+    use Tests\TestCase;
+
+    class HomepageTest extends TestCase
+    {
+     /** @test */
+     public function it_renders_the_homepage()
+     {
+     $response = $this-&gt;get('/');
+
+     $response-&gt;assertStatus(200);
+     }
+
+    }
+</code></pre>
+
+<p>Pest:</p>
+
+<pre><code class="language-PHP">&lt;?php
+
+    it('renders the homepage', function () {
+     $response = $this-&gt;get('/');
+
+     $response-&gt;assertStatus(200);
+    });
+</code></pre>
+
+<p>Beautiful version of this test using Pest:</p>
+
+<pre><code class="language-php">&lt;?php
+
+    it('renders the homepage')-&gt;get('/')-&gt;assertStatus(200);
+</code></pre>
+
+<p>Isn't the last example beautiful? We only wrote 1 line of code instead of 18 lines.</p>
+
+<p>And that's why I love Pest that much. it's simple, minimal, and enjoyable to use.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ariaieboy.ir/blog/filament-the-best-tall-stack-package</id>
+    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/filament-the-best-tall-stack-package" />
+    <title>Filament: the best TALL Stack Package</title>
+    <published>2022-12-16T00:00:00+00:00</published>
+    <updated>2022-12-16T00:00:00+00:00</updated>
+    <author>
+        <name>Author Name</name>
+    </author>
+    <summary type="html">The filament is a collection of tools for rapidly building beautiful TALL Stack apps, designed for humans. - https://filamentphp.com/
+
+The filament is the open-source alternative of the Laravel-Nova package.
+
+Filament v2 is an admin panel builder at its......</summary>
+    <content type="html"><![CDATA[
+        <p>The filament is a collection of tools for rapidly building beautiful TALL Stack apps, designed for humans. - https://filamentphp.com/</p>
+
+<p>The filament is the open-source alternative of the Laravel-Nova package.</p>
+
+<p>Filament v2 is an admin panel builder at its core. In v3, the Filament team wants to make it an <a href="https://github.com/filamentphp/filament/discussions/4400">App framework</a> instead of an admin panel builder.</p>
+
+<p>With Filament, you can build Admin panels (and soon the entire app) with the minimum amount of code you can imagine.</p>
+
+<p>look at these code snippets :</p>
+
+<pre><code class="language-PHP">&lt;?php
+
+namespace App\Filament\Resources;
+
+use App\Filament\FilamentSidebar;
+use App\Filament\Resources\UserResource\Pages;
+use App\Models\Enums\GenderTypes;
+use App\Models\User;
+use Ariaieboy\FilamentJalaliDatetimepicker\Forms\Components\JalaliDateTimePicker;
+use Filament\Forms;
+use Filament\Resources\Form;
+use Filament\Resources\Resource;
+use Filament\Resources\Table;
+use Filament\Tables;
+
+class UserResource extends Resource
+{
+    protected static ?string $model = User::class;
+
+    protected static ?string $modelLabel = 'user';
+
+    protected static ?string $pluralModelLabel = 'users';
+
+    protected static ?string $navigationGroup = 'management';
+
+    protected static ?int $navigationSort = 0;
+
+    protected static ?string $navigationIcon = 'fad-users';
+
+    public static function form(Form $form): Form
+    {
+        return $form
+            -&gt;schema([
+                Forms\Components\TextInput::make('first_name')
+                    -&gt;maxLength(125),
+                Forms\Components\TextInput::make('last_name')
+                    -&gt;maxLength(125),
+                Forms\Components\TextInput::make('email')
+                    -&gt;unique(ignoreRecord: true)
+                    -&gt;email()
+                    -&gt;extraInputAttributes(['autocomplete' =&gt; 'off'])
+                    -&gt;maxLength(125),
+                Forms\Components\TextInput::make('phone')
+                    -&gt;afterStateHydrated(function ($component, $state) {
+                        $component-&gt;state((string) $state);
+                    })
+                    -&gt;unique(ignoreRecord: true)
+                    -&gt;tel()
+                    -&gt;required()
+                    -&gt;maxLength(125),
+                JalaliDateTimePicker::make('email_verified_at'),
+                Forms\Components\TextInput::make('password')
+                    -&gt;password()
+                    -&gt;extraInputAttributes(['autocomplete' =&gt; 'new-password'])
+                    -&gt;minLength(8)
+                    -&gt;maxLength(125),
+                JalaliDateTimePicker::make('birth_date')-&gt;weekStartsOnSunday(),
+                Forms\Components\Select::make('gender')-&gt;options(GenderTypes::toNameArray()),
+                Forms\Components\Select::make('roles')
+                    -&gt;multiple()
+                    -&gt;relationship('roles', 'name')
+                    -&gt;preload(),
+                Forms\Components\Toggle::make('completed')
+                    -&gt;required(),
+            ]);
+    }
+
+    public static function table(Table $table): Table
+    {
+        return $table
+            -&gt;columns([
+                Tables\Columns\TextColumn::make('id')-&gt;sortable(),
+                Tables\Columns\TextColumn::make('full_name'),
+                Tables\Columns\TextColumn::make('email'),
+                Tables\Columns\TextColumn::make('phone')-&gt;formatStateUsing(fn ($state) =&gt; $state-&gt;get()),
+                Tables\Columns\BooleanColumn::make('completed'),
+                Tables\Columns\TextColumn::make('gender')-&gt;enum(GenderTypes::toNameArray()),
+            ])
+            -&gt;actions([
+                Tables\Actions\EditAction::make(),
+                Tables\Actions\DeleteAction::make(),
+            ])
+            -&gt;bulkActions([
+                Tables\Actions\DeleteBulkAction::make(),
+            ]);
+    }
+
+    public static function getPages(): array
+    {
+        return [
+            'index' =&gt; Pages\ListUsers::route('/'),
+            'create' =&gt; Pages\CreateUser::route('/create'),
+            'edit' =&gt; Pages\EditUser::route('/{record}/edit'),
+        ];
+    }
+}
+
+
+</code></pre>
+
+<p>The Code above is the only thing you need to create a full CRUD for your User Model.</p>
+
+<p>Even if it's your first time seeing a Filament resource file you can understand 90% of the snippet's code above. Because of the great syntax of the Filament.</p>
+
+<p>One of the best features of Filament is the auto-populating of select options using the model relationship:</p>
+
+<pre><code class="language-php">Forms\Components\Select::make('roles')
+                    -&gt;multiple()
+                    -&gt;relationship('roles', 'name')
+                    -&gt;preload(),
+</code></pre>
+
+<p>In these snippets, I've created a multiple select input for the <code>roles</code> relationship of my User model. with only 4 lines of code, it's gonna populate my select options using the <code>roles</code> relationship of my User model.
+It's getting, even more, interesting because these 4 lines of code also handle the creation or updating of the record relationship automatically and you don't need to do anything to save the selected options that users send with the create or edit form and that is amazing.</p>
+
+<p>Your relationship may have a lot of options and good practice is to add a search to the select something like Select2js is very useful in a typical application you must install and configure the Select2 and provide the needed data or create an API endpoint so Select2 can fetch the data remotely. but in the Filament the only thing that you need to do is to add one line of code.</p>
+
+<pre><code class="language-php">Forms\Components\Select::make('roles')
+                    {~ -&gt;multiple() ~}
+                    {+ -&gt;searchable() +}
+                    {~ -&gt;relationship('roles', 'name') ~}
+                    {~ -&gt;preload() ~},
+</code></pre>
+
+<p>By adding one method <code>searchable()</code> you gonna have a Select2 kind of search on your select input. isn't that amazing?</p>
+
+<p>If your relationship is more complicated than a simple select input you can use <a href="https://filamentphp.com/docs/2.x/admin/resources/relation-managers">Relation managers</a> to handle the relationship between your resources.</p>
+
+<p>Filament also gives you the option to use its packages outside of the Filament Admin if your application is using the TALL Stack.</p>
+
+<p>Right now there are 3 plugins you can use outside of filament admin.
+<a href="https://filamentphp.com/docs/2.x/forms">Form builder</a>, <a href="https://filamentphp.com/docs/2.x/tables">Table builder</a> and <a href="https://filamentphp.com/docs/2.x/notifications">Notifications</a>.</p>
+
+<p>And it's not the end of the story Filament has a lot of third-party plugins you can use. right now that I am writing this article there are more than 140 plugins for Filament that you can find them <a href="https://filamentphp.com/plugins">here</a>.</p>
+
+<p>Filament also has a nice <a href="https://filamentphp.com/tricks">Tricks</a> section on their website where users share Tips and Tricks about how you can do things using Filament and Tall Stack.</p>
+
+<p>I hope this article helped you find great tools. You can share the tools You're using with me on Twitter.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ariaieboy.ir/blog/tall-stack-the-dreamland-for-a-laravel-developer</id>
+    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/tall-stack-the-dreamland-for-a-laravel-developer" />
+    <title>TALL Stack: the dreamland for a laravel developer</title>
+    <published>2022-12-09T00:00:00+00:00</published>
+    <updated>2022-12-09T00:00:00+00:00</updated>
+    <author>
+        <name>Author Name</name>
+    </author>
+    <summary type="html">As a Laravel developer from the WordPress + Bootstrap + Jquery era, TALL Stack looks like a DreamLand for me.
+
+TALL Stack stands for TailwindCSS + AlpineJS + Laravel + Livewire.
+
+Livewire home page says :
+
+
+  Building modern web apps is hard. Tools like......</summary>
+    <content type="html"><![CDATA[
+        <p>As a Laravel developer from the WordPress + Bootstrap + Jquery era, TALL Stack looks like a DreamLand for me.</p>
+
+<p>TALL Stack stands for TailwindCSS + AlpineJS + Laravel + Livewire.</p>
+
+<p>Livewire home page says :</p>
+
+<blockquote>
+  <p>Building modern web apps is hard. Tools like Vue and React are powerful, but the complexity they add to a full-stack developer's workflow is insane.</p>
+</blockquote>
+
+<p>And that's true; didn't you miss the era of learning a single library like Jquery for the whole front end or just BootStrap for styling the web pages?</p>
+
+<p>Why should I learn a new library (Ex. React) and another framework (Ex. Nextjs) to build a simple CRUD app when I can use the Tech Stack I already know?</p>
+
+<p>With TALL Stack, I can build web apps at full speed, and all I need is my Blade templates and Laravel BackEnd no need for extra CSS files or multiple JS files and bundlers.</p>
+
+<p>All developers want to build an app that works perfectly in the shortest possible time. TALL Stack is blazing fast in the development phase; with some tweaks and packages like Laravel Octane, it's also fast and scalable in production.</p>
+
+<p>If you do a quick search about the TALL Stack, you're going to see lots of articles that show the Pros and Cons of this Stack, but in the end, the only thing that matters is that your apps are going to build very fast and work like a charm without you needing to learn hell lots of new technologies.</p>
+
+<p>The TALL Stack is created by members of the Laravel community, providing users with access to all the benefits of Laravel, including its great community, excellent documentation, and numerous third-party libraries and plugins.</p>
+
+<p>As a Solo Developer, the TALL Stack is my dreamland of programming.</p>
+
+<p>With the release of the 3rd version of TailwindCSS and Alpinejs, now TALL Stack is better than ever, and Livewire v3 is around the corner with lots of new goodies. If you are a Laravel developer, it's the best time to jump in and try this Stack. And get ready for the Livewire v3 release.</p>
+
+<p>If you are interested to learn more about TALL Stack, here is some excellent link that you can check out:</p>
+
+<p><a href="https://adamwathan.me/css-utility-classes-and-separation-of-concerns/">CSS Utility Classes and "Separation of Concerns" By Adam Wathan the creator of TailwindCSS</a></p>
+
+<p><a href="https://youtu.be/yZv-7DWLMNA">[video] From Vue to Alpine: How &amp; Why By Matt Stauffer - Partner &amp; CTO, Tighten</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=f4QShF42c6E&amp;t=6014s">[video] The future of Livewire By Caleb Porzio</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=0Rq-yHAwYjQ&amp;t=31692s">[video] Laravel for millions, and some… By Ashley Hindle</a></p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ariaieboy.ir/blog/why-this-blog</id>
+    <link type="text/html" rel="alternate" href="https://ariaieboy.ir/blog/why-this-blog" />
+    <title>Why This Blog ?</title>
+    <published>2022-12-02T00:00:00+00:00</published>
+    <updated>2022-12-02T00:00:00+00:00</updated>
+    <author>
+        <name>Author Name</name>
+    </author>
+    <summary type="html">As a developer, I&#039;ve always wanted to have a blog to share things that I learn and use with others.
+
+I&#039;ve had another blog before that was in Persian but I didn&#039;t have time to maintain it and finally, it goes offline.
+
+But this time I have some goals to......</summary>
+    <content type="html"><![CDATA[
+        <h2>Background Story</h2>
+
+<p>As a developer, I've always wanted to have a blog to share things that I learn and use with others.</p>
+
+<p>I've had another blog before that was in Persian but I didn't have time to maintain it and finally, it goes offline.</p>
+
+<p>But this time I have some goals to achieve and I am ready to start again.</p>
+
+<h2>Goals</h2>
+
+<p>My first and biggest goal is to document what I use and learn. So the vast majority of my posts gonna be some introduction about the tools and some tutorials about how to use them.</p>
+
+<blockquote>
+  <p>Biggest goal is to document what I use and learn.</p>
+</blockquote>
+
+<p>The second goal is improving English writing. English is my second language and I am not really good at it. especially in writing.</p>
+
+<p>And the last goal is to build connections with people interested in the topics and technologies I love.</p>
+    ]]></content>
+</entry>
+    </feed>

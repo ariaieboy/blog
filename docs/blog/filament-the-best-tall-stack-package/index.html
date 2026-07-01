@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="description" content="The filament is a collection of tools for rapidly building beautiful TALL Stack apps, designed for humans.">
+
+        <meta property="og:title" content="Filament: the best TALL Stack Package | AriaieBOY Blog"/>
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content="https://ariaieboy.ir/blog/filament-the-best-tall-stack-package"/>
+        <meta property="og:description" content="The filament is a collection of tools for rapidly building beautiful TALL Stack apps, designed for humans." />
+
+        <title>Filament: the best TALL Stack Package | AriaieBOY Blog</title>
+
+        <link rel="home" href="https://ariaieboy.ir">
+        <link rel="icon" href="/favicon.ico">
+        <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="AriaieBOY Blog Atom Feed">
+
+                    <!-- Insert analytics code here -->
+        
+                <link rel="stylesheet" href="/assets/build/assets/main-OcLnMqCK.css">
+        <script defer type="module" src="/assets/build/assets/main-C49JKfnu.js"></script>
+    </head>
+
+    <body class="min-h-screen flex flex-col">
+                    <header class="bg-base-200 border-b border-base-300">
+    <div class="max-w-2xl mx-auto px-4 py-3 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-1 sm:gap-0">
+        <a href="https://ariaieboy.ir" class="flex items-center gap-2 font-bold text-lg">
+            <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6" />
+            </svg>
+            AriaieBOY Blog
+        </a>
+        <div class="flex flex-wrap gap-2">
+            <a href="/blog" class="btn btn-ghost ">Blog</a>
+            <a href="/uses" class="btn btn-ghost ">Uses</a>
+            <a href="/about" class="btn btn-ghost ">About</a>
+            <a href="/contact" class="btn btn-ghost ">Contact</a>
+        </div>
+    </div>
+</header>        
+            <article class="w-full max-w-2xl mx-auto p-4 prose prose-indigo min-w-0">
+        
+        <h1 class="!mt-0">Filament: the best TALL Stack Package</h1>
+
+        <p class="text-sm text-gray-500 mb-4">December 16, 2022 • 4 min</p>
+
+                    <div class="mb-4 not-prose">
+                                    <a href="/blog/categories/tools" class="btn btn-ghost btn-xs" title="View posts in tools">tools</a>
+                            </div>
+        
+        <div class="border-b border-gray-200 mb-8 pb-4 overflow-x-auto" v-pre>
+            <p>The filament is a collection of tools for rapidly building beautiful TALL Stack apps, designed for humans. - https://filamentphp.com/</p>
+
+<p>The filament is the open-source alternative of the Laravel-Nova package.</p>
+
+<p>Filament v2 is an admin panel builder at its core. In v3, the Filament team wants to make it an <a href="https://github.com/filamentphp/filament/discussions/4400">App framework</a> instead of an admin panel builder.</p>
+
+<p>With Filament, you can build Admin panels (and soon the entire app) with the minimum amount of code you can imagine.</p>
+
+<p>look at these code snippets :</p>
+
+<pre class="highlight"><code class="language-PHP"><span class="hl-gutter"> 1</span><span class="hl-keyword">&lt;?php</span>
+<span class="hl-gutter"> 2</span>
+<span class="hl-gutter"> 3</span><span class="hl-keyword">namespace</span> <span class="hl-type">App\Filament\Resources</span>;
+<span class="hl-gutter"> 4</span>
+<span class="hl-gutter"> 5</span><span class="hl-keyword">use</span> <span class="hl-type">App\Filament\FilamentSidebar</span>;
+<span class="hl-gutter"> 6</span><span class="hl-keyword">use</span> <span class="hl-type">App\Filament\Resources\UserResource\Pages</span>;
+<span class="hl-gutter"> 7</span><span class="hl-keyword">use</span> <span class="hl-type">App\Models\Enums\GenderTypes</span>;
+<span class="hl-gutter"> 8</span><span class="hl-keyword">use</span> <span class="hl-type">App\Models\User</span>;
+<span class="hl-gutter"> 9</span><span class="hl-keyword">use</span> <span class="hl-type">Ariaieboy\FilamentJalaliDatetimepicker\Forms\Components\JalaliDateTimePicker</span>;
+<span class="hl-gutter">10</span><span class="hl-keyword">use</span> <span class="hl-type">Filament\Forms</span>;
+<span class="hl-gutter">11</span><span class="hl-keyword">use</span> <span class="hl-type">Filament\Resources\Form</span>;
+<span class="hl-gutter">12</span><span class="hl-keyword">use</span> <span class="hl-type">Filament\Resources\Resource</span>;
+<span class="hl-gutter">13</span><span class="hl-keyword">use</span> <span class="hl-type">Filament\Resources\Table</span>;
+<span class="hl-gutter">14</span><span class="hl-keyword">use</span> <span class="hl-type">Filament\Tables</span>;
+<span class="hl-gutter">15</span>
+<span class="hl-gutter">16</span><span class="hl-keyword">class</span> <span class="hl-type">UserResource</span> <span class="hl-keyword">extends</span> <span class="hl-type">Resource</span>
+<span class="hl-gutter">17</span>{
+<span class="hl-gutter">18</span>    <span class="hl-keyword">protected</span> <span class="hl-keyword">static</span> <span class="hl-type">?string</span> <span class="hl-property">$model</span> = <span class="hl-type">User</span>::<span class="hl-keyword">class</span>;
+<span class="hl-gutter">19</span>
+<span class="hl-gutter">20</span>    <span class="hl-keyword">protected</span> <span class="hl-keyword">static</span> <span class="hl-type">?string</span> <span class="hl-property">$modelLabel</span> = <span class="hl-value">'user'</span>;
+<span class="hl-gutter">21</span>
+<span class="hl-gutter">22</span>    <span class="hl-keyword">protected</span> <span class="hl-keyword">static</span> <span class="hl-type">?string</span> <span class="hl-property">$pluralModelLabel</span> = <span class="hl-value">'users'</span>;
+<span class="hl-gutter">23</span>
+<span class="hl-gutter">24</span>    <span class="hl-keyword">protected</span> <span class="hl-keyword">static</span> <span class="hl-type">?string</span> <span class="hl-property">$navigationGroup</span> = <span class="hl-value">'management'</span>;
+<span class="hl-gutter">25</span>
+<span class="hl-gutter">26</span>    <span class="hl-keyword">protected</span> <span class="hl-keyword">static</span> <span class="hl-type">?int</span> <span class="hl-property">$navigationSort</span> = 0;
+<span class="hl-gutter">27</span>
+<span class="hl-gutter">28</span>    <span class="hl-keyword">protected</span> <span class="hl-keyword">static</span> <span class="hl-type">?string</span> <span class="hl-property">$navigationIcon</span> = <span class="hl-value">'fad-users'</span>;
+<span class="hl-gutter">29</span>
+<span class="hl-gutter">30</span>    <span class="hl-keyword">public</span> <span class="hl-keyword">static</span> <span class="hl-keyword">function</span> <span class="hl-property">form</span>(<span class="hl-injection"><span class="hl-type">Form</span> $form</span>): <span class="hl-type">Form</span>
+<span class="hl-gutter">31</span>    {
+<span class="hl-gutter">32</span>        <span class="hl-keyword">return</span> <span class="hl-variable">$form</span>
+<span class="hl-gutter">33</span>            -&gt;<span class="hl-property">schema</span>([
+<span class="hl-gutter">34</span>                <span class="hl-type">Forms\Components\TextInput</span>::<span class="hl-property">make</span>(<span class="hl-value">'first_name'</span>)
+<span class="hl-gutter">35</span>                    -&gt;<span class="hl-property">maxLength</span>(125),
+<span class="hl-gutter">36</span>                <span class="hl-type">Forms\Components\TextInput</span>::<span class="hl-property">make</span>(<span class="hl-value">'last_name'</span>)
+<span class="hl-gutter">37</span>                    -&gt;<span class="hl-property">maxLength</span>(125),
+<span class="hl-gutter">38</span>                <span class="hl-type">Forms\Components\TextInput</span>::<span class="hl-property">make</span>(<span class="hl-value">'email'</span>)
+<span class="hl-gutter">39</span>                    -&gt;<span class="hl-property">unique</span>(<span class="hl-property">ignoreRecord</span>: <span class="hl-keyword">true</span>)
+<span class="hl-gutter">40</span>                    -&gt;<span class="hl-property">email</span>()
+<span class="hl-gutter">41</span>                    -&gt;<span class="hl-property">extraInputAttributes</span>([<span class="hl-value">'autocomplete'</span> =&gt; <span class="hl-value">'off'</span>])
+<span class="hl-gutter">42</span>                    -&gt;<span class="hl-property">maxLength</span>(125),
+<span class="hl-gutter">43</span>                <span class="hl-type">Forms\Components\TextInput</span>::<span class="hl-property">make</span>(<span class="hl-value">'phone'</span>)
+<span class="hl-gutter">44</span>                    -&gt;<span class="hl-property">afterStateHydrated</span>(<span class="hl-keyword">function</span> (<span class="hl-injection">$component, $state</span>) {
+<span class="hl-gutter">45</span>                        <span class="hl-variable">$component</span>-&gt;<span class="hl-property">state</span>((<span class="hl-type">string</span>) <span class="hl-variable">$state</span>);
+<span class="hl-gutter">46</span>                    })
+<span class="hl-gutter">47</span>                    -&gt;<span class="hl-property">unique</span>(<span class="hl-property">ignoreRecord</span>: <span class="hl-keyword">true</span>)
+<span class="hl-gutter">48</span>                    -&gt;<span class="hl-property">tel</span>()
+<span class="hl-gutter">49</span>                    -&gt;<span class="hl-property">required</span>()
+<span class="hl-gutter">50</span>                    -&gt;<span class="hl-property">maxLength</span>(125),
+<span class="hl-gutter">51</span>                <span class="hl-type">JalaliDateTimePicker</span>::<span class="hl-property">make</span>(<span class="hl-value">'email_verified_at'</span>),
+<span class="hl-gutter">52</span>                <span class="hl-type">Forms\Components\TextInput</span>::<span class="hl-property">make</span>(<span class="hl-value">'password'</span>)
+<span class="hl-gutter">53</span>                    -&gt;<span class="hl-property">password</span>()
+<span class="hl-gutter">54</span>                    -&gt;<span class="hl-property">extraInputAttributes</span>([<span class="hl-value">'autocomplete'</span> =&gt; <span class="hl-value">'new-password'</span>])
+<span class="hl-gutter">55</span>                    -&gt;<span class="hl-property">minLength</span>(8)
+<span class="hl-gutter">56</span>                    -&gt;<span class="hl-property">maxLength</span>(125),
+<span class="hl-gutter">57</span>                <span class="hl-type">JalaliDateTimePicker</span>::<span class="hl-property">make</span>(<span class="hl-value">'birth_date'</span>)-&gt;<span class="hl-property">weekStartsOnSunday</span>(),
+<span class="hl-gutter">58</span>                <span class="hl-type">Forms\Components\Select</span>::<span class="hl-property">make</span>(<span class="hl-value">'gender'</span>)-&gt;<span class="hl-property">options</span>(<span class="hl-type">GenderTypes</span>::<span class="hl-property">toNameArray</span>()),
+<span class="hl-gutter">59</span>                <span class="hl-type">Forms\Components\Select</span>::<span class="hl-property">make</span>(<span class="hl-value">'roles'</span>)
+<span class="hl-gutter">60</span>                    -&gt;<span class="hl-property">multiple</span>()
+<span class="hl-gutter">61</span>                    -&gt;<span class="hl-property">relationship</span>(<span class="hl-value">'roles'</span>, <span class="hl-value">'name'</span>)
+<span class="hl-gutter">62</span>                    -&gt;<span class="hl-property">preload</span>(),
+<span class="hl-gutter">63</span>                <span class="hl-type">Forms\Components\Toggle</span>::<span class="hl-property">make</span>(<span class="hl-value">'completed'</span>)
+<span class="hl-gutter">64</span>                    -&gt;<span class="hl-property">required</span>(),
+<span class="hl-gutter">65</span>            ]);
+<span class="hl-gutter">66</span>    }
+<span class="hl-gutter">67</span>
+<span class="hl-gutter">68</span>    <span class="hl-keyword">public</span> <span class="hl-keyword">static</span> <span class="hl-keyword">function</span> <span class="hl-property">table</span>(<span class="hl-injection"><span class="hl-type">Table</span> $table</span>): <span class="hl-type">Table</span>
+<span class="hl-gutter">69</span>    {
+<span class="hl-gutter">70</span>        <span class="hl-keyword">return</span> <span class="hl-variable">$table</span>
+<span class="hl-gutter">71</span>            -&gt;<span class="hl-property">columns</span>([
+<span class="hl-gutter">72</span>                <span class="hl-type">Tables\Columns\TextColumn</span>::<span class="hl-property">make</span>(<span class="hl-value">'id'</span>)-&gt;<span class="hl-property">sortable</span>(),
+<span class="hl-gutter">73</span>                <span class="hl-type">Tables\Columns\TextColumn</span>::<span class="hl-property">make</span>(<span class="hl-value">'full_name'</span>),
+<span class="hl-gutter">74</span>                <span class="hl-type">Tables\Columns\TextColumn</span>::<span class="hl-property">make</span>(<span class="hl-value">'email'</span>),
+<span class="hl-gutter">75</span>                <span class="hl-type">Tables\Columns\TextColumn</span>::<span class="hl-property">make</span>(<span class="hl-value">'phone'</span>)-&gt;<span class="hl-property">formatStateUsing</span>(<span class="hl-keyword">fn</span> (<span class="hl-injection">$state</span>) =&gt; <span class="hl-variable">$state</span>-&gt;<span class="hl-property">get</span>()),
+<span class="hl-gutter">76</span>                <span class="hl-type">Tables\Columns\BooleanColumn</span>::<span class="hl-property">make</span>(<span class="hl-value">'completed'</span>),
+<span class="hl-gutter">77</span>                <span class="hl-type">Tables\Columns\TextColumn</span>::<span class="hl-property">make</span>(<span class="hl-value">'gender'</span>)-&gt;<span class="hl-property">enum</span>(<span class="hl-type">GenderTypes</span>::<span class="hl-property">toNameArray</span>()),
+<span class="hl-gutter">78</span>            ])
+<span class="hl-gutter">79</span>            -&gt;<span class="hl-property">actions</span>([
+<span class="hl-gutter">80</span>                <span class="hl-type">Tables\Actions\EditAction</span>::<span class="hl-property">make</span>(),
+<span class="hl-gutter">81</span>                <span class="hl-type">Tables\Actions\DeleteAction</span>::<span class="hl-property">make</span>(),
+<span class="hl-gutter">82</span>            ])
+<span class="hl-gutter">83</span>            -&gt;<span class="hl-property">bulkActions</span>([
+<span class="hl-gutter">84</span>                <span class="hl-type">Tables\Actions\DeleteBulkAction</span>::<span class="hl-property">make</span>(),
+<span class="hl-gutter">85</span>            ]);
+<span class="hl-gutter">86</span>    }
+<span class="hl-gutter">87</span>
+<span class="hl-gutter">88</span>    <span class="hl-keyword">public</span> <span class="hl-keyword">static</span> <span class="hl-keyword">function</span> <span class="hl-property">getPages</span>(): <span class="hl-type">array</span>
+<span class="hl-gutter">89</span>    {
+<span class="hl-gutter">90</span>        <span class="hl-keyword">return</span> [
+<span class="hl-gutter">91</span>            <span class="hl-value">'index'</span> =&gt; <span class="hl-type">Pages\ListUsers</span>::<span class="hl-property">route</span>(<span class="hl-value">'/'</span>),
+<span class="hl-gutter">92</span>            <span class="hl-value">'create'</span> =&gt; <span class="hl-type">Pages\CreateUser</span>::<span class="hl-property">route</span>(<span class="hl-value">'/create'</span>),
+<span class="hl-gutter">93</span>            <span class="hl-value">'edit'</span> =&gt; <span class="hl-type">Pages\EditUser</span>::<span class="hl-property">route</span>(<span class="hl-value">'/{record}/edit'</span>),
+<span class="hl-gutter">94</span>        ];
+<span class="hl-gutter">95</span>    }
+<span class="hl-gutter">96</span>}</code></pre>
+
+<p>The Code above is the only thing you need to create a full CRUD for your User Model.</p>
+
+<p>Even if it's your first time seeing a Filament resource file you can understand 90% of the snippet's code above. Because of the great syntax of the Filament.</p>
+
+<p>One of the best features of Filament is the auto-populating of select options using the model relationship:</p>
+
+<pre class="highlight"><code class="language-php"><span class="hl-gutter">1</span><span class="hl-type">Forms\Components\Select</span>::<span class="hl-property">make</span>(<span class="hl-value">'roles'</span>)
+<span class="hl-gutter">2</span>                    -&gt;<span class="hl-property">multiple</span>()
+<span class="hl-gutter">3</span>                    -&gt;<span class="hl-property">relationship</span>(<span class="hl-value">'roles'</span>, <span class="hl-value">'name'</span>)
+<span class="hl-gutter">4</span>                    -&gt;<span class="hl-property">preload</span>(),</code></pre>
+
+<p>In these snippets, I've created a multiple select input for the <code>roles</code> relationship of my User model. with only 4 lines of code, it's gonna populate my select options using the <code>roles</code> relationship of my User model.
+It's getting, even more, interesting because these 4 lines of code also handle the creation or updating of the record relationship automatically and you don't need to do anything to save the selected options that users send with the create or edit form and that is amazing.</p>
+
+<p>Your relationship may have a lot of options and good practice is to add a search to the select something like Select2js is very useful in a typical application you must install and configure the Select2 and provide the needed data or create an API endpoint so Select2 can fetch the data remotely. but in the Filament the only thing that you need to do is to add one line of code.</p>
+
+<pre class="highlight"><code class="language-php"><span class="hl-gutter">  1</span><span class="hl-type">Forms\Components\Select</span>::<span class="hl-property">make</span>(<span class="hl-value">'roles'</span>)
+<span class="hl-gutter">  2</span>                    <span style="display: none">{~</span><span class="hl-blur"> -&gt;<span class="hl-property">multiple</span>() </span><span style="display: none">~}</span>
+<span class="hl-gutter hl-gutter-addition">3 +</span>                    <span class="hl-addition"> -&gt;<span class="hl-property">searchable</span>() </span>
+<span class="hl-gutter">  4</span>                    <span style="display: none">{~</span><span class="hl-blur"> -&gt;<span class="hl-property">relationship</span>(<span class="hl-value">'roles'</span>, <span class="hl-value">'name'</span>) </span><span style="display: none">~}</span>
+<span class="hl-gutter">  5</span>                    <span style="display: none">{~</span><span class="hl-blur"> -&gt;<span class="hl-property">preload</span>() </span><span style="display: none">~}</span>,</code></pre>
+
+<p>By adding one method <code>searchable()</code> you gonna have a Select2 kind of search on your select input. isn't that amazing?</p>
+
+<p>If your relationship is more complicated than a simple select input you can use <a href="https://filamentphp.com/docs/2.x/admin/resources/relation-managers">Relation managers</a> to handle the relationship between your resources.</p>
+
+<p>Filament also gives you the option to use its packages outside of the Filament Admin if your application is using the TALL Stack.</p>
+
+<p>Right now there are 3 plugins you can use outside of filament admin.
+<a href="https://filamentphp.com/docs/2.x/forms">Form builder</a>, <a href="https://filamentphp.com/docs/2.x/tables">Table builder</a> and <a href="https://filamentphp.com/docs/2.x/notifications">Notifications</a>.</p>
+
+<p>And it's not the end of the story Filament has a lot of third-party plugins you can use. right now that I am writing this article there are more than 140 plugins for Filament that you can find them <a href="https://filamentphp.com/plugins">here</a>.</p>
+
+<p>Filament also has a nice <a href="https://filamentphp.com/tricks">Tricks</a> section on their website where users share Tips and Tricks about how you can do things using Filament and Tall Stack.</p>
+
+<p>I hope this article helped you find great tools. You can share the tools You're using with me on Twitter.</p>
+        </div>
+
+        <div class="my-8">
+            <div class="w-full" style="overflow: visible !important;">
+    <script async data-uid="6d00b17a2b" src="https://ariaieboy.kit.com/6d00b17a2b/index.js"></script>
+</div>
+        </div>
+
+        <nav class="flex flex-col sm:flex-row sm:justify-between gap-2 overflow-hidden">
+                            <a href="https://ariaieboy.ir/blog/tall-stack-the-dreamland-for-a-laravel-developer" class="btn btn-ghost btn-sm text-left truncate max-w-full" title="Older Post: TALL Stack: the dreamland for a laravel developer">&larr; TALL Stack: the dreamland for a laravel developer</a>
+                                        <a href="https://ariaieboy.ir/blog/enjoyable-php-testing-with-pestphp" class="btn btn-ghost btn-sm text-left sm:text-right truncate max-w-full" title="Newer Post: Enjoyable PHP Testing with PestPHP">Enjoyable PHP Testing with PestPHP &rarr;</a>
+                    </nav>
+    </article>
+        <footer class="bg-base-200 text-base-content border-t border-base-300 mt-auto">
+    <div class="max-w-2xl mx-auto p-8 flex flex-col items-center gap-4">
+        <p class="text-sm opacity-70">&copy; 2022-2026 AriaieBOY Blog. All rights reserved.</p>
+
+        <nav class="flex flex-wrap justify-center gap-2 text-sm">
+            <a href="/blog" class="btn btn-ghost btn-sm">Blog</a>
+            <a href="/uses" class="btn btn-ghost btn-sm">Uses</a>
+            <a href="/about" class="btn btn-ghost btn-sm">About</a>
+            <a href="/contact" class="btn btn-ghost btn-sm">Contact</a>
+        </nav>
+
+        <nav class="flex gap-4">
+            <a href="https://github.com/ariaieboy" target="_blank" rel="noopener noreferrer" class="btn btn-ghost btn-circle" title="GitHub">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg>
+            </a>
+            <a href="https://x.com/ariaieboy_ir" target="_blank" rel="noopener noreferrer" class="btn btn-ghost btn-circle" title="X (Twitter)">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            </a>
+            <a href="https://bsky.app/profile/ariaieboy.ir" target="_blank" rel="noopener noreferrer" class="btn btn-ghost btn-circle" title="Bluesky">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M12 10.8c-1.087-2.114-4.046-6.053-6.798-7.995C2.566.944 1.561 1.266.902 1.565.139 1.908 0 3.08 0 3.768c0 .69.378 5.65.624 6.479.815 2.736 3.713 3.66 6.383 3.364.136-.02.275-.039.415-.056-.138.022-.276.04-.415.056-3.912.58-7.387 2.005-2.83 7.078 5.013 5.19 6.87-1.113 7.823-4.308.953 3.195 2.05 9.271 7.733 4.308 4.267-4.308 1.172-6.498-2.74-7.078a8.741 8.741 0 0 1-.415-.056c.14.017.279.036.415.056 2.67.297 5.568-.628 6.383-3.364.246-.828.624-5.79.624-6.478 0-.69-.139-1.861-.902-2.206-.659-.298-1.664-.62-4.3 1.24C16.046 4.748 13.087 8.687 12 10.8Z"/></svg>
+            </a>
+            <a href="/blog/feed.atom" class="btn btn-ghost btn-circle" title="RSS Feed">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 0 1 2.18 2.18C8.36 19 7.38 20 6.18 20C5 20 4 19 4 17.82a2.18 2.18 0 0 1 2.18-2.18M4 4.44A15.56 15.56 0 0 1 19.56 20h-2.83A12.73 12.73 0 0 0 4 7.27V4.44m0 5.66a9.9 9.9 0 0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4 12.93V10.1Z"/></svg>
+            </a>
+        </nav>
+    </div>
+</footer>
+            </body>
+</html>
