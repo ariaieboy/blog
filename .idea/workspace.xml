@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4201626-96e1-46d7-aaae-7166515ee4a5" name="Changes" comment="wip">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/404/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/404/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/build/assets/main-DM0ZMoeE.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/build/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/build/manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/blog/10-free-performance-using-laravel-octane-and-swoole/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/10-free-performance-using-laravel-octane-and-swoole/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/blog/11-code-splitting-and-lazy-loading-alpine-components/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/11-code-splitting-and-lazy-loading-alpine-components/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/blog/12-how-do-i-backup-my-websites/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/12-how-do-i-backup-my-websites/index.html" afterDir="false" />
@@ -43,8 +46,10 @@
       <change beforePath="$PROJECT_DIR$/docs/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sitemap.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/uses/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/uses/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_assets/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/source/_assets/css/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/source/_assets/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/_layouts/main.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/source/_layouts/main.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/uses.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/source/uses.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_partials/hero.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/source/_partials/hero.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

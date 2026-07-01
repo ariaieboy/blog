@@ -7,7 +7,7 @@
                 </div>
             </div>
             <h1 class="text-3xl sm:text-5xl font-bold mb-2">Hi, I’m AriaieBOY</h1>
-            <p class="py-4 text-base sm:text-lg opacity-80">Self-Employed, Full-Stack web developer at Rakolo.com</p>
+            <p class="py-4 text-base sm:text-lg text-base-content/80">Self-Employed, Full-Stack web developer at Rakolo.com</p>
             <div class="flex justify-center gap-3 flex-wrap">
                 <a href="/blog" class="btn btn-primary">Read the Blog</a>
                 <a href="/uses" class="btn btn-outline btn-primary">/uses</a>

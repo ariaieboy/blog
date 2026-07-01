@@ -3,3 +3,9 @@
     white-space: pre-wrap;
     word-break: break-word;
 }
+
+/* Ensure sufficient contrast for outline buttons on hero dark bg */
+.hero .btn-outline.btn-primary {
+    --color-primary: oklch(72% 0.18 259.794);
+}
+

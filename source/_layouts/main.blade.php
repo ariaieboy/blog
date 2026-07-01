@@ -28,7 +28,8 @@
         @endif
 
         @viteRefresh()
-        <link rel="preload" href="{{ vite('source/_assets/css/main.css') }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <style>body{min-height:100vh;display:flex;flex-direction:column}footer{margin-top:auto}.max-w-2xl{max-width:42rem;margin-left:auto;margin-right:auto}.flex-1{flex:1}</style>
+        <link rel="stylesheet" href="{{ vite('source/_assets/css/main.css') }}" media="print" onload="this.media='all'">
         <noscript><link rel="stylesheet" href="{{ vite('source/_assets/css/main.css') }}"></noscript>
 {{--        <script defer type="module" src="{{ vite('source/_assets/js/main.js') }}"></script>--}}
         @stack('head')
@@ -39,7 +40,9 @@
             @include('_partials.header')
         @endif
 
-        @yield('body')
+        <main class="flex-1">
+            @yield('body')
+        </main>
         @include('_partials.footer')
         @stack('scripts')
     </body>
